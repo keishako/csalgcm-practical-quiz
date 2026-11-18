@@ -6,7 +6,7 @@ import Levenshtein
 #   return distance
 
 # w/o libraries
-def levenshtein_distance(a, b):
+def edit_table(a, b):
     m, n = len(a), len(b)
     dp = [[0 for _ in range(n+1)] for _ in range(m+1)]
 
@@ -30,3 +30,6 @@ def levenshtein_distance(a, b):
             )
 
     return dp[m][n]
+
+def levenshtein_distance(a, b):
+    return edit_table(a, b)[len(a)][len(b)]
