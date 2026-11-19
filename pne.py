@@ -4,7 +4,11 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 
 # Function to extract the proper nouns 
+nltk.download('punkt_tab')
+nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger_eng')
 
+stop_words = set(stopwords.words("english"))
 def ProperNounExtractor(file_path):
 
     with open(file_path, 'r', encoding='utf-8') as file:
