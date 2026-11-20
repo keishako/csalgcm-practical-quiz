@@ -7,6 +7,8 @@ from nltk.corpus import stopwords
 
 dataset_path = r"dataset/text_files"
 
+other_language = re.compile('[^\u0020-\u024F\n]')
+
 def load_corpus(folder):
     texts = []
     for file in os.listdir(folder):
@@ -21,10 +23,10 @@ text_files = load_corpus(dataset_path)
 print(f"Loaded {len(text_files)} files from text_files")
 
 def clean_text(text):
-    text = text.lower()
-    text = re.sub(r"https\\S+", "", text)
-    text = re.sub(r"[^a-z\\s]", "", text)
-    text = re.sub(r"\\s+", " ", text).strip()
+    # text = text.lower()
+    text = re.sub(r"https?://\S+", "", text)
+    text = other_language.sub("", text)
+    text = re.sub(r"[ \t]+", " ", text).strip()
     
     return text
 
@@ -35,6 +37,8 @@ df = pd.DataFrame({
     "label": ["Text Files"] * len(text_files_clean)
 })
 
-df.to_csv("dataset/cleaned_text_files.csv", index=False, encoding="utf-8")
+# df.to_csv("dataset/cleaned_text_files.csv", index=False, encoding="utf-8")
+with open("dataset/cleaned_text_files.txt", "w", encoding="utf-8") as file:
+    file.write("\n".join(text_files_clean))
 
-print("cleaned_text_files.csv is saved to dataset")
+print("cleaned_text_files.txt is saved to dataset")
