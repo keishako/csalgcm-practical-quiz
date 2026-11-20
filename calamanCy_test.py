@@ -6,14 +6,23 @@ clean_words = []        # dataset without proper nouns
 proper_noun_words = []  # proper noun words that are removed (for checking purposes)
 
 # dataset/text_files/output_file_50.txt
-with open('output_file_150.txt', 'r', encoding='utf-8') as file:
+with open('output_file_50.txt', 'r', encoding='utf-8') as file:
     lines = [line.strip() for line in file if line.strip()]
+
+# used dictionary_set.py
+with open("tagalog_word_list.txt", "r", encoding="utf-8") as file:
+    tagalog_words = set(line.strip().lower() for line in file if line.strip())
 
 for doc in nlp.pipe(lines, batch_size=50):
     for token in doc:
-        is_proper_name = bool(token.ent_type_)
+        is_capitalized = token.text[:1].isupper()
 
-        is_capital_mid_sentence = token.text[:1].isupper() and not token.is_sent_start
+        # use calamanCy name detection except when word starts a sentence and normal tagalog word
+        is_proper_name = (bool(token.ent_type_) and is_capitalized and not 
+                          (token.is_sent_start and token.text.lower() in tagalog_words))
+
+        # start with capital AND NOT the first word of sentence AND NOT normal tagalog words
+        is_capital_mid_sentence = is_capitalized and not token.is_sent_start and token.text.lower() not in tagalog_words
 
         if is_proper_name or is_capital_mid_sentence:
             proper_noun_words.append(token.text)
