@@ -12,3 +12,4 @@ def split_file(file_path, lines_per_file):
 
 if __name__ == "__main__":
     split_file('dataset/Raw.txt', 2171)
+

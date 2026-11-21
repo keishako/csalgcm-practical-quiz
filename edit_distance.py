@@ -1,12 +1,17 @@
-import Levenshtein
+import pandas as pd
+
+filename = "grouped_words.csv"
 
 # using libraries
-# def lev_dist(a, b):
-#    distance = Levenshtein.distance(a,b)
-#   return distance
+'''
+import Levenshtein
+def lev_dist(a, b):
+   distance = Levenshtein.distance(a,b)
+   return distance
+'''
 
 # w/o libraries
-def edit_table(a, b):
+def levenshtein_distance(a, b):
     m, n = len(a), len(b)
     dp = [[0 for _ in range(n+1)] for _ in range(m+1)]
 
@@ -31,5 +36,15 @@ def edit_table(a, b):
 
     return dp[m][n]
 
+'''
 def levenshtein_distance(a, b):
     return edit_table(a, b)[len(a)][len(b)]
+'''
+
+if __name__ == "__main__":
+    df = pd.read_csv(filename, encoding="utf-8")
+
+    groups = (
+        df.iloc[:,0]
+    )
+

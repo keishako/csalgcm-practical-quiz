@@ -31,7 +31,11 @@ def clean_text(text):
     return text
 
 text_files_clean = [clean_text(t) for t in text_files]
+print("text_files_clean is initialized")
 
+
+
+'''
 df = pd.DataFrame({
     "text": text_files_clean,
     "label": ["Text Files"] * len(text_files_clean)
@@ -42,3 +46,4 @@ with open("dataset/cleaned_text_files.txt", "w", encoding="utf-8") as file:
     file.write("\n".join(text_files_clean))
 
 print("cleaned_text_files.txt is saved to dataset")
+'''

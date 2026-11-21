@@ -1,3 +1,9 @@
+import pandas as pd
+import csv
+import unicodedata
+
+filename = "count_words.csv"
+
 # each rule: (old, new), order matters
 KEY_RULES = [
     ("ch", "ts"),
@@ -76,4 +82,26 @@ def make_groups(counts):
         groups.append(current)
 
     return groups
+    
+if __name__ == "__main__":
+    df = pd.read_csv(filename, usecols = [0], encoding="utf-8")
+
+    words = []
+    for raw in df.iloc[:, 0].dropna(): 
+        cleaned = unicodedata.normalize("NFC", str(raw)).strip().lower() # normalizes accented letters
+        if cleaned:
+            words.append(cleaned)
+
+    groups = make_groups(words)
+
+    with open("grouped_words.csv", "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["group_id", "word"])
+
+        for group_id, group in enumerate(groups, start=1):
+            for word in group:
+                writer.writerow([group_id, word])
+
+        print("grouped_words.csv is in the files")
+
     
