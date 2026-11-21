@@ -1,5 +1,19 @@
-from find_difference import find_differences
+import csv
 
+from find_difference import find_differences
+from groupings import make_groups
+from write_csv import write_csv
+
+counts = {}
+with open('count_words.csv', 'r', newline="", encoding='utf-8') as file:
+    read_count = csv.DictReader(file)
+    for row in read_count:
+        # this makes {"word": "opo", "count": 20} = counts["opo"] = 20
+        counts[row["word"].strip().lower()] = int(row["count"])
+
+with open('tagalog_word_list.txt', 'r', newline="", encoding='utf-8') as file:
+    dictionary = set(line.strip().lower() for line in file if line.strip())
+    
 ALLOWED_SWAPS = {
     ("ch", "ts"),
     ("e", "i"),
@@ -10,7 +24,8 @@ ALLOWED_SWAPS = {
     ("c", "k"),
     ("v", "b"),
     ("f", "p"),
-    # add more when dataset is released
+    ("u", ""),
+    ("i", ""),
 }
 
 # assuming that max num of places where 2 words can be different
@@ -54,3 +69,10 @@ def make_pairs(group, counts, dictionary):
                 break
 
     return pairs 
+
+pairs = []
+for group in make_groups(counts):
+    pairs += make_pairs(group, counts, dictionary)
+
+write_variants_csv = write_csv(pairs, counts, "Variants.csv")
+print(write_variants_csv, "All done!")

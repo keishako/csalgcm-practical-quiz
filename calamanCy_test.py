@@ -6,7 +6,7 @@ clean_words = []        # dataset without proper nouns
 proper_noun_words = []  # proper noun words that are removed (for checking purposes)
 
 # dataset/text_files/output_file_50.txt
-with open('dataset/text_files/output_file_50.txt', 'r', encoding='utf-8') as file:
+with open('dataset/cleaned_text_files.txt', 'r', encoding='utf-8') as file:
     lines = [line.strip() for line in file if line.strip()]
 
 # used dictionary_set.py

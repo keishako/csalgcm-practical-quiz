@@ -11,7 +11,7 @@ def lev_dist(a, b):
 '''
 
 # w/o libraries
-def levenshtein_distance(a, b):
+def edit_table(a, b):
     m, n = len(a), len(b)
     dp = [[0 for _ in range(n+1)] for _ in range(m+1)]
 
@@ -34,17 +34,19 @@ def levenshtein_distance(a, b):
                 dp[i-1][j-1] + cost  # substitution
             )
 
-    return dp[m][n]
+    return dp
 
-'''
+
 def levenshtein_distance(a, b):
     return edit_table(a, b)[len(a)][len(b)]
-'''
 
+'''
 if __name__ == "__main__":
     df = pd.read_csv(filename, encoding="utf-8")
 
     groups = (
         df.iloc[:,0]
     )
+'''
+
 
