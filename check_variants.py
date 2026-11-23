@@ -1,4 +1,5 @@
 import csv
+import time
 
 from find_difference import find_differences
 from groupings import make_groups
@@ -70,9 +71,18 @@ def make_pairs(group, counts, dictionary):
 
     return pairs 
 
+start = time.perf_counter()
+
+# ===== EXISTING EXTRACTION PIPELINE =====
 pairs = []
 for group in make_groups(counts):
     pairs += make_pairs(group, counts, dictionary)
+# ============================================
+
+runtime = time.perf_counter() - start
 
 write_variants_csv = write_csv(pairs, counts, "Variants.csv")
 print(write_variants_csv, "All done!")
+
+print(f"Extraction runtime: {runtime:.2f} seconds")
+print(f"Final accepted variant pairs: {len(pairs):,}")
