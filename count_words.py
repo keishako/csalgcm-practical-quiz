@@ -1,9 +1,9 @@
 import csv
 
 # word must appear at least 2 times to be kept
-MIN_COUNT = 2
+MIN_COUNT = 10
 # word must have at least 2 letters to be kept
-MIN_LEN = 2
+MIN_LEN = 3
 
 file_path = "dataset/WHOLE_calamanCy-result/clean_output_file.txt"
 # file_path = "clean_output_file_50.txt" # for testing
@@ -39,7 +39,9 @@ if __name__ == "__main__":
     with open('count_words.csv', 'w', newline="", encoding='utf-8') as counted_file:
         writer = csv.writer(counted_file)
         writer.writerow(["word", "count"])
-        for key, value in filtered_counts.items():
+        # sort second part (count)
+        # descending: put reverse=True
+        for key, value in sorted(filtered_counts.items(), key=lambda item: item[1]):
             writer.writerow([key, value])
 
     print("count_words.csv is in the files")
