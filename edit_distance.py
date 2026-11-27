@@ -1,8 +1,4 @@
-import pandas as pd
-
-# filename = "grouped_words.csv"
-
-# using libraries
+# using libraries (optional)
 '''
 import Levenshtein
 def lev_dist(a, b):

@@ -86,7 +86,7 @@ def make_groups(counts):
 
     return groups
     
-if __name__ == "__main__":
+def g_main():
     df = pd.read_csv(filename, usecols = [0], encoding="utf-8")
 
     words = []

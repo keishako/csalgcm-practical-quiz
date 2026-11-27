@@ -29,7 +29,7 @@ def count_words(words, min_count=MIN_COUNT, min_len=MIN_LEN):
             stored[word] = count
     return stored
 
-if __name__ == "__main__":
+def cw_main():
     with open(file_path, "r", encoding="utf-8") as file:
         text = file.read()
 

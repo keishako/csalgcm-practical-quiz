@@ -8,11 +8,14 @@ from spacy.lang.char_classes import HYPHENS
 '''
 TO DOWNLOAD CALAMANCY:
 - write 'pip install calamanCy' in terminal
+TO DOWNLOAD NLTK:
+- write 'pip install calamanCy' in terminal
 '''
 
 # download if nltk words is not downloaded (only run this code only ONCE) -> comment out once downloaded
 nltk.download('words') 
 
+<<<<<<< HEAD
 nlp = calamancy.load("tl_calamancy_md", disable=["tagger", "morphologizer", "trainable_lemmatizer","parser"])  # loads the latest version
 nlp.add_pipe("sentencizer")
 
@@ -20,6 +23,9 @@ nlp.add_pipe("sentencizer")
 # only remove that splits hyphens between letters
 infixes = [rule for rule in nlp.Defaults.infixes if HYPHENS not in rule]
 nlp.tokenizer.infix_finditer = compile_infix_regex(infixes).finditer
+=======
+nlp = calamancy.load("tl_calamancy_md", disable=["tagger", "morphologizer", "trainable_lemmatizer","parser"])  # loads the latest version and removes unnecessary components
+>>>>>>> 8216836a1b9fc627ee36ae472dbc2dcc742fc2a7
 
 # used dictionary_set.py
 with open("dataset/dictionary/tagalog_word_list.txt", "r", encoding="utf-8") as file:
@@ -37,7 +43,14 @@ def normalize_valid_word(token_text):
     return normalized # returns word with apostrophe and hyphen
   return None # skips symbols, punctuation, other unnecessary characters
 
-for idx, cleaned_text in enumerate(cf.text_files_clean): 
+# START_IDX = 0 # remove comment if extraction process was lost
+
+for idx, cleaned_text in enumerate(cf.text_files_clean):
+
+    '''
+    if idx < START_IDX: # comment out if not needed
+        continue
+    '''
 
     clean_words = []        # dataset without proper nouns
     proper_noun_words = []  # proper noun words that are removed (for checking purposes)
@@ -77,17 +90,15 @@ for idx, cleaned_text in enumerate(cf.text_files_clean):
                 ):
                     clean_words.append(valid_word)       
 
-        # print([(ent.text, ent.label_) for ent in doc.ents])
-
     clean_words_file = f"clean_output_file_{idx}.txt"
     pnoun_words_file = f"proper_noun_output_file_{idx}.txt"
 
     with open(clean_words_dir + f"clean_output_file_{idx}.txt", "w", encoding="utf-8") as file:
         file.write("\n".join(clean_words))
 
-    print(f"{clean_words_file} created successfully.")
+    print(f"{clean_words_file} created successfully")
 
     with open(pnoun_words_dir + f"proper_noun_output_file_{idx}.txt", "w", encoding="utf-8") as file:
         file.write("\n".join(proper_noun_words))
 
-    print(f"{pnoun_words_file} created successfully.")
+    print(f"{pnoun_words_file} created successfully")

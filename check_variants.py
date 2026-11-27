@@ -1,16 +1,11 @@
 import csv
 import time
 
+from count_words import cw_main
+from groupings import g_main
 from find_difference import find_differences
 from groupings import make_groups
 from write_csv import write_csv
-
-counts = {}
-with open('results/csvfiles/count_words.csv', 'r', newline="", encoding='utf-8') as file:
-    read_count = csv.DictReader(file)
-    for row in read_count:
-        # this makes {"word": "opo", "count": 20} = counts["opo"] = 20
-        counts[row["word"].strip().lower()] = int(row["count"])
 
 with open('dataset/dictionary/tagalog_word_list.txt', 'r', newline="", encoding='utf-8') as file:
     dictionary = set(line.strip().lower() for line in file if line.strip())
@@ -73,18 +68,31 @@ def make_pairs(group, counts, dictionary):
 
     return pairs 
 
-start = time.perf_counter()
+if __name__ == "__main__":
+    cw_main()
 
-# ===== EXISTING EXTRACTION PIPELINE =====
-pairs = []
-for group in make_groups(counts):
-    pairs += make_pairs(group, counts, dictionary)
-# ============================================
+    counts = {}
+    with open('results/csvfiles/count_words.csv', 'r', newline="", encoding='utf-8') as file:
+        read_count = csv.DictReader(file)
+        for row in read_count:
+            # this makes {"word": "opo", "count": 20} = counts["opo"] = 20
+            counts[row["word"].strip().lower()] = int(row["count"])
 
-runtime = time.perf_counter() - start
+    g_main()
 
-write_variants_csv = write_csv(pairs, counts, "Variants.csv")
-print(write_variants_csv, "All done!")
+    start = time.perf_counter()
 
-print(f"Extraction runtime: {runtime:.2f} seconds")
-print(f"Final accepted variant pairs: {len(pairs):,}")
+    # ===== EXISTING EXTRACTION PIPELINE =====
+    pairs = []
+    for group in make_groups(counts):
+        pairs += make_pairs(group, counts, dictionary)
+    # ============================================
+
+    runtime = time.perf_counter() - start
+
+    write_variants_csv = write_csv(pairs, counts, "results/variants.csv")
+    print(write_variants_csv, "All done!")
+    print("variants.csv is in the results folder")
+
+    print(f"Extraction runtime: {runtime:.2f} seconds")
+    print(f"Final accepted variant pairs: {len(pairs):,}")
