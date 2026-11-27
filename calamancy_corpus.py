@@ -3,7 +3,12 @@ import cleaning_files as cf
 import nltk
 from nltk.corpus import words
 
-# download if nltk words is not downloaded
+'''
+TO DOWNLOAD CALAMANCY:
+- write 'pip install calamanCy' in terminal
+'''
+
+# download if nltk words is not downloaded (only run this code only ONCE)
 nltk.download('words') 
 
 nlp = calamancy.load("tl_calamancy_md", disable=["tagger", "morphologizer", "trainable_lemmatizer","parser"])  # loads the latest version
@@ -24,13 +29,13 @@ def normalize_valid_word(token_text):
     return normalized # returns word with apostrophe and hyphen
   return None # skips symbols, punctuation, other unnecessary characters
 
-# START_IDX = 53
+START_IDX = 100
 
 for idx, cleaned_text in enumerate(cf.text_files_clean):
-    '''
+
     if idx < START_IDX: # delete when done
         continue
-    '''
+    
 
     clean_words = []        # dataset without proper nouns
     proper_noun_words = []  # proper noun words that are removed (for checking purposes)

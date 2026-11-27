@@ -23,7 +23,7 @@ def clean_text(text):
     # text = text.lower()
     text = re.sub(r"https?://\S+", "", text)
     text = other_language.sub("", text)
-    text = re.sub(r'[^\w\d\s\'\-]+', "", text) #includes words with hypen and apostrophe?
+    text = re.sub(r'[^\w\d\s\'\-]+', "", text) #includes words with hyphen and apostrophe
     text = re.sub(r"[ \t]+", " ", text).strip()
     
     return text
