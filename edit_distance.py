@@ -40,13 +40,4 @@ def edit_table(a, b):
 def levenshtein_distance(a, b):
     return edit_table(a, b)[len(a)][len(b)]
 
-'''
-if __name__ == "__main__":
-    df = pd.read_csv(filename, encoding="utf-8")
-
-    groups = (
-        df.iloc[:,0]
-    )
-'''
-
 

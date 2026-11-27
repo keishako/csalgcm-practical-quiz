@@ -1,6 +1,5 @@
 import os
 import re
-# import pandas as pd
 
 dataset_path = r"dataset/text_files"
 
@@ -31,17 +30,3 @@ def clean_text(text):
 text_files_clean = [clean_text(t) for t in text_files]
 print("text_files_clean is initialized")
 
-
-
-'''
-df = pd.DataFrame({
-    "text": text_files_clean,
-    "label": ["Text Files"] * len(text_files_clean)
-})
-
-# df.to_csv("dataset/cleaned_text_files.csv", index=False, encoding="utf-8")
-with open("dataset/cleaned_text_files.txt", "w", encoding="utf-8") as file:
-    file.write("\n".join(text_files_clean))
-
-print("cleaned_text_files.txt is saved to dataset")
-'''

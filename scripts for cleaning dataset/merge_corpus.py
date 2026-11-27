@@ -1,3 +1,4 @@
+import split_dataset as sd
 import cleaning_files as cf
 
 
@@ -9,12 +10,10 @@ clean_text_files = cf.load_corpus(folder)
 def mergetxt(texts, output_path):
     
     with open(output_path, "w", encoding="utf-8") as combined_file:
-        for text in texts:
-            cleaned = text.strip()
-        if cleaned:
-            combined_file.write(cleaned + "\n")
+        combined_file.write("\n".join(texts))
 
     print("combined_clean_output was created")
 
-if __name__ == "__main__":
-    mergetxt(clean_text_files, combined_clean_output)
+
+mergetxt(clean_text_files, combined_clean_output)
+

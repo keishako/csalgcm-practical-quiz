@@ -36,7 +36,7 @@ if __name__ == "__main__":
     tokens = text.split()
     filtered_counts = count_words(tokens)
 
-    with open('csvfiles/count_words.csv', 'w', newline="", encoding='utf-8') as counted_file:
+    with open('results/csvfiles/count_words.csv', 'w', newline="", encoding='utf-8') as counted_file:
         writer = csv.writer(counted_file)
         writer.writerow(["word", "count"])
         # sort second part (count)
