@@ -6,12 +6,14 @@ from nltk.corpus import words
 '''
 TO DOWNLOAD CALAMANCY:
 - write 'pip install calamanCy' in terminal
+TO DOWNLOAD NLTK:
+- write 'pip install calamanCy' in terminal
 '''
 
 # download if nltk words is not downloaded (only run this code only ONCE) -> comment out once downloaded
 nltk.download('words') 
 
-nlp = calamancy.load("tl_calamancy_md", disable=["tagger", "morphologizer", "trainable_lemmatizer","parser"])  # loads the latest version
+nlp = calamancy.load("tl_calamancy_md", disable=["tagger", "morphologizer", "trainable_lemmatizer","parser"])  # loads the latest version and removes unnecessary components
 
 # used dictionary_set.py
 with open("dataset/dictionary/tagalog_word_list.txt", "r", encoding="utf-8") as file:
@@ -76,17 +78,15 @@ for idx, cleaned_text in enumerate(cf.text_files_clean):
                 ):
                     clean_words.append(valid_word)       
 
-        # print([(ent.text, ent.label_) for ent in doc.ents])
-
     clean_words_file = f"clean_output_file_{idx}.txt"
     pnoun_words_file = f"proper_noun_output_file_{idx}.txt"
 
     with open(clean_words_dir + f"clean_output_file_{idx}.txt", "w", encoding="utf-8") as file:
         file.write("\n".join(clean_words))
 
-    print(f"{clean_words_file} created successfully.")
+    print(f"{clean_words_file} created successfully")
 
     with open(pnoun_words_dir + f"proper_noun_output_file_{idx}.txt", "w", encoding="utf-8") as file:
         file.write("\n".join(proper_noun_words))
 
-    print(f"{pnoun_words_file} created successfully.")
+    print(f"{pnoun_words_file} created successfully")

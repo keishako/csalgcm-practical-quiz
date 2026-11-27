@@ -1,11 +1,36 @@
 import calamancy
+import cleaning_files as cf
+import nltk
+from nltk.corpus import words
 
-nlp = calamancy.load("tl_calamancy_md")  # loads the latest version
+'''
+TO DOWNLOAD CALAMANCY:
+- write 'pip install calamanCy' in terminal
+TO DOWNLOAD NLTK:
+- write 'pip install calamanCy' in terminal
+'''
+
+# download if nltk words is not downloaded (only run this code only ONCE) -> comment out once downloaded
+nltk.download('words') 
+
+nlp = calamancy.load("tl_calamancy_md", disable=["tagger", "morphologizer", "trainable_lemmatizer","parser"])  # loads the latest version
+
+# used dictionary_set.py
+with open("dataset/dictionary/tagalog_word_list.txt", "r", encoding="utf-8") as file:
+    tagalog_words = set(line.strip().lower() for line in file if line.strip())
+
+english_words = {w.lower() for w in words.words()}
+
+def normalize_valid_word(token_text):
+  normalized = token_text.replace("’", "'").strip("-'") # turn curly apostrophe to standardized one: '
+  stripped = normalized.replace("-", "").replace("'", "") # temporarily removes hyphen and apostrophe
+  if bool(stripped) and stripped.isalpha():
+    return normalized # returns word with apostrophe and hyphen
+  return None # skips symbols, punctuation, other unnecessary characters
 
 clean_words = []        # dataset without proper nouns
 proper_noun_words = []  # proper noun words that are removed (for checking purposes)
 
-# dataset/text_files/output_file_50.txt
 with open('dataset/cleaned_text_files.txt', 'r', encoding='utf-8') as file:
     lines = [line.strip() for line in file if line.strip()]
 
@@ -13,26 +38,46 @@ with open('dataset/cleaned_text_files.txt', 'r', encoding='utf-8') as file:
 with open("tagalog_word_list.txt", "r", encoding="utf-8") as file:
     tagalog_words = set(line.strip().lower() for line in file if line.strip())
 
-for doc in nlp.pipe(lines, batch_size=50):
+
+for doc in nlp.pipe(lines, batch_size=512):
     for token in doc:
+        text = token.text
+        if not text:
+            continue
+
+        lower_text = text.lower()
+        in_dict = lower_text in tagalog_words
         is_capitalized = token.text[:1].isupper()
 
         # use calamanCy name detection except when word starts a sentence and normal tagalog word
-        is_proper_name = (bool(token.ent_type_) and is_capitalized and not 
-                          (token.is_sent_start and token.text.lower() in tagalog_words))
+        is_proper_name = (
+            bool(token.ent_type_) 
+            and is_capitalized 
+            and not (token.is_sent_start and in_dict)
+        )
 
         # start with capital AND NOT the first word of sentence AND NOT normal tagalog words
-        is_capital_mid_sentence = is_capitalized and not token.is_sent_start and token.text.lower() not in tagalog_words
+        is_capital_mid_sentence = (
+            is_capitalized 
+            and not token.is_sent_start 
+            and not in_dict
+        )
 
         if is_proper_name or is_capital_mid_sentence:
-            proper_noun_words.append(token.text)
-        elif token.is_alpha:
-            clean_words.append(token.text.lower())
+            proper_noun_words.append(text)
+        else:
+            valid_word = normalize_valid_word(lower_text)
+            if valid_word and (
+                valid_word in tagalog_words or valid_word not in english_words
+            ):
+                clean_words.append(valid_word)       
 
-    print([(ent.text, ent.label_) for ent in doc.ents])
+    # print([(ent.text, ent.label_) for ent in doc.ents])
 
-with open("clean_output_file_50.txt", "w", encoding="utf-8") as file:
+with open("dataset/WHOLE_calamanCy-result/clean_output_file.txt", "w", encoding="utf-8") as file:
     file.write("\n".join(clean_words))
 
-with open("proper_noun_output_file_50.txt", "w", encoding="utf-8") as file:
+with open("dataset/WHOLE_calamanCy-result/proper_noun_output_file.txt", "w", encoding="utf-8") as file:
     file.write("\n".join(proper_noun_words))
+
+print("Files created successfully")
