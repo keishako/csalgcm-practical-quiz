@@ -4,6 +4,8 @@ Authors: Keisha Ko and Jeannine Ledesma
 
 Credits:  
 * Miranda, L. J. (2023). CalamanCY: A Tagalog natural language processing toolkit. In Workshop for NLP Open Source Software (NLP-OSS) (pp. 1–7). https://doi.org/10.18653/v1/2023.nlposs-1.1
+* Ligunas, L. (2022). Pinoy Dictionary Scraper [Computer software]. GitHub. https://github.com/luisligunas/pinoy-dictionary-scraper
+* Oco, N., Syliongka, L. R., Sison-Buban, R., & Ilao, J. (2024, December). Extracting Filipino Spelling Variants. In Proceedings of the 38th Pacific Asia Conference on Language, Information and Computation (pp. 1433-1438).
 
 ## How to run:
 
