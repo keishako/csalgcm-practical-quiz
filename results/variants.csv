@@ -1,0 +1,486 @@
+word1,word2,word1_count,word2_count,character_difference
+aanunsiyo,aanunsyo,11,10,i vs. 
+aborsiyon,aborsyon,13,21,i vs. 
+ahensiya,ahensya,310,229,i vs. 
+ahensiyang,ahensyang,127,62,i vs. 
+akademiya,akademya,54,238,i vs. 
+akademiyang,akademyang,13,30,i vs. 
+akses,aksis,18,107,e vs. i
+aksiyong,aksyong,65,22,i vs. 
+aktuwal,aktwal,253,170,u vs. 
+ambulansiya,ambulansya,17,16,i vs. 
+antibiyotiko,antibyotiko,96,28,i vs. 
+ano,anu,1226,21,o vs. u
+anunsiyo,anunsyo,47,133,i vs. 
+aniya,anya,41,19,i vs. 
+apela,apila,105,15,e vs. i
+areang,ariang,27,63,e vs. i
+artileriya,artilerya,23,30,i vs. 
+artepakto,artipakto,70,40,e vs. i
+artepaktong,artipaktong,20,18,e vs. i
+artesano,artisano,49,19,e vs. i
+aseksuwal,asekswal,34,10,u vs. 
+atraksiyon,atraksyon,106,65,i vs. 
+atraksiyong,atraksyong,43,20,i vs. 
+babaeng,babaing,1766,40,e vs. i
+bar,var,407,12,b vs. v
+barayti,varayti,11,13,b vs. v
+bariyable,baryable,18,75,i vs. 
+baryant,varyant,68,25,b vs. v
+bibe,bibi,23,30,e vs. i
+began,vegan,10,15,b vs. v
+bilyon,bilyun,503,17,o vs. u
+bida,vida,385,14,b vs. v
+bersa,versa,12,23,b vs. v
+bersiyong,bersyong,231,213,i vs. 
+birtuwal,birtwal,22,17,u vs. 
+bisiyestong,bisyestong,19,370,i vs. 
+beto,betu,23,14,o vs. u
+blog,vlog,109,19,b vs. v
+blogger,vlogger,19,30,b vs. v
+bukong,bukung,46,33,o vs. u
+bolang,bulang,59,26,o vs. u
+bulate,bulati,38,42,e vs. i
+bulutong,bulutung,74,10,o vs. u
+bolyum,volyum,400,37,b vs. v
+bombilya,bumbilya,15,21,o vs. u
+bombero,bumbero,28,39,o vs. u
+burokrasya,burukrasya,11,21,o vs. u
+buoin,buuin,12,144,o vs. u
+biyahe,byahe,143,10,i vs. 
+galeriya,galerya,34,25,i vs. 
+gamo,gamu,12,13,o vs. u
+ganon,ganun,11,38,o vs. u
+ganiyang,ganyang,43,61,i vs. 
+gayon,gayun,1342,66,o vs. u
+grabedad,grabidad,22,126,e vs. i
+graduwado,gradwado,15,131,u vs. 
+gobyernong,gubyernong,103,10,o vs. u
+gulong,gulung,275,11,o vs. u
+guwardiya,guwardya,89,26,i vs. 
+halo,halu,443,15,o vs. u
+heteroseksuwal,heterosekswal,56,13,u vs. 
+homoseksuwal,homosekswal,154,58,u vs. 
+homoseksuwalidad,homosekswalidad,79,17,u vs. 
+hurisdiksiyon,hurisdiksyon,153,125,i vs. 
+hosto,husto,50,242,o vs. u
+ibinebenta,ibinibenta,169,17,e vs. i
+ebidensiya,ebidensya,612,178,i vs. 
+ebidensiyang,ebidensyang,174,16,i vs. 
+ekstensiyon,ekstensyon,52,20,i vs. 
+ekonomiya,ekonomya,2947,15,i vs. 
+ilegal,iligal,206,79,e vs. i
+eleksiyon,eleksyon,100,144,i vs. 
+imbensiyon,imbensyon,109,35,i vs. 
+imbensiyong,imbensyong,11,10,i vs. 
+imbes,imbis,88,143,e vs. i
+impanteriya,impanterya,23,18,i vs. 
+impeksiyon,impeksyon,543,78,i vs. 
+impluwensiya,impluwensya,842,434,i vs. 
+impluwensiyang,impluwensyang,118,69,i vs. 
+inabandonang,inabandunang,22,37,o vs. u
+inanunsiyo,inanunsyo,119,444,i vs. 
+inaprobahan,inaprubahan,17,184,o vs. u
+engkuwentro,engkwentro,10,32,u vs. 
+inhenyerong,inhinyerong,22,113,e vs. i
+inhenyeriya,inhinyeriya,157,145,e vs. i
+inhinyeriya,inhinyerya,145,22,i vs. 
+inhenyeriyang,inhinyeriyang,108,189,e vs. i
+inirerekomenda,inirerekumenda,129,19,o vs. u
+enkripsiyon,inkripsiyon,10,11,e vs. i
+indibiduwal,indibidwal,376,1331,u vs. 
+independiyente,independyente,93,44,i vs. 
+independiyenteng,independyenteng,483,47,i vs. 
+inskripsiyon,inskripsyon,155,44,i vs. 
+inspeksiyon,inspeksyon,14,22,i vs. 
+intelektuwal,intelektwal,118,96,u vs. 
+interaksiyon,interaksyon,197,51,i vs. 
+interaksiyong,interaksyong,57,26,i vs. 
+interbensiyon,interbensyon,52,34,i vs. 
+internasyonal,internasyunal,1038,229,o vs. u
+interseksiyon,interseksyon,28,17,i vs. 
+ipinasiya,ipinasya,13,21,i vs. 
+edad,idad,2251,13,e vs. i
+idinadagdag,idinaragdag,39,45,d vs. r
+idinadaos,idinaraos,28,43,d vs. r
+idinerekta,idinirekta,21,33,e vs. i
+idroheno,idrohino,17,29,e vs. i
+esensiya,esensya,38,13,i vs. 
+eskandalong,iskandalong,10,23,e vs. i
+eskriba,iskriba,29,12,e vs. i
+eskultura,iskultura,95,61,e vs. i
+eskulturang,iskulturang,12,12,e vs. i
+iskuwater,iskwater,11,19,u vs. 
+eskuwelahan,eskwelahan,23,42,u vs. 
+espirito,espiritu,81,439,o vs. u
+espiritu,ispiritu,439,11,e vs. i
+espiritong,espiritung,17,35,o vs. u
+espirituwal,ispirituwal,163,15,e vs. i
+espiritwal,ispiritwal,159,15,e vs. i
+espirituwalidad,espiritwalidad,13,14,u vs. 
+esperma,isperma,28,10,e vs. i
+espesipikong,ispesipikong,88,11,e vs. i
+establisimiyento,establisimyento,20,16,i vs. 
+establisyemento,establisyimento,11,21,e vs. i
+estado,istado,5265,10,e vs. i
+estasyong,istasyong,460,45,e vs. i
+estilong,istilong,472,250,e vs. i
+estraktura,istraktura,27,407,e vs. i
+estrakturang,istrakturang,11,139,e vs. i
+estratehikong,istratehikong,138,10,e vs. i
+estratehiya,istratehiya,109,24,e vs. i
+estruktura,istruktura,433,331,e vs. i
+estruktural,istruktural,19,28,e vs. i
+estrukturang,istrukturang,114,141,e vs. i
+istudiyo,istudyo,19,83,i vs. 
+istudiyong,istudyong,16,24,i vs. 
+estudyong,istudyong,14,24,e vs. i
+eto,ito,27,83848,e vs. i
+kabeserang,kabiserang,82,250,e vs. i
+kabuoan,kabuuan,164,943,o vs. u
+kabuoang,kabuuang,121,1920,o vs. u
+kaledad,kalidad,19,530,e vs. i
+kalesa,kalisa,28,15,e vs. i
+caldera,kaldera,10,11,c vs. k
+kaniyang,kanyang,11107,38379,i vs. 
+kapasiyahan,kapasyahan,18,15,i vs. 
+capita,kapita,41,29,c vs. k
+kapos,kapus,35,16,o vs. u
+kapuwang,kapwang,50,43,u vs. 
+kada,kara,829,37,d vs. r
+kare,kari,23,57,e vs. i
+casa,kasa,11,13,c vs. k
+kaso,kasu,2111,33,o vs. u
+kasuotan,kasuutan,281,19,o vs. u
+kasiya,kasya,59,23,i vs. 
+katimogang,katimugang,17,1417,o vs. u
+kemika,kimika,24,302,e vs. i
+kemikal,kimikal,473,373,e vs. i
+clase,klase,12,949,c vs. k
+crema,krema,10,73,c vs. k
+cripta,kripta,14,17,c vs. k
+kolehiyo,kolehyo,1064,12,i vs. 
+koleksiyong,koleksyong,25,20,i vs. 
+komandante,kumandante,103,14,o vs. u
+komander,kumander,61,117,o vs. u
+kombensiyon,kumbensiyon,41,50,o vs. u
+kumbensiyon,kumbensyon,50,24,i vs. 
+kombensiyon,kombensyon,41,17,i vs. 
+kumbensiyonal,kumbensyonal,29,14,i vs. 
+kombustiyon,kombustyon,12,18,i vs. 
+komersiyal,komersyal,146,426,i vs. 
+komiteng,kumiteng,55,11,o vs. u
+kompanya,kumpanya,1211,1096,o vs. u
+kompanyang,kumpanyang,576,138,o vs. u
+kompara,kumpara,12,556,o vs. u
+kumperensiya,kumperensya,72,88,i vs. 
+komperensya,kumperensya,10,88,o vs. u
+kompirmasyon,kumpirmasyon,29,25,o vs. u
+kompetisyon,kumpetisyon,2106,292,o vs. u
+komplikado,kumplikado,73,89,o vs. u
+komplikadong,kumplikadong,212,149,o vs. u
+komplikasyon,kumplikasyon,101,36,o vs. u
+kompleto,kumpleto,17,134,o vs. u
+kompletong,kumpletong,61,290,o vs. u
+komposisyon,kumposisyon,464,25,o vs. u
+kompositor,kumpositor,500,15,o vs. u
+kompuwesto,kumpuwesto,78,19,o vs. u
+kompuwestong,kumpuwestong,78,26,o vs. u
+kumokonekta,kumukonekta,82,16,o vs. u
+kumokontrol,kumukontrol,88,10,o vs. u
+komon,kumon,14,18,o vs. u
+komon,komun,14,14,o vs. u
+comune,comuni,4557,50,e vs. i
+kumonsulta,kumunsulta,13,13,o vs. u
+cun,kun,11,52,c vs. k
+kong,kung,206,29330,o vs. u
+koneksiyon,koneksyon,168,179,i vs. 
+kondisyon,kundisyon,734,83,o vs. u
+kondisyong,kundisyong,178,14,o vs. u
+condom,kondom,44,70,c vs. k
+konstitusyonal,konstitusyunal,119,20,o vs. u
+konstruksiyon,konstruksyon,359,156,i vs. 
+konstruksiyong,konstruksyong,12,12,i vs. 
+konsiyerto,konsyerto,325,123,i vs. 
+konsiyertong,konsyertong,44,10,i vs. 
+kontradiksiyon,kontradiksyon,34,13,i vs. 
+kontrobersiyal,kontrobersyal,132,139,i vs. 
+koponan,kuponan,1247,145,o vs. u
+kuponan,kupunan,145,29,o vs. u
+koponang,kuponang,94,24,o vs. u
+kordong,kurdong,26,23,o vs. u
+kuro,kuru,82,30,o vs. u
+coronabirus,coronavirus,10,101,b vs. v
+koryenteng,kuryenteng,25,76,o vs. u
+kuwalipikado,kwalipikado,23,61,u vs. 
+kuwalipikadong,kwalipikadong,14,29,u vs. 
+kuwalipikasyon,kwalipikasyon,18,78,u vs. 
+kuwantum,kwantum,24,111,u vs. 
+kuwadrado,kwadrado,422,157,u vs. 
+kuwadradong,kwadradong,23,27,u vs. 
+kuwartel,kwartel,29,10,u vs. 
+kuwarto,kwarto,107,76,u vs. 
+kuweba,kweba,172,37,u vs. 
+kuwebang,kwebang,10,14,u vs. 
+kuwintas,kwintas,86,18,u vs. 
+kuwento,kwento,3076,720,u vs. 
+kuwentong,kwentong,1413,302,u vs. 
+kuwitis,kwitis,25,15,u vs. 
+lalakeng,lalaking,146,887,e vs. i
+lalong,lalung,594,34,o vs. u
+libo,libu,287,189,o vs. u
+legal,ligal,723,141,e vs. i
+leksiyon,leksyon,10,10,i vs. 
+lengguwahe,lenggwahe,29,19,u vs. 
+lingguwistiko,linggwistiko,33,17,u vs. 
+lesbiyana,lesbyana,15,15,i vs. 
+lisensiyang,lisensyang,11,20,i vs. 
+lisensiyado,lisensyado,27,44,i vs. 
+logo,lugo,240,12,o vs. u
+magkakasunod,magkakasunud,245,12,o vs. u
+magpasiya,magpasya,11,65,i vs. 
+maimpluwensiya,maimpluwensya,63,15,i vs. 
+maimpluwensiyahan,maimpluwensyahan,22,17,i vs. 
+maimpluwensiyang,maimpluwensyang,92,113,i vs. 
+makadaan,makaraan,15,75,d vs. r
+makatuwiran,makatwiran,34,67,u vs. 
+makatuwirang,makatwirang,40,108,u vs. 
+makipagkumpetensya,makipagkumpitensya,53,19,e vs. i
+mansiyon,mansyon,15,28,i vs. 
+mantekilya,mantikilya,10,91,e vs. i
+mano,manu,73,24,o vs. u
+madami,marami,30,2391,d vs. r
+madaming,maraming,43,9492,d vs. r
+madadaanan,madaraanan,11,11,d vs. r
+melodiya,melodya,36,12,i vs. 
+milyon,milyun,1542,66,o vs. u
+medya,midya,115,312,e vs. i
+medyang,midyang,19,83,e vs. i
+medyebal,midyebal,626,25,e vs. i
+mesang,misang,13,17,e vs. i
+multinasyonal,multinasyunal,58,30,o vs. u
+monggo,munggo,19,43,o vs. u
+modalidad,moralidad,24,219,d vs. r
+moog,muog,55,121,o vs. u
+miyembro,myembro,3249,64,i vs. 
+nagkaroon,nagkaruon,2877,11,o vs. u
+nagpasiya,nagpasya,109,453,i vs. 
+nagpasiyang,nagpasyang,22,98,i vs. 
+nagdadagdag,nagdaragdag,31,73,d vs. r
+nagdadaos,nagdaraos,10,16,d vs. r
+nagrecord,nagrekord,17,29,c vs. k
+nagdudugtong,nagdurugtong,53,34,d vs. r
+nagdudulot,nagdurulot,423,55,d vs. r
+nagtitipon,nagtitipun,89,12,o vs. u
+naiimpluwensiyahan,naiimpluwensyahan,61,95,i vs. 
+naimpluwensiyahan,naimpluwensyahan,221,74,i vs. 
+nakaimpluwensiya,nakaimpluwensya,84,23,i vs. 
+nakakaimpluwensiya,nakakaimpluwensya,28,12,i vs. 
+nakapagdudulot,nakapagdurulot,12,48,d vs. r
+nakapirmeng,nakapirming,47,59,e vs. i
+nakapuwesto,nakapwesto,55,14,u vs. 
+nakompleto,nakumpleto,17,235,o vs. u
+nangangatuwiran,nangangatwiran,18,34,u vs. 
+nangatuwiran,nangatwiran,21,34,u vs. 
+napagpasiyahan,napagpasyahan,15,103,i vs. 
+nasyonal,nasyunal,85,10,o vs. u
+nirecord,nirekord,12,23,c vs. k
+netong,nitong,49,2654,e vs. i
+nong,nung,68,202,o vs. u
+noong,nuong,79627,80,o vs. u
+niya,nya,17977,179,i vs. 
+niyang,nyang,4552,43,i vs. 
+pabago,pabagu,50,57,o vs. u
+pagbabago,pagbabagu,2498,11,o vs. u
+pagkakasunod,pagkakasunud,274,291,o vs. u
+pagkukuwenta,pagkukwenta,19,51,u vs. 
+pagpapares,pagpaparis,27,10,e vs. i
+pagpapasiya,pagpapasya,42,116,i vs. 
+pagdadagdag,pagdaragdag,34,326,d vs. r
+pagdidikit,pagdirikit,14,21,d vs. r
+pagdudugtong,pagdurugtong,14,14,d vs. r
+pagtatantiya,pagtatantya,76,66,i vs. 
+pagtitipon,pagtitipun,359,14,o vs. u
+pagtulong,pagtulung,205,14,o vs. u
+paksiyon,paksyon,75,65,i vs. 
+paksiyong,paksyong,30,16,i vs. 
+fakultad,pakultad,218,20,f vs. p
+pambabaeng,pambabaing,92,20,e vs. i
+pampinansiyal,pampinansyal,12,20,i vs. 
+pampropesyon,pamprupesyon,10,14,o vs. u
+pampolitika,pampulitika,1198,506,o vs. u
+pampolitikang,pampulitikang,123,183,o vs. u
+pangangatuwiran,pangangatwiran,11,103,u vs. 
+pangkomersiyo,pangkomersyo,72,24,i vs. 
+panlalake,panlalaki,21,135,e vs. i
+pantasiya,pantasya,13,120,i vs. 
+parabola,parabula,19,12,o vs. u
+faraon,paraon,11,285,f vs. p
+fariseo,pariseo,12,11,f vs. p
+parliyamento,parlyamento,40,58,i vs. 
+parmasiya,parmasya,10,23,i vs. 
+parsiyal,parsyal,87,11,i vs. 
+paro,paru,49,42,o vs. u
+pasiya,pasya,35,104,i vs. 
+faunang,paunang,14,619,f vs. p
+piksiyon,piksyon,40,32,i vs. 
+piksiyong,piksyong,23,12,i vs. 
+piloheniya,pilohenya,21,12,i vs. 
+feminismo,peminismo,14,57,f vs. p
+feminista,peminista,21,66,f vs. p
+feministang,peministang,19,31,f vs. p
+pinagtutuonan,pinagtutuunan,16,26,o vs. u
+pinakamaimpluwensiyang,pinakamaimpluwensyang,30,11,i vs. 
+pinansiyal,pinansyal,149,104,i vs. 
+pinasiyahan,pinasyahan,56,11,i vs. 
+pera,pira,850,52,e vs. i
+plebesito,plebisito,13,98,e vs. i
+frazione,frazioni,1071,30,e vs. i
+prediksiyon,prediksyon,51,23,i vs. 
+presensiya,presensya,285,135,i vs. 
+probinsiyang,probinsyang,55,18,i vs. 
+propesyonal,propesyunal,608,153,o vs. u
+propesyunal,prupesyunal,153,25,o vs. u
+proporsiyon,proporsyon,61,100,i vs. 
+proporsiyonal,proporsyonal,47,52,i vs. 
+produksiyon,produksyon,815,677,i vs. 
+produksiyong,produksyong,53,24,i vs. 
+politikong,pulitikong,136,14,o vs. u
+polong,pulong,33,382,o vs. u
+pulot,pulut,165,24,o vs. u
+punong,punung,2535,29,o vs. u
+punongkahoy,punungkahoy,21,34,o vs. u
+puding,puring,19,15,d vs. r
+porsiyentong,porsyentong,20,18,i vs. 
+porsiyon,porsyon,11,12,i vs. 
+poro,puro,14,151,o vs. u
+posong,pusong,15,52,o vs. u
+futbol,putbol,277,109,f vs. p
+potensiyal,potensyal,209,202,i vs. 
+puwede,pwede,68,112,u vs. 
+puwedeng,pwedeng,176,174,u vs. 
+puwersa,pwersa,746,378,u vs. 
+puwersahang,pwersahang,16,28,u vs. 
+puwersang,pwersang,434,270,u vs. 
+puwesto,pwesto,824,257,u vs. 
+puwet,puwit,10,126,e vs. i
+piyanista,pyanista,48,12,i vs. 
+piyudal,pyudal,205,56,i vs. 
+piyudalismo,pyudalismo,42,13,i vs. 
+que,qui,51,35,e vs. i
+d'adda,d'arda,179,23,d vs. r
+daan,raan,2228,18,d vs. r
+dabaw,rabaw,38,57,d vs. r
+dali,rali,48,21,d vs. r
+daming,raming,25,15,d vs. r
+damo,ramo,253,51,d vs. r
+dadaan,daraan,136,31,d vs. r
+dadaanan,daraanan,14,20,d vs. r
+radiyasyon,radyasyon,17,72,i vs. 
+datapuwa't,datapwa't,10,10,u vs. 
+datapuwat,datapwat,11,20,u vs. 
+dati,rati,1119,21,d vs. r
+reaksiyong,reaksyong,117,22,i vs. 
+deakono,diakono,36,18,e vs. i
+degring,digring,36,87,e vs. i
+rehiyon,rehyon,10641,18,i vs. 
+rehiyonal,rehiyunal,263,19,o vs. u
+diksiyonaryo,diksiyunaryo,24,24,o vs. u
+diksiyunaryong,diksyunaryong,14,18,i vs. 
+dela,dila,146,220,e vs. i
+relihiyon,relihyon,1582,11,i vs. 
+relikiya,relikya,14,59,i vs. 
+delos,relos,39,12,d vs. r
+dimensiyong,dimensyong,53,23,i vs. 
+demokrasiya,demokrasya,11,279,i vs. 
+dinadaanan,dinaraanan,32,13,d vs. r
+dinadagdagan,dinaragdagan,17,21,d vs. r
+dinadayo,dinarayo,14,22,d vs. r
+dinerekta,dinirekta,18,51,e vs. i
+dinesenyo,dinisenyo,23,472,e vs. i
+depenisyon,depinisyon,21,193,e vs. i
+repleksiyon,repleksyon,25,42,i vs. 
+reported,reporter,13,81,d vs. r
+deputado,diputado,10,36,e vs. i
+direksiyon,direksyon,466,538,i vs. 
+direksiyong,direksyong,59,132,i vs. 
+deretso,diretso,12,49,e vs. i
+deretsong,diretsong,18,37,e vs. i
+des,res,217,15,d vs. r
+deskripsiyon,deskripsyon,45,18,i vs. 
+disco,disko,58,40,c vs. k
+distansiya,distansya,180,154,i vs. 
+distansiyang,distansyang,39,17,i vs. 
+ditong,ritong,37,105,d vs. r
+ritong,ritung,105,12,o vs. u
+rituwal,ritwal,21,405,u vs. 
+rione,rioni,80,13,e vs. i
+dragon,dragun,353,11,o vs. u
+doktor,duktor,428,61,o vs. u
+roles,rules,70,11,o vs. u
+dumadaan,dumaraan,472,108,d vs. r
+dumadami,dumarami,50,54,d vs. r
+dumadaming,dumaraming,10,33,d vs. r
+dumadating,dumarating,10,59,d vs. r
+dumedepende,dumidepende,26,11,e vs. i
+dumudugtong,dumurugtong,19,14,d vs. r
+doses,dosis,13,93,e vs. i
+diyaryo,dyaryo,38,46,i vs. 
+diyaryong,dyaryong,31,10,i vs. 
+diyornal,dyornal,18,28,i vs. 
+diyosan,diyusan,50,10,o vs. u
+salo,salu,54,26,o vs. u
+samot,samut,10,14,o vs. u
+sekreto,sikreto,12,33,e vs. i
+seksuwal,sekswal,814,479,u vs. 
+seksuwalidad,sekswalidad,117,55,u vs. 
+seksiyon,seksyon,222,231,i vs. 
+seksiyong,seksyong,80,31,i vs. 
+sekondarya,sekundarya,79,122,o vs. u
+sekondaryang,sekundaryang,51,34,o vs. u
+seleksiyon,seleksyon,165,15,i vs. 
+simpatiya,simpatya,28,12,i vs. 
+sentimiyento,sentimyento,11,11,i vs. 
+sino,sinu,645,17,o vs. u
+serbisiyo,serbisyo,26,1700,i vs. 
+situwasyon,sitwasyon,43,445,u vs. 
+situwasyong,sitwasyong,12,105,u vs. 
+starch,starts,10,15,ch vs. ts
+soberaniya,soberanya,17,194,i vs. 
+substansiyang,substansyang,18,11,i vs. 
+solong,sulong,795,32,o vs. u
+sunod,sunud,1482,176,o vs. u
+sopra,supra,21,16,o vs. u
+suspensiyon,suspensyon,26,43,i vs. 
+sustansiya,sustansya,147,25,i vs. 
+suweldo,sweldo,86,22,u vs. 
+suwerte,swerte,49,25,u vs. 
+siya,sya,40829,203,i vs. 
+siyang,syang,6895,72,i vs. 
+siyudad,syudad,569,14,i vs. 
+taco,tako,11,26,c vs. k
+tato,tatu,20,34,o vs. u
+telenobela,telenovela,35,24,b vs. v
+telenobelang,telenovelang,25,11,b vs. v
+tinantiya,tinantya,25,17,i vs. 
+tinantiyang,tinantyang,32,17,i vs. 
+tinatantiya,tinatantya,13,29,i vs. 
+tinatantiyang,tinatantyang,33,11,i vs. 
+tensiyon,tensyon,64,76,i vs. 
+tenyente,tinyente,101,20,e vs. i
+tisiyu,tisyu,15,237,i vs. 
+teoriya,teorya,808,758,i vs. 
+teoriyang,teoryang,525,176,i vs. 
+transeksuwal,transekswal,10,16,u vs. 
+transisyonal,transisyunal,50,11,o vs. u
+transkripsiyon,transkripsyon,59,10,i vs. 
+transmitted,transmitter,23,102,d vs. r
+tradisyonal,tradisyunal,1298,566,o vs. u
+tribo,tribu,367,58,o vs. u
+tribong,tribung,258,32,o vs. u
+tuberculosis,tuberkulosis,84,100,c vs. k
+tuloy,tuluy,641,106,o vs. u
+opsiyonal,opsyonal,12,37,i vs. 
+osong,usong,21,10,o vs. u
+uwak,wak,166,14,u vs. 
+iyong,yong,652,19,i vs. 

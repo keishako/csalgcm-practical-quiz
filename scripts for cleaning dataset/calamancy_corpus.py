@@ -29,7 +29,14 @@ def normalize_valid_word(token_text):
     return normalized # returns word with apostrophe and hyphen
   return None # skips symbols, punctuation, other unnecessary characters
 
-for idx, cleaned_text in enumerate(cf.text_files_clean): 
+# START_IDX = 0 # remove comment if extraction process was lost
+
+for idx, cleaned_text in enumerate(cf.text_files_clean):
+
+    '''
+    if idx < START_IDX: # comment out if not needed
+        continue
+    '''
 
     clean_words = []        # dataset without proper nouns
     proper_noun_words = []  # proper noun words that are removed (for checking purposes)

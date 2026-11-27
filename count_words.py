@@ -5,8 +5,7 @@ MIN_COUNT = 10
 # word must have at least 2 letters to be kept
 MIN_LEN = 3
 
-file_path = "dataset/WHOLE_calamanCy-result/clean_output_file.txt"
-# file_path = "clean_output_file_50.txt" # for testing
+file_path = "dataset/WHOLE_calamanCy-result/combined_clean_output.txt"
 
 with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.read()
@@ -29,7 +28,7 @@ def count_words(words, min_count=MIN_COUNT, min_len=MIN_LEN):
             stored[word] = count
     return stored
 
-if __name__ == "__main__":
+def cw_main():
     with open(file_path, "r", encoding="utf-8") as file:
         text = file.read()
 
