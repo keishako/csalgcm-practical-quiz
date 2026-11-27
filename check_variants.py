@@ -16,6 +16,8 @@ with open('dataset/dictionary/tagalog_word_list.txt', 'r', newline="", encoding=
     dictionary = set(line.strip().lower() for line in file if line.strip())
     
 ALLOWED_SWAPS = {
+    ("-", ""),
+    ("'", ""),
     ("ch", "ts"),
     ("e", "i"),
     ("o", "u"),

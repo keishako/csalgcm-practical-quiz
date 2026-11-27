@@ -5,7 +5,7 @@ MIN_COUNT = 10
 # word must have at least 2 letters to be kept
 MIN_LEN = 3
 
-file_path = "dataset/WHOLE_calamanCy-result/clean_output_file.txt"
+file_path = "dataset/WHOLE_calamanCy-result/combined_clean_output.txt"
 # file_path = "clean_output_file_50.txt" # for testing
 
 with open(file_path, 'r', encoding='utf-8') as file:

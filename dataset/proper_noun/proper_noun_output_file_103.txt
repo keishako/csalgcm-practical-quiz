@@ -61,9 +61,7 @@ Vercelli
 Piamonte
 Italya
 Vercelli
-Verbano
-Cusio
-Ossola
+Verbano-Cusio-Ossola
 Suwisa
 Canton
 Valais
@@ -89,8 +87,7 @@ Valsesia
 Lalawigan
 Vercelli
 Vercelli
-Romaniko
-Gotikong
+Romaniko-Gotikong
 Basilika
 Sant'Andrea
 Dal
@@ -159,8 +156,7 @@ Pompeia
 Augusta
 Taurinorum
 Turin
-Selta
-Ligur
+Selta-Ligur
 Statielli
 Carystum
 Acqui
@@ -394,7 +390,6 @@ Genoves
 Grue
 San
 Nicola
-Kapansin
 Gino
 Coppedè
 Marina
@@ -452,7 +447,7 @@ Colombano
 Belforte
 Bassignana
 Piamontes
-Bassgnan
+Bassgnan-na
 Lalawigan
 Alessandria
 Piamonte
@@ -513,8 +508,7 @@ Digmaang
 Alto
 Monferrato
 Operation
-Koblenz
-Süd
+Koblenz-Süd
 Bergamasco
 Bruno
 Carentino
@@ -551,9 +545,7 @@ Bormida
 Bistagno
 Bistagno
 Bistagno
-Proto
-Indo
-European
+Proto-Indo-European
 Celtic
 Neolitiko
 Borbera
@@ -711,9 +703,7 @@ Salvator
 Gotta
 Monferrato
 Bozzole
-Frascata
-Brignano
-Frascata
+Brignano-Frascata
 Lalawigan
 Alessandria
 Piamonte
@@ -723,8 +713,7 @@ Serra
 Monte
 Neolitiko
 Lombardo
-Brignano
-Frascata
+Brignano-Frascata
 Abadia
 Bobbio
 Casasco
@@ -860,9 +849,7 @@ Ligure
 Rocchetta
 Ligure
 Iniisip
-Pre
-Indo
-Europeong
+Pre-Indo-Europeong
 Campus
 Lucum
 Kakahuyan
@@ -1036,8 +1023,7 @@ Cabella
 Ligure
 Fabbrica
 Curone
-Emilia
-Romaña
+Emilia-Romaña
 San
 Giuliano
 Carrosio
@@ -1177,8 +1163,7 @@ Turin
 Alessandria
 Casasco
 Avolasca
-Brignano
-Frascata
+Brignano-Frascata
 Garbagna
 Momperone
 Montemarzino
@@ -1842,12 +1827,10 @@ Montechiaro
 Ponti
 Roccaverano
 Denice
-Alessandria
-San
+Alessandria-San
 Giuseppe
 Cairo
-Montechiaro
-Denice
+Montechiaro-Denice
 Montechiaro
 Montechiaro
 Piana
@@ -1862,8 +1845,7 @@ Montebore
 Dernice
 Borghetto
 Borbera
-Brignano
-Frascata
+Brignano-Frascata
 Cantalupo
 Ligure
 Garbagna
@@ -2104,7 +2086,7 @@ Fubine
 Monferrato
 Fubine
 Monferrato
-Fibin
+Fibin-ni
 Lalawigan
 Alessandria
 Piamonte
@@ -2168,8 +2150,7 @@ Garbagna
 Avolasca
 Borghetto
 Borbera
-Brignano
-Frascata
+Brignano-Frascata
 Casasco
 Castellania
 Coppi
@@ -2258,7 +2239,6 @@ Valenza
 Kastilyo
 Sannazzaro
 Giarole
-Guelfo
 Gremiasco
 Gremiasco
 Lalawigan
@@ -2268,8 +2248,7 @@ Turin
 Alessandria
 Gremiasco
 Bagnaria
-Brignano
-Frascata
+Brignano-Frascata
 Cecima
 Fabbrica
 Curone
@@ -2315,7 +2294,7 @@ Ragnando
 Grognardo
 Piamonte
 Grondona
-Grondonn
+Grondonn-a
 Ligur
 Lalawigan
 Alessandria
@@ -2599,7 +2578,7 @@ Dilettantistico
 Molinese
 Koponang
 Amateur
-Pang
+Pang-sports
 Molino
 Molino
 Torti
@@ -2608,7 +2587,7 @@ Sports
 Molino
 Koponang
 Amateur
-Pang
+Pang-sports
 Molino
 Pangulong
 Giancarlo
@@ -2655,8 +2634,7 @@ Piamonte
 Turin
 Alessandria
 Momperone
-Brignano
-Frascata
+Brignano-Frascata
 Casasco
 Cecima
 Montemarzino
@@ -3120,8 +3098,7 @@ Genova
 Piamonte
 Alessandria
 Italya
-Elah
-Dufour
+Elah-Dufour
 Novi
 Big
 Fruit
@@ -3165,6 +3142,8 @@ Piamontes
 Lalawigan
 Alessandria
 Piemonte
+Italya
+Ito
 Val
 Cerrina
 Turin
@@ -3191,7 +3170,7 @@ Cà
 Parmàn
 Dorato
 Pessine
-Psìn
+Psìn-i
 Odalengo
 Piccolo
 Tufo
@@ -3287,8 +3266,7 @@ Piamonte
 Montferrato
 Alessandria
 Apeninong
-Ligur
-Piamontes
+Ligur-Piamontes
 Lambak
 Stura
 Pasong
@@ -3376,11 +3354,9 @@ Ponzone
 Sassello
 Spigno
 Monferrato
-Indo
-Europeong
-Indo
-Europeo
-Par
+Indo-Europeong
+Indo-Europeo
+Par-eto
 Par-
 PIE
 Pareto
@@ -4274,8 +4250,7 @@ Museglia
 San
 Sebastiano
 Curone
-Brignano
-Frascata
+Brignano-Frascata
 Dernice
 Gremiasco
 Montacuto
@@ -4855,8 +4830,7 @@ Ghisolfi
 Gavio
 Group
 Graziano
-DMG
-MORI
+DMG-MORI
 Lugano
 Sementi
 Terzo
@@ -6126,8 +6100,7 @@ Rocchetta
 Tanaro
 Cerro
 Tanaro
-Turin
-Genova
+Turin-Genova
 Cerro
 Tanaro
 Rocchetta
@@ -6720,7 +6693,6 @@ Si
 Benedicto
 XIV
 Maretto
-Obispo
 Asti
 Michele
 Amatore
@@ -7315,8 +7287,7 @@ Saboya
 Monferrato
 Saboya
 Della
-Rovere
-Bistagno
+Rovere-Bistagno
 Caccia
 Acqui
 Terme
@@ -7464,7 +7435,7 @@ Mababang
 Piamonte
 Casa
 Baroko
-Cumiana
+Cumiana-batong
 Moransengo
 Lalawigan
 Asti
@@ -7480,8 +7451,7 @@ Cavagnolo
 Cocconato
 Tonengo
 Moransengo
-Moransengo
-Tonengo
+Moransengo-Tonengo
 Monferrato
 Asti
 Monferrato

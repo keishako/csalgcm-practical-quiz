@@ -2,6 +2,8 @@ import calamancy
 import cleaning_files as cf
 import nltk
 from nltk.corpus import words
+from spacy.util import compile_infix_regex
+from spacy.lang.char_classes import HYPHENS
 
 '''
 TO DOWNLOAD CALAMANCY:
@@ -12,6 +14,12 @@ TO DOWNLOAD CALAMANCY:
 nltk.download('words') 
 
 nlp = calamancy.load("tl_calamancy_md", disable=["tagger", "morphologizer", "trainable_lemmatizer","parser"])  # loads the latest version
+nlp.add_pipe("sentencizer")
+
+# keep hyphens word
+# only remove that splits hyphens between letters
+infixes = [rule for rule in nlp.Defaults.infixes if HYPHENS not in rule]
+nlp.tokenizer.infix_finditer = compile_infix_regex(infixes).finditer
 
 # used dictionary_set.py
 with open("dataset/dictionary/tagalog_word_list.txt", "r", encoding="utf-8") as file:

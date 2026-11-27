@@ -126,7 +126,7 @@ James
 Bond
 Theme
 Moby
-Re
+Re-Bersyon
 Everything
 Is
 Wrong
@@ -176,8 +176,7 @@ Maria
 Papa
 Inocencio
 XI
-Austrianong
-Polakong
+Austrianong-Polakong
 John
 III
 Sobieski
@@ -192,7 +191,7 @@ Maria
 Santo
 Stefano
 Cacco
-Kabanal
+Kabanal-banalang
 Maria
 Maria
 Loreto
@@ -253,8 +252,7 @@ Nintendo
 Nintendo
 Nintendo
 Color
-TV
-Game
+TV-Game
 Super
 Nintendo
 Entertainment
@@ -274,9 +272,9 @@ Via
 Merulana
 Burol
 Esquilino
-V
 Roma
 Italya
+Kardinal-pari
 Santissimo
 Redentore
 Sant'Alfonso
@@ -346,8 +344,7 @@ America
 Wii
 Mini
 Nintendo
-New
-Style
+New-Style
 Super
 NES
 Canada
@@ -652,6 +649,7 @@ Pilipinong
 Europa
 Italya
 Roma
+Mahigit-kumulang
 Italya
 Noong
 ISTAT
@@ -720,8 +718,7 @@ Jim
 Reid
 William
 Reid
-CD
-DVD
+CD-DVD
 Suetonio
 Roma
 Julius
@@ -751,7 +748,7 @@ Pope
 UK
 Singles
 Chart
-B
+B-panig
 Scottish
 Franz
 Ferdinand
@@ -872,8 +869,9 @@ Dagat
 Karagatang
 Atlantiko
 Ginugugol
-Kabanal
-Kabanal
+Kabanal-banalan
+Kanyang
+Kabanal-banalan
 Iyong
 Patriarko
 Ortodoksiyang
@@ -1334,8 +1332,7 @@ Radziwill
 Gian
 Maria
 Bernardoni
-Polonya
-Litwanya
+Polonya-Litwanya
 Radiziwiłł
 Biblioteca
 Vallicelliana
@@ -1356,6 +1353,7 @@ Greek
 Alcuino
 Repormang
 Protestante
+Kontra-Reporma
 Chemical
 Brothers
 Slim
@@ -1427,8 +1425,7 @@ Wanrong
 Emperatris
 Wanrong
 Wǎnróng
-Wade
-Giles
+Wade-Giles
 Wan3-jung2
 Gobulo
 Wanrong
@@ -1805,8 +1802,8 @@ I
 San
 Silvestro
 Quirinale
-Louis
-Marie
+Kardinal-Pari
+Louis-Marie
 Ling
 Mangkhanekhoun
 Apostolic
@@ -2114,7 +2111,7 @@ Lost
 Generation
 Katie
 Findlay
-Tony
+Tony-winning
 Duncan
 Sheik
 NBC
@@ -2152,7 +2149,6 @@ Performance
 Concordia
 University
 Montréal
-Nag
 MXAT
 Moscow
 RU
@@ -2367,6 +2363,7 @@ Valerius
 Romulus
 Maxentius
 Kristiyanong
+Kardinal-Dekano
 Titulus
 Ss
 Cosmae
@@ -2492,7 +2489,7 @@ Pokémon
 Melee
 Fire
 Japan
-Nag
+Nag-aalok
 Melee
 Multiplayer
 Melee
@@ -2521,15 +2518,15 @@ Bin
 Hyun
 Bin
 Kim
-Tae
+Tae-pyung
 Setyembre
-Koreanong
+Timog-Koreanong
 Hyun
 Bin
 My
 Name
 Kim
-Sam
+Sam-soon
 Koreanovelang
 Secret
 Memories
@@ -2597,7 +2594,7 @@ Disaster
 Relief
 Association
 Son
-Ye
+Ye-jin
 Uljin
 Gyeongbuk
 Samcheok
@@ -2611,7 +2608,7 @@ Noong
 Master
 Hyun
 Son
-Ye
+Ye-jin
 The
 Negotiation
 Crash
@@ -2655,7 +2652,6 @@ Yorke
 The
 Guardian
 Stipe
-Gustung
 REM
 Stipe
 Volcan
@@ -2851,7 +2847,7 @@ Be
 Giants
 Estados
 Unidos
-B
+B-side
 Istanbul
 Not
 Constantinople
@@ -2920,7 +2916,7 @@ Constantinople
 James
 K
 Polk
-B
+B-side
 Christian
 Huey
 Inihambing
@@ -2952,7 +2948,7 @@ Polk
 Oregon
 Teritoryo
 Digmaang
-Mehikano
+Mehikano-Amerikano
 James
 K
 Polk
@@ -2992,7 +2988,7 @@ Mason
 People
 Factory
 Showroom
-Beatles
+Beatles-esque
 Factory
 Showroom
 Stephen
@@ -3034,7 +3030,7 @@ Erika
 Records
 Itinampok
 Louisiana
-B
+B-side
 South
 Carolina
 Estados
@@ -3170,6 +3166,7 @@ Prisca
 Roma
 Burol
 Aventino
+Kardinal-pari
 Naitala
 Titulus
 Priscae
@@ -3219,8 +3216,7 @@ Eusebii
 Daniel
 DiNardo
 Arsobispo
-Galveston
-Houston
+Galveston-Houston
 Texas
 US
 Clemente
@@ -3291,6 +3287,7 @@ C
 Piccolini
 Natagpuan
 Trinitaria
+Kardinal-Pari
 Vincenzo
 Gioacchino
 Raffaele
@@ -3308,6 +3305,7 @@ Via
 Appia
 Roma
 AD
+Kardinal-Pari
 Marian
 Jaworski
 Ukraine
@@ -3392,6 +3390,7 @@ LPA
 Nagiwan
 Nepal
 Nepal
+Hunyo-Hulyo
 Kanlurang
 Nepal
 Myagdi
@@ -3481,9 +3480,9 @@ Aprika
 Aprika
 Madagascar
 Insectivora
-Teng
+Teng-hui
 Lee
-Teng
+Teng-hui
 July
 Santi
 Giovanni
@@ -3598,7 +3597,7 @@ Aracoeli
 Santo
 Bambino
 Aracoeli
-Nag
+Nag-iiba
 Bibiana
 Roma
 Santa
@@ -3622,7 +3621,6 @@ Tapsi
 Vivian
 Pilipinas
 Lutuing
-Paminsan
 Tatawagin
 Loaded
 Michele
@@ -3700,7 +3698,7 @@ Santo
 Spirito
 Rione
 Borgo
-Diyakono
+Kardinal-Diyakono
 Dominique
 Mamberti
 Dakilang
@@ -3839,7 +3837,7 @@ No
 Si
 Graham
 Coxon
-B
+B-side
 The
 Outsider
 Crazy
@@ -3894,7 +3892,7 @@ Santi
 Nomi
 Gesù
 Maria
-Kabanal
+Kabanal-banalang
 Hesus
 Maria
 Pablo
@@ -3959,17 +3957,13 @@ San
 Bartolome
 Lipari
 Arkidiyosesis
-Messina
-Lipari
-Santa
+Messina-Lipari-Santa
 Lucia
 Mela
 Lipari
 Ito
 Arkidiyosesis
-Messina
-Lipari
-Santa
+Messina-Lipari-Santa
 Lucia
 Mela
 Lipari
@@ -4028,8 +4022,7 @@ Sicilia
 Diyosesis
 Messina
 Arkidiyosesis
-Messina
-Lipari
+Messina-Lipari-Santa
 Lucia
 Mela
 Pio
@@ -4116,7 +4109,7 @@ Murdered
 Remains
 New
 York
-City
+City-based
 They
 Might
 Be
@@ -4133,8 +4126,7 @@ Vera
 Johnston
 Lindsay
 Vera
-Pilipinong
-Briton
+Pilipinong-Briton
 Cielo
 Angelina
 Kelly
@@ -4382,8 +4374,7 @@ Pilipinas
 Valenzuela
 Quezon
 City
-Malabon
-Valenzuela
+Malabon-Valenzuela
 Manila
 Bay
 La
@@ -4496,7 +4487,7 @@ Estados
 Unidos
 Australia
 Popscene
-A
+A-side
 On
 Your
 Own
@@ -4566,8 +4557,7 @@ Baybayin
 Atimonan
 Malabon
 Ilog
-Malabon
-Navotas
+Malabon-Navotas
 Kalakhang
 Maynila
 Pilipinas
@@ -4752,8 +4742,7 @@ Folk
 Implosion
 LA
 Lindsay
-Y
-U
+Y-O-U
 Strong
 Bad
 Sings
@@ -4838,7 +4827,7 @@ Strong
 Bad
 The
 Cheat
-Nag
+Nag-print
 Gayunpaman
 Kalaunan
 Super
@@ -4850,7 +4839,7 @@ Flash
 Matt
 Chapman
 Naghahanap
-In
+In-animate
 Mike
 Matt
 Mike
@@ -4870,7 +4859,7 @@ Matt
 Matt
 Noong
 Nagawa
-T
+T-shirt
 Si
 Mike
 New
@@ -4907,7 +4896,7 @@ Science
 Theatre
 Jim
 Mallon
-Pinag
+Pinag-isipan
 Homestar
 Runner
 Joss
@@ -4924,11 +4913,11 @@ Homestar
 Runner
 Strong
 Bad
-Old
-Timey
+Old-Timey
 Homestar
 Runner
 Pangunahing
+Real-life
 They
 Might
 Be
@@ -4945,7 +4934,7 @@ TROGDOR
 THE
 BURNİNATOR
 Trogdor
-T
+T-shirt
 CD
 Strong
 Bad
@@ -4964,8 +4953,7 @@ Mamas
 Noong
 Limozeen
 Atlanta
-Y
-U
+Y-O-U
 Matt
 Chapman
 Atlanta
@@ -4982,9 +4970,8 @@ Care
 About
 You
 The
-B
-B
-Sides
+B-est
+B-Sides
 Scandinavian
 Taranchula
 Peacey
@@ -4998,7 +4985,6 @@ Barry
 White
 Sagittarius
 Aprika
-Saharan
 Inilarawan
 John
 Frederick
@@ -5399,15 +5385,14 @@ Sagradong
 Puso
 Jesus
 Salesiano
-Kardinal
-Diyakono
+Kardinal-Diyakono
 Sacro
 Cuore
 Diyakoniya
 Pablo
 VI
 Halamang
-Timog
+Timog-silangang
 Asya
 Alternanthera
 Azolla
@@ -5439,11 +5424,9 @@ Edmund
 Street
 Gothic
 Revival
-Pre
-Raphaelite
+Pre-Raphaelite
 Edward
-Burne
-Jones
+Burne-Jones
 Santos
 Roma
 Santos
@@ -5548,14 +5531,11 @@ Estado
 Survey
 Amerika
 US
-Aleman
-Amerikan
-Irish
-Amerikan
+Aleman-Amerikan
+Irish-Amerikan
 Amerikan
 UK
-Italyan
-Amerikan
+Italyan-Amerikan
 Polish
 Amerikan
 Europeo
@@ -5583,8 +5563,7 @@ Aprikanong
 Amerikano
 United
 Kingdom
-Breton
-Ingles
+Breton-Ingles
 Pransya
 Kanada
 Estados
@@ -5663,7 +5642,6 @@ Jolo
 Jolo
 Sulu
 Sulu
-Musliman
 Armalite
 Improvised
 Explosive
@@ -5823,7 +5801,7 @@ Days
 Camden
 Diamonds
 Emeralds
-B
+B-panig
 Love
 Crowns
 Crucifies
@@ -5834,7 +5812,6 @@ Pilipinas
 Care
 Inglatera
 Simpson
-Care
 Care
 Simpson
 Wild
@@ -5902,7 +5879,6 @@ Andrew
 Weatherall
 Boys
 Own
-DJ
 I'm
 Losing
 More
@@ -5986,7 +5962,7 @@ World
 End
 Maaaring
 Nassarius
-Nagkakaiba
+Nagkakaiba-iba
 Europa
 Malawakang
 Ipinalikha
@@ -5999,8 +5975,7 @@ David
 Kanluraning
 Maaaring
 Khamsa
-Al
-Baqara
+Al-Baqara
 Islam
 Salvatore
 Coppelle
@@ -6097,7 +6072,7 @@ Headsy
 Blur
 Variety
 Hour
-MOD
+MOD-esque
 Blanca
 Li
 VHSDVD
@@ -6143,10 +6118,10 @@ Roma
 Italya
 Matatagpuan
 Wayne
-Montclair
+Montclair-based
 Adam
 Schlesinger
-Sellersville
+Sellersville-based
 Chris
 Collingwood
 Williams
@@ -6182,7 +6157,7 @@ Porter
 Posies
 Brian
 Young
-Nakipag
+Nakipag-ugnay
 Young
 Fountains
 Wayne
@@ -6203,7 +6178,7 @@ Schlesinger
 We
 But
 And
-Adams
+Adam
 We
 Radiation
 Vibe
@@ -6216,7 +6191,7 @@ The
 Lemonheads
 Schlesinger
 Academy
-Award
+Award-nominated
 RIAA
 That
 Thing
@@ -6237,7 +6212,7 @@ When
 Atlantic
 I
 I
-Id
+I'd
 I
 I
 I
@@ -6259,7 +6234,7 @@ Giants
 Ivy
 Collingwood
 Northampton
-Massachusetts
+Massachusetts-based
 Gay
 Potato
 Boston
@@ -6325,10 +6300,9 @@ All
 Kinds
 Time
 NFL
-Out
-State
+Out-of-State
 Plates
-B
+B-side
 Maureen
 US
 PBS
@@ -6377,7 +6351,7 @@ Toothpick
 Fountains
 Wayne
 Porter
-Its
+It
 I
 We
 Overall
@@ -6743,13 +6717,13 @@ Argentariorum
 San
 Giorgio
 Velabro
-Kardinal
-Diyakono
+Kardinal-Diyakono
 AD
 Gregorio
 I
 Gianfranco
 Ravasi
+Kardinal-Diyakono
 Guitar
 The
 Lion
@@ -6819,8 +6793,7 @@ Linnell
 Flansburgh
 Don't
 Tread
-Cut
-Up
+Cut-Up
 Snake
 World
 Tour
@@ -6937,7 +6910,7 @@ Hertty
 Lewites
 Alyansang
 MRS
-Kataas
+Kataas-taasang
 Konsehong
 Elektoral
 Nicaragua
@@ -7344,8 +7317,8 @@ Mansion
 Mandy
 Sandy
 Bentley
-Nag
-Nakipag
+Nag-date
+Nakipag-date
 Brande
 Roderick
 Izabella
@@ -7446,7 +7419,7 @@ Obama
 Hefner
 Hollywood
 Sign
-Nag
+Nag-host
 Playboy
 Mansion
 Y
@@ -7543,7 +7516,6 @@ Times
 Hefner
 Amerika
 Hefner
-Aesthetic
 Hefner
 Holly
 Madison
@@ -7625,7 +7597,7 @@ Maaaring
 Nababaliw
 Wag
 Nagbibiro
-Nag
+Nag-aalala
 Jill
 Rogers
 Diane
@@ -7672,7 +7644,7 @@ Ipinaliwanag
 Gaslighting
 Mothers
 Who
-Cant
+Can't
 Love
 A
 Healing
@@ -7786,8 +7758,7 @@ Roma
 San
 Anselmo
 Canterbury
-Kardinal
-Diyakono
+Kardinal-Diyakono
 Juan
 Pablo
 II
@@ -8320,11 +8291,10 @@ Stars
 Beer
 Miyeon
 Soyeon
-GI
-DLE
+GI-DLE
 Jaira
 Burns
-K
+K-pop
 K
 DA
 League
@@ -8406,7 +8376,7 @@ Jack
 Natapos
 Gilinsky
 Beer
-Nag
+Nag-isyu
 Gilinsky
 Tinukoy
 Beer
@@ -8496,13 +8466,11 @@ Eyewitness
 LP
 LP
 EP
-Wire
 Newman
 We
 Meet
 Under
 Tables
-Wire
 Gilbert
 Lewis
 Dome
@@ -8521,14 +8489,12 @@ Noong
 Inihayag
 Wire
 The
-Ex
-Lion
+Ex-Lion
 Tamers
 Wire
 Pink
 Flag
-Ex
-Lion
+Ex-Lion
 Tamers
 Wire
 Wire
@@ -8676,8 +8642,7 @@ Rollins
 Henrietta
 Collins
 The
-Wife
-Beating
+Wife-Beating
 Childhaters
 Ex
 Lion
@@ -8792,9 +8757,7 @@ Bomb
 Turks
 G
 Suit
-Destroy
-Oh
-Boy
+Destroy-Oh-Boy
 Ministri
 Mr
 Suit
@@ -8830,7 +8793,7 @@ My
 Mind
 Nanobots
 EP
-Nag
+Nag-premiere
 You're
 Fire
 Stereogum
@@ -9063,7 +9026,6 @@ Syracuse
 Sisilia
 Dionysius
 Ikapitong
-Kapansin
 Platon
 Socrates
 Platon
@@ -9073,7 +9035,6 @@ Socrates
 Atenas
 Phaedrus
 Piraeus
-Atenas
 Atenas
 Estranghero
 Spartan
@@ -9104,7 +9065,6 @@ Platon
 BC
 Platon
 Socrates
-Atenas
 Sinusuri
 Kallipolis
 Tinatalakay
@@ -9194,7 +9154,6 @@ City
 Estados
 Unidos
 Siya
-Ireland
 Monica
 Brennan
 Paul
@@ -9264,7 +9223,7 @@ Wright
 Atonement
 Ian
 McEwan
-Nag
+Nag-audition
 Briony
 Tallis
 Keira
@@ -9297,8 +9256,7 @@ Supporting
 Actress
 Ronan
 Catherine
-Zeta
-Jones
+Zeta-Jones
 Death
 Defying
 Acts
@@ -9511,7 +9469,6 @@ Stockholm
 Ronan
 Eilis
 Lacey
-Ireland
 New
 York
 Brooklyn
@@ -9799,6 +9756,7 @@ Times
 Ireland
 Si
 Ronan
+Net-a-Porter
 Calvin
 Klein
 Lupita
@@ -9943,10 +9901,7 @@ Terracina
 San
 Pedro
 Terracina
-Latina
-Terracina
-Sezze
-Priverno
+Latina-Terracina-Sezze-Priverno
 Francesca
 Romana
 Roma
@@ -10046,7 +10001,7 @@ Andrew
 Innes
 Robert
 Young
-B
+B-side
 Velocity
 Girl
 NME
@@ -10202,7 +10157,6 @@ Make
 History
 Gillespie
 Palestine
-Semitiko
 There
 Israeli
 Jewish
@@ -10222,7 +10176,6 @@ Austria
 Nazi
 Palestinian
 To
-Semitic
 Because
 I
 Bush
@@ -10290,8 +10243,7 @@ Prize
 Geordie
 Greep
 Matt
-Kwasniewski
-Kelvin
+Kwasniewski-Kelvin
 Morgan
 Simpson
 Cameron
@@ -10307,8 +10259,7 @@ The
 Year
 Noong
 Greep
-Kwasniewski
-Kelvin
+Kwasniewski-Kelvin
 Simpson
 Greep
 Kelvin
@@ -10426,8 +10377,7 @@ Ito
 Pandaigdigang
 Pamanang
 UNESCO
-Arabe
-Normandong
+Arabe-Normandong
 Palermo
 Cefalù
 Monreale
@@ -10529,20 +10479,17 @@ Gitnang
 Kapanahunan
 Europa
 Eskoses
-Europa
 Kanlurang
 Aprika
-Pinagsama
+Pinagsama-sama
 Eskoses
 Kanluraning
 Aprikano
 Aprikano
-Aprikanong
-Amerikano
+Aprikanong-Amerikano
 Timugang
 Estados
 Unidos
-Paminsan
 KFC
 T
 Sy
@@ -10676,8 +10623,8 @@ Pilipinas
 Ilocos
 Nagdala
 Taiwan
-Silanganag
-Kalupaang
+Silanganag-Kalupaang
+Tsina
 Severe
 Storm
 Binabantayan
@@ -10798,10 +10745,8 @@ Plus
 Early
 Singles
 Univox
-Super
-Fuzz
-Electro
-Harmonix
+Super-Fuzz
+Electro-Harmonix
 Big
 Muff
 Mark
@@ -10864,14 +10809,14 @@ Flansburgh
 The
 He
 PopMatters
-Smiths
+Smiths-like
 Then
 The
 AV
 Club
 Join
 Us
-Linnells
+Linnell
 Can't
 Keep
 Johnny
@@ -10946,7 +10891,7 @@ Revolution
 Pilipinas
 Ruben
 Mallari
-Pilipinong
+Pilipinong-Amerikano
 Nakita
 Marcos
 People
@@ -10995,7 +10940,7 @@ Revolution
 Wall
 Remembrance
 Kalinga
-Macli
+Macli-ing
 Dulag
 Chino
 Roces
@@ -11087,7 +11032,7 @@ I
 I
 Through
 And
-Pourd
+Pour'd
 To
 Eduardo
 Castrillo
@@ -11274,7 +11219,7 @@ Chiesa
 Santissima
 Trinità
 Pellegrini
-Kabanal
+Kabanal-banalang
 Peregrino
 Romanong
 Via
@@ -11502,7 +11447,7 @@ Let
 Rock
 Carney
 Nashville
-Tennessee
+Tennessee-based
 Audio
 Eagle
 The
@@ -11573,7 +11518,7 @@ The
 Rentals
 Lost
 Alphaville
-Nag
+Nag-ambag
 Carney
 Netflix
 BoJack
@@ -12059,8 +12004,7 @@ Grammy
 Award
 Producer
 Year
-Non
-Classical
+Non-Classical
 Auerbach
 Ohio
 Mary
@@ -12097,7 +12041,6 @@ Auerbach
 Firestone
 High
 School
-Nag
 University
 Akron
 Auerbach
@@ -12120,7 +12063,7 @@ Clarence
 White
 Robert
 Nighthawk
-T
+T-Model
 Ford
 Hound
 Dog
@@ -12133,8 +12076,7 @@ Arnold
 Son
 House
 RZA
-Wu
-Tang
+Wu-Tang
 Clan
 Auerbach
 The
@@ -12318,9 +12260,7 @@ Black
 Keys
 Damon
 Dash
-Roc
-A
-Fella
+Roc-A-Fella
 Records
 Nagtatampok
 RB
@@ -12334,7 +12274,7 @@ Ludacris
 Billy
 Danze
 MOP
-Q
+Q-Tip
 A
 Tribe
 Called
@@ -12348,8 +12288,7 @@ RZA
 Ol
 Dirty
 Bastard
-Wu
-Tang
+Wu-Tang
 Clan
 Arcs
 Auerbach
@@ -12401,8 +12340,7 @@ Awards
 Auerbach
 Producer
 Year
-Non
-Classical
+Non-Classical
 Grammy
 Awards
 Auerbach
@@ -12631,8 +12569,7 @@ Blue
 Best
 Both
 Worlds
-CDtwo
-DVD
+CDtwo-DVD
 DVD
 CD
 DVD
@@ -12684,7 +12621,7 @@ National
 Capital
 Region
 NCR
-Nag
+Nag-uulat
 Bureau
 Jail
 Management
@@ -12706,7 +12643,7 @@ Japan
 Ashikaga
 Shogunate
 Japan
-Ikkō
+Ikkō-ikki
 Hapon
 Japan
 Tsina
@@ -12715,9 +12652,9 @@ Nobunaga
 Ashikaga
 Shogunate
 Ishiyama
-Hongan
+Hongan-ji
 War
-Honnō
+Honnō-ji
 Nobunaga
 Toyotomi
 Hideyoshi
@@ -12821,7 +12758,7 @@ Shiba
 Toyotomi
 Hideyoshi
 Purong
-Ikkō
+Ikkō-ikki
 Lalawigan
 Kaga
 Japan
@@ -12835,12 +12772,12 @@ Akechi
 Mitsuhide
 Toyotomi
 Hideyoshi
-Pinagsama
+Pinagsama-sama
 Toyotomi
 Kampaku
 Imperial
 Regent
-Sei
+Sei-i
 Taishōgun
 Kampaku
 Toyotomi
@@ -12849,8 +12786,7 @@ Joseon
 Navy
 Koreano
 Yi
-Sun
-Sin
+Sun-Sin
 Noong
 Toyotomi
 Korea
@@ -12877,7 +12813,6 @@ Tokugawa
 Toyotomi
 Labanan
 Sekigahara
-Tokugawa
 Tokugawa
 Pangkalahatang
 Sengoku
@@ -13240,8 +13175,7 @@ Baldwin
 Siya
 Romantikong
 Montgisard
-Charles
-Philippe
+Charles-Philippe
 Larivière
 Salles
 Croisades
@@ -13251,8 +13185,7 @@ Labanan
 Montgisard
 Baldwin
 Zofia
-Kossak
-Szczucka
+Kossak-Szczucka
 Krol
 Manuel
 Mujica
@@ -13557,7 +13490,7 @@ Billboard
 Black
 Keys
 Panrehiyon
-Nag
+Nag-iiba-iba
 GayBubble
 OnlyDudes
 GayBubble
@@ -13605,7 +13538,6 @@ Ehipto
 Lebante
 Tangway
 Arabia
-Arabeng
 Turko
 Imperyong
 Otomano
@@ -13613,8 +13545,9 @@ Turkiya
 Gresya
 Mehiko
 Libanong
-Ipinapatong
+Ipinapatong-patong
 Maaaring
+Dahan-dahang
 Ipinuputol
 Kadalasang
 Gitnang
@@ -13669,7 +13602,7 @@ CIA
 Nagbunyag
 NSA
 Alyansang
-Pang
+Pang-intelihensiya
 Five
 Eyes
 Europa
@@ -13816,6 +13749,7 @@ Carlo
 Maratta
 Bilangguang
 Mamertine
+Kardinal-Diyakono
 AD
 Gregoryano
 Kastilang

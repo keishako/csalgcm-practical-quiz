@@ -6,6 +6,8 @@ filename = "results/csvfiles/count_words.csv"
 
 # each rule: (old, new), order matters
 KEY_RULES = [
+    ("-", ""),
+    ("'", ""),
     ("ch", "ts"),
     ("e", "i"),
     ("o", "u"),
@@ -15,7 +17,8 @@ KEY_RULES = [
     ("c", "k"),
     ("v", "b"),
     ("f", "p"),
-    # add more when dataset is released
+    ("u", ""),
+    ("i", ""),
 ]
 
 # word into simplified version (replace old with new) using KEY_RULES

@@ -215,8 +215,7 @@ maliwanag
 nagniningning
 kasaysayan
 mga
-gawa
-gawang
+gawa-gawang
 pinagmulan
 ang
 mito
@@ -251,6 +250,7 @@ ay
 sa
 pagkakatatag
 ng
+argenta
 ang
 ay
 isang
@@ -262,8 +262,7 @@ lalawigan
 ng
 ito
 mga
-timog
-silangan
+timog-silangan
 ng
 at
 sa
@@ -301,7 +300,7 @@ ay
 tahanan
 ng
 na
-aalok
+nag-aalok
 ng
 maraming
 mga
@@ -351,7 +350,7 @@ isang
 pari
 don
 isang
-pasista
+anti-pasista
 at
 boses
 ng
@@ -379,7 +378,7 @@ sa
 estatal
 na
 na
-uugnay
+nag-uugnay
 dito
 sa
 at
@@ -442,8 +441,7 @@ turismo
 ay
 lumago
 nang
-kapansin
-pansin
+kapansin-pansin
 sa
 mga
 nakaraang
@@ -470,8 +468,7 @@ pagitan
 ng
 at
 sa
-hilagang
-kanlurang
+hilagang-kanlurang
 gilid
 ng
 talampas
@@ -797,7 +794,6 @@ ay
 binubuo
 ng
 ng
-europeo
 na
 pinagmulan
 at
@@ -863,8 +859,7 @@ ng
 pinong
 buhangin
 na
-halo
-halong
+halo-halong
 mga
 maliliit
 na
@@ -943,8 +938,7 @@ kabesera
 at
 ng
 at
-punong
-tanggapan
+punong-tanggapan
 ng
 administratibo
 ng
@@ -973,7 +967,7 @@ munisipyo
 mayroon
 tatlong
 institusyong
-edukasyon
+pang-edukasyon
 sa
 itaas
 na
@@ -1014,8 +1008,7 @@ ang
 komuna
 ay
 mayroong
-punong
-tanggapan
+punong-tanggapan
 ng
 kooperatibang
 mga
@@ -1151,10 +1144,8 @@ at
 mula
 hanggang
 ang
-di
-matatawarang
-pagmamay
-ari
+di-matatawarang
+pagmamay-ari
 ng
 banal
 na
@@ -1246,8 +1237,7 @@ ay
 isang
 ekumeniko
 na
-pambansa
-demokratikong
+pambansa-demokratikong
 organisasyon
 na
 pinamunuan
@@ -1263,7 +1253,7 @@ mga
 karapatan
 ng
 mga
-aaral
+mag-aaral
 at
 lumahok
 sa
@@ -1328,8 +1318,7 @@ ay
 lumahok
 sa
 kilusang
-pangmag
-aaral
+pangmag-aaral
 sa
 noong
 at
@@ -1450,8 +1439,7 @@ nang
 maglaon
 ang
 mga
-pag
-uusap
+pag-uusap
 na
 ito
 ay
@@ -1475,7 +1463,7 @@ nanatiling
 aktibo
 sa
 kilusang
-aaral
+mag-aaral
 sa
 ng
 pati
@@ -1506,6 +1494,7 @@ mga
 senior
 ng
 sina
+kōzan-ji
 ang
 opisyal
 na
@@ -1525,7 +1514,6 @@ ang
 bilang
 ang
 at
-dera
 ang
 templo
 ng
@@ -1545,12 +1533,9 @@ yaman
 at
 mahahalagang
 pangkalinangang
-pagmamay
-ari
+pagmamay-ari
 kabilang
 ang
-jinbutsu
-giga
 isang
 grupo
 ng
@@ -1649,7 +1634,7 @@ lugar
 tulad
 ng
 at
-ayon
+sang-ayon
 sa
 alamat
 may
@@ -1674,8 +1659,7 @@ ang
 katumpakan
 ng
 mga
-sabi
-sabi
+sabi-sabi
 na
 ito
 ay
@@ -1697,7 +1681,6 @@ ang
 isang
 templo
 ni
-emperador
 pinili
 niya
 ang
@@ -1751,8 +1734,7 @@ bilang
 isang
 mahalagang
 pangkalinangang
-pagmamay
-ari
+pagmamay-ari
 dahil
 ipinapakita
 nito
@@ -1875,8 +1857,7 @@ ang
 mga
 gusaling
 ito
-pagmamay
-ari
+pagmamay-ari
 pangkalinangan
 nasa
 templo
@@ -1884,7 +1865,7 @@ ang
 maraming
 kayamanan
 at
-ari
+pagmamay-ari
 bagaman
 ang
 karamihan
@@ -1970,7 +1951,7 @@ lumaki
 sa
 isang
 panlalawigang
-ari
+ari-arian
 sa
 panahon
 ng
@@ -2011,14 +1992,12 @@ sa
 dulo
 ng
 kanyang
-pag
-aaral
+pag-aaral
 sabi
 sa
 isang
 inskripsyon
-sinang
-ayunan
+sinang-ayunan
 niya
 ang
 pagnanais
@@ -2031,8 +2010,7 @@ ang
 kanyang
 pamilya
 na
-nakipag
-usap
+nakipag-usap
 siya
 sa
 isang
@@ -2062,8 +2040,7 @@ at
 higit
 sa
 lahat
-di
-epektibong
+di-epektibong
 haring
 ang
 kanyang
@@ -2073,8 +2050,7 @@ lolo
 sa
 tiyuhin
 ang
-pag
-alis
+pag-alis
 sa
 lupain
 ng
@@ -2087,8 +2063,7 @@ hukbo
 naghatid
 siya
 ng
-kakila
-kilabot
+kakila-kilabot
 na
 laban
 sabi
@@ -2119,8 +2094,7 @@ ang
 isang
 serpyente
 hindi
-sumang
-ayon
+sumang-ayon
 ang
 mga
 iskolar
@@ -2150,8 +2124,7 @@ ipinakita
 ang
 isang
 mahalagang
-batong
-hiyas
+batong-hiyas
 sa
 emperador
 ng
@@ -2186,8 +2159,7 @@ inskripsyong
 nakatala
 ay
 nagsasabing
-pinag
-aralan
+pinag-aralan
 ng
 bagong
 monarko
@@ -2271,8 +2243,7 @@ ng
 monarko
 ay
 isang
-salitang
-ugat
+salitang-ugat
 sa
 wikang
 na
@@ -2306,8 +2277,7 @@ mga
 dekada
 sa
 kapangyarihan
-pinag
-isa
+pinag-isa
 ng
 hari
 ang
@@ -2531,13 +2501,13 @@ at
 ipinakilala
 ang
 na
-udyok
+nag-udyok
 sa
 malawakang
 mga
 protesta
 at
-udyok
+nag-udyok
 sa
 riot
 ng
@@ -2582,6 +2552,7 @@ ang
 humantong
 sa
 mga
+sit-in
 ng
 mga
 magsasaka
@@ -2596,8 +2567,7 @@ ng
 kanilang
 pormal
 na
-pagpapawalang
-bisa
+pagpapawalang-bisa
 ni
 ang
 pagtugon
@@ -2669,8 +2639,7 @@ lalo
 na
 sa
 mga
-mamasa
-masa
+mamasa-masa
 na
 lupa
 sa
@@ -2764,19 +2733,16 @@ sa
 lalawigan
 ng
 sa
-hilagang
-kanlurang
+hilagang-kanlurang
 rehiyon
 ng
 ng
 ito
 sa
-timog
-silangan
+timog-silangan
 ng
 at
-hilagang
-silangan
+hilagang-silangan
 ng
 sa
 lugar
@@ -2830,7 +2796,7 @@ ng
 keso
 isang
 pagdiriwang
-internasyonal
+pang-internasyonal
 na
 pagdiriwang
 kada
@@ -3030,15 +2996,13 @@ bayan
 at
 komuna
 sa
-hilagang
-gitnang
+hilagang-gitnang
 ang
 bayan
 ay
 matatagpuan
 mga
-hilagang
-kanluran
+hilagang-kanluran
 ng
 ang
 alinman
@@ -3188,7 +3152,7 @@ kabilang
 sa
 mga
 na
-nagho
+nagho-host
 ng
 sariwang
 tubig
@@ -3264,7 +3228,7 @@ tennis
 sa
 ay
 naging
-apat
+pang-apat
 na
 lalaking
 manlalaro
@@ -3307,8 +3271,7 @@ lamang
 ng
 araw
 siya
-sunud
-sunod
+sunud-sunod
 unang
 pagkatapos
 at
@@ -3352,8 +3315,7 @@ manlalaro
 na
 nagtataglay
 ng
-pinaka
-pangunahing
+pinaka-pangunahing
 pamagat
 sa
 kasaysayan
@@ -3389,7 +3351,7 @@ ama
 ay
 isang
 ng
-tennis
+table-tennis
 siya
 pagkatpos
 ng
@@ -3432,7 +3394,6 @@ pamamagitan
 ng
 pagkatalo
 kina
-hyuk
 at
 na
 gumawa
@@ -3444,7 +3405,7 @@ pagdiriwang
 sa
 pamamagitan
 ng
-pag
+pag-rip
 ng
 kanyang
 matapos
@@ -3464,7 +3425,6 @@ pamamagitan
 ng
 pagkatalo
 sa
-hyuk
 sa
 huling
 matapos
@@ -3494,8 +3454,7 @@ sa
 naglaro
 ng
 isang
-kakila
-kilabot
+kakila-kilabot
 na
 laban
 laban
@@ -3516,6 +3475,7 @@ manalo
 sa
 laban
 sa
+semi-final
 tinalo
 niya
 sa
@@ -3562,6 +3522,7 @@ na
 natalo
 kay
 sa
+semi-final
 laban
 sa
 sa
@@ -3644,15 +3605,17 @@ ng
 pagkatalo
 kay
 sa
+semi-final
 at
+ma
 sa
 huling
 siya
 para
 sa
 kanyang
-kamangha
-manghang
+kamangha-manghang
+backhand-banana
 sa
 at
 kumuha
@@ -3681,6 +3644,7 @@ nagalit
 siya
 ni
 sa
+semi-final
 ng
 solong
 ng
@@ -3716,8 +3680,10 @@ ng
 tinalo
 ni
 sa
+quarter-final
 at
 sa
+semi-final
 sa
 pangwakas
 na
@@ -3743,9 +3709,7 @@ sa
 sa
 natalo
 kay
-su
 ng
-korea
 hindi
 siya
 maaaring
@@ -3775,6 +3739,7 @@ susunod
 na
 buwan
 sa
+nag-concede
 siya
 sa
 laban
@@ -3795,8 +3760,7 @@ matapos
 ang
 buwan
 na
-pag
-absent
+pag-absent
 muling
 nagpakita
 sa
@@ -3836,8 +3800,7 @@ dahil
 ito
 ang
 kanyang
-kauna
-unahang
+kauna-unahang
 laban
 matapos
 ang
@@ -3870,7 +3833,6 @@ porma
 at
 tinalo
 sina
-yu
 at
 sa
 kasamaang
@@ -3911,7 +3873,6 @@ ang
 dalawang
 buwan
 sa
-asia
 ay
 tinalo
 niya
@@ -3933,7 +3894,7 @@ ay
 isang
 atleta
 na
-na
+na-sponsor
 ng
 siya
 ng
@@ -3952,6 +3913,7 @@ kanyang
 ang
 ay
 isang
+two-winged
 shakehand
 na
 gumagamit
@@ -3961,8 +3923,7 @@ kombinasyon
 ng
 mabilis
 na
-pag
-atake
+pag-atake
 ng
 mga
 topspin
@@ -4023,11 +3984,13 @@ nagbabalik
 ng
 mabibigat
 na
+under-spin
 serv
 at
 tinutulak
 ang
 kanyang
+on-the-table
 ay
 malawak
 na
@@ -4049,7 +4012,7 @@ koponan
 ang
 mga
 ay
-alala
+nag-alala
 tungkol
 sa
 kanyang
@@ -4086,8 +4049,7 @@ ang
 diskarteng
 nakatuon
 sa
-pag
-ikot
+pag-ikot
 ni
 ay
 nagbibigay
@@ -4121,6 +4083,7 @@ paglilingkod
 ay
 marahil
 ang
+reverse-pendulum
 maikling
 paglilingkod
 sa
@@ -4129,6 +4092,7 @@ sulok
 ng
 talahanayan
 ang
+side-spin
 sa
 paghahatid
 kasama
@@ -4143,8 +4107,7 @@ gawa
 sa
 paa
 at
-pag
-asa
+pag-asa
 sa
 nangungunang
 klase
@@ -4167,8 +4130,7 @@ toppin
 sa
 kanyang
 kalamangan
-kapansin
-pansin
+kapansin-pansin
 na
 maglalaro
 siya
@@ -4200,7 +4162,9 @@ pupunta
 para
 sa
 mga
+down-the-line
 na
+nag-block
 ng
 mga
 nagwagi
@@ -4238,16 +4202,14 @@ ang
 isa
 sa
 pinakamahalagang
-pag
-aari
+pag-aari
 ng
 ay
 ang
 kanyang
 lakas
 sa
-pag
-iisip
+pag-iisip
 ang
 kanyang
 kakayahang
@@ -4299,8 +4261,7 @@ niya
 ng
 pagtuon
 at
-pag
-unlad
+pag-unlad
 ng
 diskarte
 pinangunahan
@@ -4348,7 +4309,7 @@ ang
 pondong
 ito
 upang
-mai
+mai-set
 ang
 mga
 tala
@@ -4370,7 +4331,6 @@ na
 pinagbibidahan
 nina
 at
-umpisa
 ito
 sa
 telebabad
@@ -4424,8 +4384,7 @@ isang
 indibidwal
 sa
 ang
-anyong
-tubig
+anyong-tubig
 na
 nasa
 timog
@@ -4445,7 +4404,6 @@ matatagpuan
 sa
 probinsya
 ng
-tawi
 sa
 ang
 mga
@@ -4520,8 +4478,7 @@ rehiyon
 ng
 at
 at
-paminsan
-minsan
+paminsan-minsan
 ang
 bahagi
 ng
@@ -4733,9 +4690,9 @@ ang
 ay
 isang
 pangngalan
-uri
+pang-uri
 o
-abay
+pang-abay
 na
 nagpapahiwatig
 ng
@@ -4849,7 +4806,7 @@ ideolohiya
 ng
 partido
 na
-greko
+greko-arabeng
 kilusan
 sa
 pagsasalin
@@ -4944,7 +4901,7 @@ ang
 panahong
 mga
 pangyayaring
-pre
+pre-islamiko
 itinatag
 ng
 ikasiyam
@@ -4965,8 +4922,7 @@ na
 kolehiyo
 kung
 saan
-mapag
-aaralan
+mapag-aaralan
 ang
 mga
 iba't
@@ -4987,12 +4943,10 @@ ang
 isang
 obserbatoryo
 na
-makakapag
-alok
+makakapag-alok
 ng
 mga
-pag
-aaral
+pag-aaral
 sa
 dentisteriya
 arkitektura
@@ -5062,7 +5016,7 @@ mga
 pangunahing
 pampublikong
 institusyong
-edukasyon
+pang-edukasyon
 maraming
 iskolar
 ang
@@ -5135,7 +5089,7 @@ pagsasalin
 ng
 mga
 tekstong
-agham
+pang-agham
 ang
 kilusan
 sa
@@ -5176,9 +5130,7 @@ panahong
 na
 kumalat
 sa
-kanlurang
 at
-silangang
 ay
 naglatag
 ng
@@ -5191,7 +5143,6 @@ may
 kakayahang
 manggatong
 ng
-greko
 kilusan
 sa
 pagsasalin
@@ -5240,8 +5191,7 @@ sakop
 malamang
 na
 ang
-bagong
-tuklas
+bagong-tuklas
 na
 katatagan
 sa
@@ -5298,8 +5248,7 @@ para
 sa
 sekluar
 na
-pag
-aaral
+pag-aaral
 buto
 ng
 ang
@@ -5349,8 +5298,7 @@ nito
 maaaring
 para
 sa
-pag
-uukit
+pag-uukit
 ginamit
 ito
 bilang
@@ -5430,8 +5378,7 @@ hindi
 inukit
 lang
 nang
-basta
-basta
+basta-basta
 at
 maaaring
 ginamit
@@ -5517,8 +5464,7 @@ kung
 saan
 ito
 nadiskubre
-napag
-alaman
+napag-alaman
 na
 aabot
 sa
@@ -5538,7 +5484,7 @@ eksibisyon
 ang
 buto
 sa
-linstitut
+l'institut
 des
 sa
 sa
@@ -5556,8 +5502,7 @@ saan
 ginrupo
 ito
 nang
-di
-pantay
+di-pantay
 na
 naghatid
 ng
@@ -5687,8 +5632,7 @@ rito
 nagbigay
 ng
 isang
-kuro
-kuro
+kuro-kuro
 na
 ang
 gumawa
@@ -5718,8 +5662,7 @@ langit
 ito
 ng
 isang
-pag
-aaral
+pag-aaral
 at
 sinabing
 masyadong
@@ -5758,7 +5701,7 @@ na
 may
 báseng
 at
-baseng
+sub-baseng
 at
 kung
 saan
@@ -5783,8 +5726,7 @@ sa
 buto
 ay
 hindi
-basta
-bastang
+basta-bastang
 inukit
 at
 maaaring
@@ -5938,8 +5880,7 @@ ang
 buto
 ay
 isang
-papalit
-palit
+papalit-palit
 na
 panukat
 sa
@@ -6092,7 +6033,7 @@ isa
 tambilang
 ngunit
 maaaring
-iba
+mag-iba
 ang
 hitsura
 ng
@@ -6111,7 +6052,7 @@ panahon
 pinakaginagamit
 ang
 mga
-bilang
+bilang-arabo
 ang
 hitsurang
 ginagamit
@@ -6130,8 +6071,7 @@ mga
 tambilang
 at
 ang
-kani
-kanilang
+kani-kanilang
 mga
 halaga
 sero
@@ -6165,7 +6105,6 @@ sa
 siyam
 sa
 sistemang
-hindu
 ginagamitan
 ng
 notasyong
@@ -6228,8 +6167,6 @@ na
 nasa
 posisyong
 isinaad
-tuloy
-tuloy
 ito
 hanggang
 sa
@@ -6314,8 +6251,7 @@ kung
 eksaktong
 panagdag
 ang
-pinag
-uusapan
+pinag-uusapan
 tulad
 halimbawa
 ng
@@ -6535,8 +6471,7 @@ ng
 aritmetika
 kung
 saan
-paulit
-ulit
+paulit-ulit
 na
 dadagdagan
 ang
@@ -6726,8 +6661,7 @@ kabuo
 madalas
 tinatawag
 na
-paulit
-ulit
+paulit-ulit
 na
 pagdaragdag
 ang
@@ -6740,8 +6674,7 @@ isang
 ekspresyon
 bilang
 isang
-sunod
-sunod
+sunod-sunod
 na
 pagdaragdag
 sa
@@ -6798,8 +6731,7 @@ sa
 mababang
 paaralan
 ang
-pa
-ekis
+pa-ekis
 na
 anyo
 ng
@@ -6967,8 +6899,7 @@ ang
 sagot
 sa
 kanan
-kaliwa
-muna
+kaliwa-muna
 ang
 tradisyonal
 na
@@ -6986,8 +6917,7 @@ partikular
 na
 ekspresyong
 may
-sunod
-sunod
+sunod-sunod
 na
 dapat
 hatiin
@@ -7097,8 +7027,6 @@ ang
 sumunod
 na
 at
-tuloy
-tuloy
 ito
 hanggang
 sa
@@ -7409,7 +7337,7 @@ sa
 labas
 ng
 ang
-iisa
+nag-iisa
 lamang
 na
 isinama
@@ -7477,8 +7405,7 @@ pagpipinta
 ng
 sa
 isang
-tuloy
-tuloy
+tuloy-tuloy
 at
 independiyenteng
 batayan
@@ -7567,8 +7494,7 @@ populasyon
 ng
 residente
 ay
-humigit
-kumulang
+humigit-kumulang
 na
 ang
 bilang
@@ -7579,7 +7505,7 @@ maaaring
 tumaas
 dahil
 sa
-pag
+pag-commute
 sa
 umiiral
 na
@@ -7587,8 +7513,7 @@ urbanong
 pook
 hanggang
 sa
-humigit
-kumulang
+humigit-kumulang
 heograpiya
 ang
 ng
@@ -7803,8 +7728,7 @@ ang
 palasyo
 ay
 naging
-pag
-aari
+pag-aari
 ng
 lalawigan
 na
@@ -7885,7 +7809,7 @@ sa
 ang
 pangunahing
 gawaing
-ekonomiya
+pang-ekonomiya
 ng
 ayon
 sa
@@ -7897,8 +7821,7 @@ ay
 nauugnay
 sa
 agrikultura
-pag
-aanak
+pag-aanak
 ng
 baka
 at
@@ -7981,7 +7904,6 @@ partikular
 ang
 ugat
 ng
-europeo
 na
 nangangahulugang
 isang
@@ -8058,8 +7980,7 @@ naninirahan
 sa
 panahon
 ng
-tag
-init
+tag-init
 kabilang
 sa
 mga
@@ -8090,7 +8011,7 @@ rehiyon
 ay
 gumagawa
 ng
-kalidad
+de-kalidad
 na
 langis
 ng
@@ -8118,7 +8039,7 @@ ng
 maraming
 kuweba
 ay
-aalok
+nag-aalok
 ng
 perpektong
 natural
@@ -8172,8 +8093,7 @@ komuna
 sa
 gitnang
 sa
-timog
-silangan
+timog-silangan
 ng
 na
 may
@@ -8248,8 +8168,7 @@ isang
 destinasyon
 para
 sa
-pana
-panahon
+pana-panahon
 o
 permanenteng
 imigrasyon
@@ -8296,10 +8215,8 @@ ng
 gusali
 ay
 may
-kapansin
-pansing
-pag
-unlad
+kapansin-pansing
+pag-unlad
 medyo
 maunlad
 na
@@ -8353,7 +8270,7 @@ kuwento
 ng
 santo
 ay
-na
+na-martyr
 noong
 torre
 di
@@ -8700,8 +8617,6 @@ ng
 pisa
 kanlurang
 ang
-daigdig
-ingles
 ay
 ang
 bahagi
@@ -8907,8 +8822,7 @@ ay
 isang
 maliit
 na
-templo
-simbahan
+templo-simbahan
 tempietto
 sa
 na
@@ -8943,8 +8857,7 @@ at
 ang
 bubonikong
 peste
-paulit
-ulit
+paulit-ulit
 na
 naapektuhan
 ng
@@ -9234,8 +9147,7 @@ pagdaan
 ng
 mga
 siglo
-kapansin
-pansin
+kapansin-pansin
 pagkatapos
 ng
 maraming
@@ -9395,6 +9307,7 @@ ang
 rurok
 ng
 isang
+three-bout
 na
 tunggalian
 sa
@@ -9427,6 +9340,7 @@ ang
 milyong
 manonood
 sa
+closed-circuit
 teatro
 sa
 telebisyon
@@ -9434,6 +9348,7 @@ at
 na
 pagbili
 ng
+pay-per-view
 sa
 television
 mga
@@ -9484,8 +9399,6 @@ populasyon
 ay
 nabibilang
 sa
-sino
-tai
 at
 ilang
 iba
@@ -9500,8 +9413,7 @@ na
 wika
 ang
 ang
-ika
-apat
+ika-apat
 na
 mayroong
 pinakamataas
@@ -9973,8 +9885,7 @@ itinatag
 noong
 na
 may
-pag
-apruba
+pag-apruba
 ni
 papa
 at
@@ -10006,7 +9917,7 @@ ang
 mga
 prayle
 ay
-alaga
+nag-alaga
 sa
 mga
 maysakit
@@ -10033,8 +9944,7 @@ kay
 ngunit
 binago
 ang
-pag
-aalay
+pag-aalay
 nito
 kay
 ng
@@ -10046,8 +9956,7 @@ ay
 dating
 may
 kilalang
-silid
-aklatan
+silid-aklatan
 ngunit
 ang
 institusyon
@@ -10101,10 +10010,9 @@ naglalaman
 ng
 mga
 gawaing
-espiritwal
+pang-espiritwal
 at
-pag
-edukasyon
+pag-edukasyon
 la
 ang
 ay
@@ -10135,8 +10043,7 @@ ay
 natapos
 ang
 kanyang
-pag
-aaral
+pag-aaral
 sa
 dalawang
 unibersidad
@@ -10233,8 +10140,7 @@ hilaga
 ng
 at
 kilometro
-timog
-kanluran
+timog-kanluran
 ng
 lungsod
 ng
@@ -10246,13 +10152,11 @@ ang
 lungsod
 ay
 may
-humigit
-kumulang
+humigit-kumulang
 na
 residente
 habang
-humigit
-kumulang
+humigit-kumulang
 na
 katao
 ang
@@ -10275,8 +10179,7 @@ na
 isa
 sa
 mga
-pinaka
-nauugnay
+pinaka-nauugnay
 at
 na
 mga
@@ -10476,7 +10379,6 @@ nasa
 huling
 yugto
 sa
-silangang
 umabot
 ang
 pagpapalawak
@@ -10488,8 +10390,7 @@ nagsimula
 ang
 pagpapalawak
 ng
-tuloy
-tuloy
+tuloy-tuloy
 umakyat
 ang
 populasyon
@@ -10531,8 +10432,7 @@ din
 siya
 sa
 kilusang
-post
-romantiko
+post-romantiko
 bagaman
 sa
 buhay
@@ -10599,7 +10499,7 @@ sa
 kapaligiran
 nito
 ang
-ibat
+iba't
 ibang
 mga
 isyu
@@ -10661,8 +10561,7 @@ na
 ekosistema
 ngunit
 maaari
-isaalang
-alang
+isaalang-alang
 ang
 dimensyong
 panlipunan
@@ -10673,7 +10572,7 @@ kalusugan
 at
 ang
 dimensyong
-ekonomiya
+pang-ekonomiya
 pamamahala
 ng
 yaman
@@ -10898,8 +10797,7 @@ nagpinta
 ng
 bayan
 sa
-pag
-iral
+pag-iral
 nito
 noong
 pandaigdig
@@ -11134,8 +11032,7 @@ ay
 isa
 sa
 mga
-lungsod
-estado
+lungsod-estado
 ng
 at
 sa
@@ -11208,7 +11105,6 @@ komuna
 sa
 lalawigan
 ng
-italya
 pisikal
 na
 heograpiya
@@ -11332,8 +11228,7 @@ pamayanan
 noong
 siglo
 nasa
-timog
-silangan
+timog-silangan
 ng
 lungsod
 ang
@@ -11347,8 +11242,7 @@ cervia
 ang
 ay
 isang
-tabing
-dagat
+tabing-dagat
 na
 na
 bayan
@@ -11361,13 +11255,13 @@ sa
 hilagang
 rehiyon
 ng
+italya
 ng
 ang
 ay
 isang
 pangunahing
-tabing
-dagat
+tabing-dagat
 na
 sa
 ang
@@ -11383,8 +11277,7 @@ lubos
 na
 naiimpluwensiyahan
 ng
-pag
-iral
+pag-iral
 ng
 palakasan
 sining
@@ -11400,6 +11293,7 @@ unang
 lungsod
 ng
 upang
+mag-host
 ng
 isang
 na
@@ -11412,7 +11306,7 @@ para
 sa
 pinakasikat
 na
-atletikong
+pang-atletikong
 pangyayari
 sa
 buong
@@ -11502,8 +11396,7 @@ sa
 sa
 mayroon
 itong
-humigit
-kumulang
+humigit-kumulang
 naninirahan
 ito
 malapit
@@ -11566,8 +11459,7 @@ ay
 naiangat
 sa
 sa
-kauna
-unahang
+kauna-unahang
 pagkakataon
 sa
 kasaysayan
@@ -11669,8 +11561,7 @@ iba
 mga
 establisimyento
 na
-unti
-unti
+unti-unti
 ay
 nilikha
 sa
@@ -11683,7 +11574,7 @@ ay
 palaging
 may
 bokasyong
-agrikultura
+pang-agrikultura
 mula
 noong
 ito
@@ -11691,8 +11582,7 @@ ay
 matatagpuan
 sa
 at
-agro
-enerhiyang
+agro-enerhiyang
 distrito
 ng
 dei
@@ -11780,8 +11670,6 @@ bayan
 ay
 hindi
 malinaw
-griyego
-latin
 cumaculum
 na
 nangangahulugang
@@ -11859,13 +11747,10 @@ at
 komuna
 sa
 ng
-timog
-silangang
-italya
+timog-silangang
 ito
 ay
-timog
-silangan
+timog-silangan
 ng
 at
 mula
@@ -11882,15 +11767,14 @@ mga
 konde
 ng
 ay
-nagmamay
-ari
+nagmamay-ari
 ng
 isang
 kabalyerisang
 ginamit
 nila
 upang
-anak
+mag-anak
 ng
 mga
 itim
@@ -11946,6 +11830,7 @@ pambansang
 liga
 noong
 mga
+correggio
 ang
 ay
 isang
@@ -11975,8 +11860,7 @@ nito
 ay
 ng
 na
-pinag
-alayan
+pinag-alayan
 ng
 ng
 ito
@@ -12052,8 +11936,7 @@ tunguhing
 mula
 sa
 sa
-tag
-init
+tag-init
 na
 at
 nobelistang
@@ -12085,7 +11968,7 @@ kalayaan
 ng
 tao
 upang
-mai
+mai-configure
 ang
 kanyang
 buhay
@@ -12105,7 +11988,7 @@ sumunod
 na
 taon
 ay
-nai
+nai-publish
 ito
 sa
 bahagi
@@ -12175,8 +12058,7 @@ taglamig
 at
 mainit
 na
-tag
-araw
+tag-araw
 bagaman
 hindi
 gaanong
@@ -12264,8 +12146,7 @@ sa
 sa
 lalawigan
 ng
-timog
-silangan
+timog-silangan
 ng
 ito
 sa
@@ -12298,8 +12179,7 @@ hindi
 naging
 bahagi
 ng
-pag
-aaklas
+pag-aaklas
 noong
 ang
 mga
@@ -12394,8 +12274,7 @@ ng
 italya
 mayroon
 itong
-humigit
-kumulang
+humigit-kumulang
 na
 naninirahan
 ang
@@ -12566,8 +12445,7 @@ lungsod
 ay
 nakaranas
 ng
-dahan
-dahang
+dahan-dahang
 paglaki
 ng
 populasyon
@@ -12631,8 +12509,7 @@ ng
 na
 matatagpuan
 mga
-hilagang
-silangan
+hilagang-silangan
 ng
 ang
 komuna
@@ -12649,8 +12526,7 @@ at
 di
 na
 dating
-pagmamay
-ari
+pagmamay-ari
 ng
 at
 ng
@@ -12670,8 +12546,7 @@ lungsod
 ay
 matatagpuan
 sa
-hilagang
-silangan
+hilagang-silangan
 ng
 ang
 teritoryo
@@ -12687,8 +12562,7 @@ pinakamataas
 na
 altitud
 ay
-humigit
-kumulang
+humigit-kumulang
 metro
 sa
 ibabaw
@@ -12853,14 +12727,13 @@ sa
 pangkat
 ng
 wikang
-romansa
 ang
 iba't
 ibang
 mga
 pamayanan
 ay
-iwan
+nag-iwan
 ng
 iba't
 ibang
@@ -12881,15 +12754,13 @@ mga
 nakaraang
 taon
 ay
-nagbigay
-liwanag
+nagbigay-liwanag
 sa
 mga
 bagong
 natuklasan
 at
-nagbigay
-daan
+nagbigay-daan
 sa
 mga
 mananaliksik
@@ -12978,8 +12849,7 @@ ang
 ay
 matatagpuan
 kilometros
-timog
-kanluran
+timog-kanluran
 ng
 ang
 ay
@@ -12998,7 +12868,7 @@ apoy
 ng
 silangang
 ang
-daigdig
+hating-daigdig
 ingles
 ay
 ang
@@ -13266,8 +13136,7 @@ ngunit
 ang
 ilang
 mga
-may
-akda
+may-akda
 isama
 rin
 labyodental
@@ -13409,8 +13278,7 @@ maaaring
 mas
 mahusay
 na
-pag
-aralan
+pag-aralan
 bilang
 trills
 mga
@@ -13433,8 +13301,7 @@ isang
 bayan
 bilang
 hindi
-ma
-enganyo
+ma-enganyo
 na
 hl
 at
@@ -13531,7 +13398,7 @@ tukuyin
 ang
 isang
 approximant
-fricatives
+pseudo-fricatives
 sa
 maraming
 mga
@@ -13578,6 +13445,7 @@ karaniwang
 tinatawag
 na
 isang
+labial-velar
 ngunit
 ito
 ay
@@ -13604,6 +13472,7 @@ tingnan
 ang
 walang
 boses
+palatal-velar
 para
 sa
 isang
@@ -13626,6 +13495,7 @@ kahit
 na
 ang
 mga
+cross-linguistically
 na
 binibigkas
 na
@@ -13676,7 +13546,6 @@ sa
 ilang
 mga
 wikang
-sino
 sa
 ilang
 mga
@@ -13804,8 +13673,7 @@ may
 na
 sa
 kabaligtaran
-humigit
-kumulang
+humigit-kumulang
 na
 ng
 mga
@@ -14012,7 +13880,6 @@ walang
 kaparehong
 walang
 boses
-katlo
 ng
 mga
 ito
@@ -14133,8 +14000,7 @@ na
 katapat
 ay
 sa
-pagkakasunud
-sunod
+pagkakasunud-sunod
 ng
 ng
 mga
@@ -14207,11 +14073,10 @@ kung
 saan
 ang
 isang
-pana
-panahong
+pana-panahong
 mga
 ay
-naka
+naka-overlay
 kung
 tininigan
 ang
@@ -14302,8 +14167,7 @@ ang
 bayan
 ay
 may
-kapansin
-pansing
+kapansin-pansing
 bahagi
 sa
 kasaysayang
@@ -14379,10 +14243,9 @@ ang
 ng
 isang
 baseng
-operasyon
+pang-operasyon
 ng
-hukbong
-dagat
+hukbong-dagat
 sa
 gallipoli
 ang
@@ -14672,8 +14535,7 @@ at
 sa
 kasalukuyan
 ay
-kapansin
-pansing
+kapansin-pansing
 tanaw
 ang
 pinakalumang
@@ -14747,8 +14609,7 @@ ng
 ng
 rehiyon
 ng
-timog
-silangan
+timog-silangan
 ng
 kasaysayan
 ito
@@ -15013,7 +14874,7 @@ ang
 mga
 kulisap
 ng
-adulto
+pang-adulto
 ay
 hindi
 gaanong
@@ -15039,8 +14900,7 @@ sa
 ng
 gitnang
 ito
-humigit
-kumulang
+humigit-kumulang
 kanluran
 ng
 gitna
@@ -15095,6 +14955,7 @@ sa
 hilagang
 rehiyon
 ng
+italya
 ng
 sa
 lalawigan
@@ -15157,7 +15018,7 @@ istoryador
 na
 ang
 ay
-alsa
+nag-alsa
 laban
 kay
 ngunit
@@ -15253,8 +15114,7 @@ sa
 rehiyon
 ng
 sa
-timog
-silangang
+timog-silangang
 kasaysayan
 ayon
 sa
@@ -15378,8 +15238,7 @@ at
 rehiyon
 ng
 sa
-timog
-silangang
+timog-silangang
 baybayin
 ng
 ang
@@ -15512,8 +15371,7 @@ lugar
 ang
 ay
 isang
-pagkakasunud
-sunod
+pagkakasunud-sunod
 ng
 mga
 na
@@ -15532,6 +15390,7 @@ higit
 sa
 ng
 mga
+nag-aani
 ang
 natuklasan
 sa
@@ -15573,8 +15432,7 @@ paliparan
 ay
 matatagpuan
 kilometro
-hilagang
-silangan
+hilagang-silangan
 ng
 sa
 isang
@@ -15601,6 +15459,7 @@ may
 kakayahang
 hawakan
 ang
+pang-international
 na
 trapiko
 sa
@@ -15679,6 +15538,7 @@ kasaysayan
 ang
 lugar
 ng
+paliparan
 ng
 ay
 isa
@@ -15734,8 +15594,7 @@ ay
 nagpasimula
 ng
 isang
-pag
-aaral
+pag-aaral
 na
 nagpapahiwatig
 ng
@@ -15762,8 +15621,7 @@ sa
 noong
 pebrero
 isa
-pag
-aaral
+pag-aaral
 ng
 ang
 kinomisyon
@@ -15778,8 +15636,7 @@ ng
 bagong
 paliparan
 ang
-pag
-aaral
+pag-aaral
 ay
 nakumpleto
 ng
@@ -15792,8 +15649,7 @@ milyon
 kaagad
 matapos
 ang
-pag
-aaral
+pag-aaral
 kinuha
 ng
 ang
@@ -15807,7 +15663,7 @@ ay
 binuksan
 para
 sa
-pag
+pag-bid
 noong
 agosto
 kasama
@@ -15821,8 +15677,7 @@ na
 konstruksyon
 sa
 bagong
-bilyong
-piso
+bilyong-piso
 na
 pinondohan
 sa
@@ -15915,8 +15770,7 @@ oras
 na
 iyon
 ang
-kauna
-unahang
+kauna-unahang
 sasakyang
 panghimpapawid
 na
@@ -15927,15 +15781,13 @@ ay
 isang
 maliit
 na
-labing
-apat
+labing-apat
 na
 upuan
 na
 turboprop
 na
-pagmamay
-ari
+pagmamay-ari
 ng
 ang
 na
@@ -15974,8 +15826,7 @@ binuksan
 noong
 enero
 ang
-kauna
-unahang
+kauna-unahang
 komersyal
 na
 paglipad
@@ -16025,6 +15876,7 @@ pasahero
 at
 walong
 tripulante
+nag-chart
 ng
 mga
 flights
@@ -16044,16 +15896,14 @@ rin
 ng
 ruta
 nang
-pana
-panahon
+pana-panahon
 para
 sa
 golfers
 sa
 kasalukuyan
 ang
-pana
-panahong
+pana-panahong
 ruta
 na
 ito
@@ -16069,7 +15919,7 @@ ang
 mga
 sa
 mga
-di
+di-golfer
 at
 sa
 lokal
@@ -16104,6 +15954,7 @@ ng
 pandarayuhan
 ang
 kahandaang
+mag-deploy
 ng
 mga
 tauhan
@@ -16113,8 +15964,7 @@ dapat
 na
 regular
 na
-naka
-iskedyul
+naka-iskedyul
 na
 magsimula
 ang
@@ -16203,7 +16053,7 @@ gobyerno
 ng
 at
 ang
-pag
+pag-bid
 at
 pagtatayo
 ay
@@ -16211,8 +16061,7 @@ nakatakdang
 magsimula
 sa
 o
-ika
-apat
+ika-apat
 na
 kwarter
 ng
@@ -16264,7 +16113,7 @@ at
 tonelada
 ng
 karga
-taon
+taun-taon
 at
 binubuo
 ng
@@ -16296,8 +16145,7 @@ ng
 ang
 mga
 sa
-pag
-check
+pag-check-in
 ang
 ng
 publiko
@@ -16311,7 +16159,7 @@ palapag
 ay
 mayroong
 tatlong
-pre
+pre-departure
 areas
 kasama
 ang
@@ -16319,7 +16167,7 @@ at
 lounges
 ang
 mga
-pre
+pre-departure
 area
 na
 ito
@@ -16339,8 +16187,7 @@ limang
 sasakyang
 panghimpapawid
 nang
-sabay
-sabay
+sabay-sabay
 din
 ang
 ng
@@ -16403,6 +16250,7 @@ makinarya
 sa
 paliparan
 ang
+state-of-the-art
 na
 pangunahing
 terminal
@@ -16437,6 +16285,7 @@ na
 bagahe
 maraming
 mga
+x-ray
 at
 at
 sa
@@ -16480,7 +16329,7 @@ sa
 maraming
 mga
 na
-aalok
+nag-aalok
 ng
 mga
 serbisyo
@@ -16507,7 +16356,7 @@ ang
 bagong
 kalsada
 sa
-pag
+pag-access
 na
 kumokonekta
 sa
@@ -16516,6 +16365,7 @@ at
 ay
 nakumpleto
 at
+naa-access
 na
 ngayon
 sa
@@ -16546,8 +16396,7 @@ iskedyul
 ng
 pagpapatakbo
 na
-ipinag
-utos
+ipinag-utos
 ng
 alkalde
 ng
@@ -16612,7 +16461,7 @@ na
 ng
 sibil
 at
-na
+na-publish
 sa
 mga
 ng
@@ -16765,8 +16614,7 @@ sa
 pamamagitan
 lamang
 ng
-pag
-prependate
+pag-prependate
 ng
 isang
 sa
@@ -16830,6 +16678,7 @@ sa
 isang
 mas
 planadong
+top-down
 na
 paraan
 ang
@@ -16884,8 +16733,7 @@ ng
 militar
 pagkatapos
 ng
-pagsasama
-sama
+pagsasama-sama
 ang
 ay
 para
@@ -17417,8 +17265,7 @@ sa
 ay
 ay
 hindi
-nagbibigay
-daan
+nagbibigay-daan
 sa
 isa
 na
@@ -17453,7 +17300,7 @@ sa
 mga
 pampulitika
 o
-administratibong
+pang-administratibong
 kadahilanan
 halimbawa
 ang
@@ -17583,7 +17430,7 @@ paliparan
 ng
 militar
 at
-eksperimentong
+pang-eksperimentong
 paliparan
 sa
 mga
@@ -17617,8 +17464,7 @@ radiocommunication
 at
 iba
 mga
-di
-heyograpikong
+di-heyograpikong
 espesyal
 na
 paggamit
@@ -17645,8 +17491,7 @@ ay
 nakatalaga
 ng
 mga
-tatlong
-titik
+tatlong-titik
 na
 na
 mga
@@ -17779,7 +17624,7 @@ at
 pandaigdig
 ng
 vs
-pansin
+kapansin-pansin
 ang
 pinakamalaking
 sa
@@ -17801,6 +17646,7 @@ pareho
 ang
 ay
 isang
+pseudo-code
 ginamit
 sa
 plano
@@ -17820,8 +17666,7 @@ ng
 mga
 paliparan
 na
-pinagsunod
-sunod
+pinagsunod-sunod
 ayon
 sa
 ay
@@ -17829,7 +17674,6 @@ magagamit
 sa
 ibaba
 palsipikadong
-codes
 sa
 mga
 maliliit
@@ -17882,12 +17726,14 @@ isang
 pamamaraan
 ng
 mga
+sub-icao
 halimbawa
 ang
 ay
 nagtatalaga
 ng
 mga
+pseudo-icao
 sa
 istilong
 ng
@@ -17944,7 +17790,7 @@ upang
 matiyak
 ang
 ligtas
-ekonomiya
+pang-ekonomiya
 at
 mahusay
 na
@@ -18017,8 +17863,7 @@ eroplano
 at
 kanilang
 mga
-may
-ari
+may-ari
 nang
 hindi
 natitiyak
@@ -18065,8 +17910,7 @@ at
 industriya
 ang
 mga
-pag
-andar
+pag-andar
 nito
 ay
 isinakatawan
@@ -18281,8 +18125,7 @@ konstruksyon
 pagpapabuti
 pagpapanatili
 at
-pag
-angkon
+pag-angkon
 din
 ng
 ang
@@ -18364,7 +18207,9 @@ ng
 regulasyon
 na
 may
+quasi-judicial
 at
+quasi-legislative
 mga
 kapangyarihan
 na
@@ -18471,7 +18316,7 @@ ng
 na
 matapos
 ang
-pag
+pag-downgrade
 at
 itinalagang
 kalihim
@@ -18508,14 +18353,12 @@ sa
 dahil
 sa
 seryosong
-pag
-aalala
+pag-aalala
 tungkol
 sa
 sinasabing
 maling
-pag
-aabuso
+pag-aabuso
 ng
 ato
 sa
@@ -18537,8 +18380,7 @@ ay
 nangangailangan
 ng
 bilyon
-humigit
-kumulang
+humigit-kumulang
 na
 mula
 abril
@@ -18562,7 +18404,6 @@ ng
 embahador
 ng
 na
-alang
 ng
 komisyon
 na
@@ -18615,7 +18456,7 @@ ang
 mahahalagang
 kagamitan
 sa
-pag
+pag-navigate
 sa
 paliparan
 sa
@@ -18631,7 +18472,7 @@ sasakyang
 panghimpapawid
 para
 sa
-pag
+pag-navigate
 patungo
 at
 mula
@@ -18812,8 +18653,7 @@ kung
 ang
 kasaysayan
 at
-kathang
-isip
+kathang-isip
 na
 tuluyan
 ay
@@ -18898,8 +18738,7 @@ uri
 ng
 tasa
 ng
-pag
-inom
+pag-inom
 at
 tumutukoy
 sa
@@ -19083,7 +18922,7 @@ sa
 bawat
 titulo
 ay
-iiba
+nag-iiba
 sa
 paglipas
 ng
@@ -19193,8 +19032,7 @@ mga
 titulong
 ito
 ay
-paminsan
-minsang
+paminsan-minsang
 pinupuna
 at
 ang
@@ -19255,7 +19093,6 @@ mga
 kasalukuyang
 hukom
 sa
-taasang
 hukuman
 ng
 pinili
@@ -19268,7 +19105,7 @@ korte
 suprema
 ni
 at
-umpisa
+nag-umpisa
 siya
 magsilbi
 mula
@@ -19373,7 +19210,7 @@ katoliko
 ang
 kanyang
 pamilya
-aral
+nag-aral
 siya
 sa
 isang
@@ -19386,16 +19223,17 @@ at
 nagtapos
 siya
 noong
-aral
+nag-aral
 sa
 kung
 saan
 siya
-major
+nag-major
 sa
 panitikang
 ingles
 at
+nag-minor
 sa
 wikang
 pranses
@@ -19407,11 +19245,12 @@ magna
 laude
 siya
 ng
+full-tuition
 sa
 kung
 saan
 siya
-aral
+nag-aral
 ng
 batas
 personal
@@ -19427,7 +19266,7 @@ dalawang
 dito
 ay
 ampong
-taga
+taga-haiti
 katoliko
 at
 ang
@@ -19443,8 +19282,7 @@ nakaraan
 siya
 sa
 noong
-tag
-init
+tag-init
 ng
 taong
 gumaling
@@ -19724,6 +19562,7 @@ mga
 insidente
 noong
 marso
+nag-overhot
 sa
 landas
 ng
@@ -19846,8 +19685,7 @@ sa
 layong
 kilometro
 silangang
-timog
-silangan
+timog-silangan
 mula
 sa
 lungsod
@@ -19915,8 +19753,7 @@ sa
 gumalaw
 ito
 pakanluran
-hilagang
-kanluran
+hilagang-kanluran
 habang
 nasa
 naturang
@@ -19993,8 +19830,7 @@ ang
 antas
 nito
 sa
-kani
-kanilang
+kani-kanilang
 mga
 huling
 ulat
@@ -20026,15 +19862,13 @@ masira
 ang
 karamihan
 sa
-pag
-ikot
+pag-ikot
 ng
 hangin
 nito
 dahil
 sa
-di
-paborableng
+di-paborableng
 paghati
 sa
 hangin
@@ -20079,15 +19913,13 @@ sa
 isang
 sa
 at
-abot
-tuhod
+abot-tuhod
 din
 ang
 baha
 dahil
 sa
-pag
-apaw
+pag-apaw
 ng
 isang
 ilog
@@ -20257,7 +20089,7 @@ ipinagkakaloob
 habang
 buhay
 ang
-internasyonal
+pang-internasyonal
 na
 grupo
 na
@@ -20272,8 +20104,7 @@ mga
 titulo
 kabilang
 ang
-pinaka
-prestihiyosong
+pinaka-prestihiyosong
 ranggo
 na
 mga
@@ -20355,8 +20186,7 @@ maaaring
 hulmahin
 ayon
 sa
-kani
-kanilang
+kani-kanilang
 hugis
 at
 anyo
@@ -20401,8 +20231,7 @@ ang
 mga
 piyesa
 na
-pagmamay
-ari
+pagmamay-ari
 ng
 bawat
 manlalaro
@@ -20428,8 +20257,7 @@ at
 ang
 manlalaro
 na
-nagmamay
-ari
+nagmamay-ari
 nito
 puti
 ang
@@ -20448,8 +20276,7 @@ at
 ang
 manlalaro
 na
-nagmamay
-ari
+nagmamay-ari
 nito
 itim
 sa
@@ -20520,8 +20347,6 @@ o
 ng
 kalaban
 ang
-o
-o
 ay
 ang
 paraan
@@ -20535,9 +20360,6 @@ toreng
 pinakamalapit
 at
 ang
-o
-o
-o
 naman
 sa
 malayong
@@ -20878,8 +20700,7 @@ partikular
 na
 tiyak
 na
-pag
-atake
+pag-atake
 sinaunang
 paglalarawan
 ang
@@ -20927,7 +20748,7 @@ ng
 bawat
 piyesa
 ay
-iiba
+nag-iiba
 sa
 pagitan
 ng
@@ -20979,8 +20800,7 @@ ng
 kasama
 ng
 kanyang
-habang
-buhay
+habang-buhay
 na
 karibal
 ay
@@ -21190,6 +21010,7 @@ pangunahing
 karniboro
 madalas
 na
+sit-and-wait
 predators
 maraming
 mga
@@ -21222,7 +21043,7 @@ ang
 ay
 isang
 kantang
-martsa
+pang-martsa
 noong
 kapanahunan
 ng
@@ -21243,8 +21064,7 @@ at
 sinimulang
 gamitin
 ng
-taasan
-galangang
+kataas-taasan
 katipunan
 ng
 mga
@@ -21272,8 +21092,7 @@ ng
 at
 ang
 mga
-karatig
-bayan
+karatig-bayan
 nito
 sa
 kabuuang
@@ -21376,9 +21195,9 @@ kalalabasan
 pinatay
 ng
 kanyang
+aide-de-camp
 noong
 abril
-alisan
 ang
 mga
 rebelde
@@ -21403,7 +21222,6 @@ mga
 lungsod
 ng
 at
-ilalim
 rin
 ang
 mga
@@ -21508,8 +21326,7 @@ naitala
 sa
 kasaysayan
 ay
-kilalang
-kilala
+kilalang-kilala
 bilang
 isang
 mahusay
@@ -21601,7 +21418,7 @@ sa
 mga
 aspektong
 pampulitika
-ekonomiya
+pang-ekonomiya
 kaunlaran
 depensa
 seguridad
@@ -21640,8 +21457,6 @@ na
 kilala
 bilang
 ugnayang
-sino
-australiano
 ay
 tumutukoy
 sa
@@ -21753,8 +21568,7 @@ noong
 dahil
 sa
 lumalaking
-pag
-aalala
+pag-aalala
 ng
 impluwensyang
 pampulitika
@@ -21802,8 +21616,7 @@ ng
 mga
 isyu
 at
-pag
-igting
+pag-igting
 sa
 pagitan
 ng
@@ -22002,8 +21815,7 @@ posil
 ay
 natagpuan
 sa
-timog
-kanlurang
+timog-kanlurang
 ang
 karamihan
 ay
@@ -22079,8 +21891,7 @@ ng
 sa
 ng
 ng
-hilagang
-gitnang
+hilagang-gitnang
 kailangan
 ng
 banggit
@@ -22177,8 +21988,7 @@ kasama
 ang
 mga
 pasaherong
-dala
-dala
+dala-dala
 ang
 balita
 ang
@@ -22213,7 +22023,7 @@ ng
 ikadalawampung
 siglo
 ay
-alok
+nag-alok
 ng
 teleportasyon
 at
@@ -22302,8 +22112,7 @@ ng
 sa
 ng
 na
-libu
-libong
+libu-libong
 mga
 kilometro
 ang
@@ -22706,7 +22515,7 @@ maraming
 mga
 manunulat
 ang
-alok
+nag-alok
 ng
 mga
 pagpapaliwanag
@@ -22815,7 +22624,7 @@ isang
 lalaking
 indones
 na
-angkin
+nag-angkin
 na
 nabuhay
 nang
@@ -22907,8 +22716,7 @@ nang
 siya
 ay
 namatay
-pag
-angkin
+pag-angkin
 noong
 mayo
 iniulat
@@ -22997,7 +22805,7 @@ na
 ng
 media
 ang
-ulat
+nag-ulat
 tungkol
 kay
 pagkatapos
@@ -23047,8 +22855,7 @@ edad
 iyon
 para
 sa
-pag
-alam
+pag-alam
 tungkol
 sa
 edad
@@ -23090,8 +22897,7 @@ inaangking
 edad
 niya
 ay
-kathang
-isip
+kathang-isip
 at
 hindi
 kapakipaniwala
@@ -23436,8 +23242,7 @@ ng
 kanyang
 buhay
 sa
-pag
-aaral
+pag-aaral
 at
 paglalapat
 ng
@@ -23445,8 +23250,7 @@ kaalaman
 hinggil
 sa
 epidemiyolohiya
-pag
-iwas
+pag-iwas
 at
 pagkontrol
 sa
@@ -23476,8 +23280,7 @@ ang
 unang
 medikal
 na
-silid
-aklatan
+silid-aklatan
 sa
 bansa
 at
@@ -23613,8 +23416,7 @@ kamatayan
 noong
 kahit
 na
-nai
-publiko
+nai-publiko
 na
 niya
 ito
@@ -23676,10 +23478,12 @@ katamari
 ang
 ay
 isang
+third-person
+puzzle-action
 na
 binuo
 at
-na
+na-publish
 ng
 para
 sa
@@ -23715,8 +23519,7 @@ ng
 ang
 koponan
 sa
-pag
-unlad
+pag-unlad
 na
 pinangunahan
 ni
@@ -23732,8 +23535,7 @@ bagong
 bagay
 kadalian
 ng
-pag
-unawa
+pag-unawa
 at
 kasiyahan
 ang
@@ -23835,8 +23637,7 @@ ni
 ay
 kakaiba
 at
-napaka
-istilo
+napaka-istilo
 bihirang
 magtangka
 ng
@@ -23945,9 +23746,8 @@ lasing
 na
 tulala
 isang
-sira
-sira
-diyos
+sira-sira
+mala-diyos
 na
 nilalang
 na
@@ -24051,8 +23851,7 @@ sa
 normal
 ang
 isang
-panig
-kwentong
+panig-kwentong
 sumusunod
 sa
 pamilya
@@ -24141,8 +23940,7 @@ na
 sumakop
 sa
 kasalukuyang
-timog
-kanlurang
+timog-kanlurang
 at
 ang
 ng
@@ -24159,8 +23957,7 @@ orihinal
 itong
 nilikha
 bilang
-pag
-areglo
+pag-areglo
 ng
 mga
 sa
@@ -24170,8 +23967,7 @@ sa
 lalawigan
 ng
 sa
-timog
-kanluran
+timog-kanluran
 ng
 ng
 pamahalaang
@@ -24374,7 +24170,6 @@ na
 paniniwala
 bilang
 isang
-ikapitong
 araw
 dahil
 dito
@@ -24517,7 +24312,7 @@ sa
 kanyang
 mga
 akdang
-akademiko
+pang-akademiko
 tungkol
 sa
 kasaysayan
@@ -24591,10 +24386,8 @@ agham
 ng
 pilipinas
 wikang
-pilipino
 ang
 wikang
-pilipino
 ay
 isang
 katawagan
@@ -24603,7 +24396,7 @@ sa
 muling
 itinatag
 na
-wika
+proto-wika
 at
 sinasabing
 ninuno
@@ -24644,7 +24437,6 @@ bahagi
 ng
 sa
 ang
-pilipino
 ay
 hindi
 direktang
@@ -24659,8 +24451,7 @@ ang
 muling
 pagbuo
 at
-pag
-aaral
+pag-aaral
 ng
 wika
 sa
@@ -24746,7 +24537,7 @@ may
 nakikitang
 nakakalat
 at
-aninong
+mala-aninong
 bagay
 na
 walang
@@ -24999,8 +24790,7 @@ ang
 restawrant
 at
 ang
-katangi
-tangi
+katangi-tangi
 nitong
 cochinillo
 asado
@@ -25050,7 +24840,7 @@ paboritong
 meryenda
 ng
 mga
-taga
+taga-madrid
 iginawad
 ng
 mga
@@ -25080,8 +24870,7 @@ komuna
 ng
 sa
 ng
-hilagang
-silangan
+hilagang-silangan
 ng
 kabesera
 ng
@@ -25123,8 +24912,7 @@ naging
 isang
 dukado
 isang
-pagmamay
-ari
+pagmamay-ari
 ng
 pamilyang
 na
@@ -25196,7 +24984,7 @@ lakas
 na
 lindol
 ay
-iwan
+nag-iwan
 ng
 kataong
 walang
@@ -25227,8 +25015,7 @@ panahon
 ang
 bayan
 ay
-kilalang
-kilala
+kilalang-kilala
 sa
 pagkakaroon
 ng
@@ -25239,8 +25026,7 @@ na
 gusali
 subalit
 ang
-pag
-unlad
+pag-unlad
 modernong
 konstruksiyon
 at
@@ -25439,8 +25225,7 @@ tinatangkilik
 nito
 ang
 isang
-kanais
-nais
+kanais-nais
 na
 klima
 para
@@ -25500,7 +25285,7 @@ na
 paninirahan
 quora
 ang
-ko
+ko-ra
 ay
 isang
 websayt
@@ -25511,6 +25296,7 @@ magtanong
 magsagot
 sumabaybay
 at
+mag-edit
 ang
 mga
 tagagamit
@@ -25529,8 +25315,7 @@ ng
 mga
 opinyon
 ang
-may
-ari
+may-ari
 nito
 ay
 nakabase
@@ -25557,7 +25342,7 @@ makipagtulungan
 sa
 pamamagitan
 ng
-pag
+pag-edit
 ng
 mga
 katanungan
@@ -25608,16 +25393,14 @@ unang
 ginamit
 ang
 o
-pagsasama
-samang
+pagsasama-samang
 pampubliko
 daw
 nila
 ang
 mga
 ideyang
-napag
-isipan
+napag-isipan
 hanggang
 sa
 nakakuha
@@ -25696,6 +25479,7 @@ ng
 at
 isang
 app
+pang-android
 noong
 ng
 noong
@@ -25745,6 +25529,7 @@ pambuong
 paghahanap
 sa
 teksto
+full-text
 ng
 mga
 katanungan
@@ -25919,8 +25704,7 @@ na
 ilang
 mga
 taon
-unti
-unting
+unti-unting
 nagsimulang
 magpakita
 ng
@@ -26141,8 +25925,7 @@ panahong
 iyon
 ay
 mayroong
-humigit
-kumulang
+humigit-kumulang
 milyong
 mga
 rehistradong
@@ -26218,6 +26001,7 @@ ang
 mga
 gumagamit
 na
+mag-login
 o
 magrehistro
 bago
@@ -26232,8 +26016,7 @@ disyembre
 inihayag
 ng
 na
-humigit
-kumulang
+humigit-kumulang
 na
 milyong
 mga
@@ -26251,7 +26034,7 @@ datos
 kasama
 sa
 mga
-na
+na-hack
 na
 impormasyon
 ang
@@ -26263,7 +26046,7 @@ gumagamit
 mga
 direksiyon
 ng
-liham
+e-liham
 nakatagong
 datos
 mula
@@ -26278,6 +26061,7 @@ ng
 mga
 tao
 na
+i-link
 ang
 mga
 ito
@@ -26418,8 +26202,7 @@ na
 bubuksan
 nito
 ang
-kauna
-unahang
+kauna-unahang
 internasyonal
 na
 tanggapan
@@ -26429,8 +26212,7 @@ sa
 na
 haharapin
 ang
-pag
-aaral
+pag-aaral
 ng
 makina
 at
@@ -26491,8 +26273,7 @@ bahagi
 ng
 programang
 upang
-pag
-aralan
+pag-aralan
 ang
 panlabas
 na
@@ -26522,8 +26303,7 @@ na
 matatagpuan
 sa
 na
-pag
-aari
+pag-aari
 ni
 isang
 at
@@ -26631,6 +26411,7 @@ isang
 pulis
 na
 naka
+day-off
 sa
 araw
 na
@@ -26646,7 +26427,7 @@ dalawang
 sibilyang
 kabitbahay
 na
-ugat
+nag-ugat
 ang
 away
 mula
@@ -26668,7 +26449,7 @@ sa
 iba't
 ibang
 media
-aalab
+nag-aalab
 sa
 galit
 sa
@@ -26690,11 +26471,9 @@ kawalan
 ng
 parusa
 at
-pag
-abuso
+pag-abuso
 sa
-karapatang
-tao
+karapatang-tao
 sa
 mga
 nagdaang
@@ -26775,7 +26554,7 @@ amang
 sa
 tahanan
 ng
-inang
+mag-inang
 upang
 arestohin
 sa
@@ -26801,7 +26580,7 @@ matinding
 sigalot
 ng
 dalawang
-kapit
+mag-kapit
 bahay
 at
 nauwi
@@ -26830,8 +26609,7 @@ ay
 nakuhaan
 na
 gulang
-yakap
-yakap
+yakap-yakap
 ang
 anak
 na
@@ -26934,7 +26712,7 @@ tinuloy
 ang
 pagpaslang
 sa
-ina
+mag-ina
 una
 ang
 ina
@@ -27044,8 +26822,7 @@ na
 ay
 sa
 salang
-pag
-patay
+pag-patay
 siya
 ay
 tinangal
@@ -27114,8 +26891,7 @@ araw
 taong
 siya
 ay
-naka
-charged
+naka-charged
 sa
 administratibong
 kaso
@@ -27125,8 +26901,7 @@ nahulog
 taong
 siya
 ay
-naka
-charged
+naka-charged
 sa
 diumanong
 hindi
@@ -27149,8 +26924,7 @@ siya
 ay
 may
 ilan
-patong
-patong
+patong-patong
 na
 kaso
 sa
@@ -27283,8 +27057,8 @@ labanan
 ng
 ng
 o
+labanan
 ng
-ri
 ay
 isang
 labanan
@@ -27371,8 +27145,7 @@ nakaharap
 sa
 kanluran
 at
-hilagang
-kanluran
+hilagang-kanluran
 ayon
 sa
 pagkakabanggit
@@ -27417,7 +27190,6 @@ ng
 bibliya
 na
 at
-ayon
 ang
 dalawang
 salaysay
@@ -27530,8 +27302,7 @@ tinatampukan
 ng
 mga
 estatwang
-kasing
-laki
+kasing-laki
 ng
 tao
 ay
@@ -27580,7 +27351,6 @@ linggo
 bago
 ang
 pasko
-oobserba
 ang
 mga
 kristiyano
@@ -27704,7 +27474,6 @@ pa
 noong
 na
 siglo
-diin
 simula
 pa
 noong
@@ -27718,8 +27487,7 @@ eksena
 ng
 natibidad
 ang
-kababaang
-loob
+kababaang-loob
 ni
 at
 sinulong
@@ -27768,8 +27536,7 @@ kabesera
 sa
 ng
 sa
-gitnang
-kanlurang
+gitnang-kanlurang
 bahagi
 ng
 isla
@@ -27816,8 +27583,7 @@ ang
 ay
 matatagpuan
 sa
-gitnang
-kanlurang
+gitnang-kanlurang
 baybayin
 ng
 na
@@ -27834,10 +27600,8 @@ klima
 ang
 golpo
 na
-humigit
-kumulang
-hugis
-itlog
+humigit-kumulang
+hugis-itlog
 ay
 sarado
 ng
@@ -27860,8 +27624,7 @@ mainit
 na
 panahon
 ng
-tag
-araw
+tag-araw
 at
 malamig
 at
@@ -27877,8 +27640,7 @@ ay
 may
 banayad
 at
-kaaya
-ayang
+kaaya-ayang
 temperatura
 ang
 ay
@@ -27902,8 +27664,7 @@ lungsod
 lalo
 na
 sa
-tag
-araw
+tag-araw
 sa
 kabila
 nito
@@ -27925,8 +27686,7 @@ nagpapagaan
 ng
 init
 sa
-tag
-araw
+tag-araw
 mga
 kambal
 bayan
@@ -28235,7 +27995,6 @@ mula
 kay
 kapitan
 ugnayang
-pilipinas
 ang
 ugnayan
 ng
@@ -28325,7 +28084,7 @@ dahil
 sa
 ilang
 suliraning
-ekonomiya
+pang-ekonomiya
 pero
 muling
 binuksan
@@ -28356,7 +28115,7 @@ embahada
 ng
 sa
 relasyong
-ekonomiya
+pang-ekonomiya
 noong
 mga
 delegado
@@ -28499,11 +28258,11 @@ kilala
 bilang
 isang
 na
-aalok
+nag-aalok
 ng
 mga
 serbisyong
-pinansyal
+pang-pinansyal
 at
 internasyonal
 na
@@ -28555,7 +28314,7 @@ malapit
 sa
 mga
 mga
-taga
+taga-brunei
 at
 mga
 tagasisid
@@ -28609,7 +28368,7 @@ tansong
 medalya
 sa
 asian
-womens
+women
 nakamit
 niya
 ang
@@ -28664,7 +28423,7 @@ at
 hanggang
 ngayon
 ang
-iisang
+nag-iisang
 babaeng
 manlalaro
 ng
@@ -28723,8 +28482,6 @@ bahagi
 ng
 panahon
 ng
-post
-klasiko
 ng
 ang
 maraming
@@ -28839,8 +28596,7 @@ ng
 na
 binuo
 ng
-taga
-disenyo
+taga-disenyo
 ng
 laro
 na
@@ -28978,7 +28734,7 @@ at
 mga
 istasyon
 ng
-pag
+pag-upgrade
 kasama
 ang
 mga
@@ -29008,13 +28764,12 @@ nito
 ay
 magbubukas
 sa
-pag
-unlad
+pag-unlad
 ng
 metagame
 tulad
 ng
-pag
+pag-unlock
 ng
 mga
 karagdagang
@@ -29048,6 +28803,7 @@ ay
 nagaganap
 sa
 isang
+turn-based
 na
 paraan
 sa
@@ -29136,7 +28892,7 @@ kapag
 ang
 isang
 ay
-na
+na-slot
 gagawin
 nito
 ang
@@ -29235,8 +28991,7 @@ at
 inaayos
 ang
 kanilang
-pag
-atake
+pag-atake
 sa
 katulad
 na
@@ -29248,7 +29003,7 @@ at
 debuff
 na
 maaaring
-ma
+ma-trigger
 sa
 pamamagitan
 ng
@@ -29283,6 +29038,7 @@ ang
 kalusugan
 lamang
 ng
+player-character
 ay
 nabawasan
 sa
@@ -29294,6 +29050,7 @@ ang
 laro
 at
 dapat
+i-restart
 ng
 ang
 laro
@@ -29343,7 +29100,7 @@ mga
 antas
 nakakakuha
 ang
-manlalaro
+manlalaro-character
 ng
 higit
 na
@@ -29406,7 +29163,7 @@ ang
 mga
 istasyon
 ng
-pag
+pag-upgrade
 ay
 maaaring
 mapabuti
@@ -29430,8 +29187,7 @@ tatlong
 buwan
 ng
 naunang
-pag
-unlad
+pag-unlad
 na
 may
 isang
@@ -29478,6 +29234,7 @@ unang
 laro
 ng
 roguelike
+deck-builder
 ang
 ang
 sining
@@ -29536,8 +29293,7 @@ ay
 nakatanggap
 ng
 pangkalahatang
-kanais
-nais
+kanais-nais
 na
 mga
 pagsusuri
@@ -29555,6 +29311,7 @@ na
 pagpapakilala
 sa
 roguelike
+deck-building
 games
 ang
 paglabas
@@ -29626,8 +29383,7 @@ ang
 paliparan
 ay
 ang
-pinaka
-abalang
+pinaka-abalang
 paliparan
 ng
 at
@@ -29654,7 +29410,7 @@ peregrino
 na
 pumupunta
 sa
-taon
+taun-taon
 sa
 isa
 ito
@@ -29671,8 +29427,7 @@ na
 mga
 pasahero
 nang
-sabay
-sabay
+sabay-sabay
 paglalarawan
 sakop
 ng
@@ -29742,8 +29497,7 @@ bandila
 at
 mayroong
 isang
-pulang
-pula
+pulang-pula
 na
 bilog
 sa
@@ -29775,6 +29529,7 @@ ng
 pinagmulan
 ng
 araw
+abeka-lapaz
 ang
 ay
 isang
@@ -29825,7 +29580,7 @@ siya
 ay
 tubong
 at
-taga
+taga-new
 ay
 nakapagaral
 sa
@@ -29842,8 +29597,7 @@ pansining
 na
 naganap
 sa
-ika
-labing
+ika-labing
 siyam
 na
 siglo
@@ -29968,12 +29722,9 @@ sa
 lalawigan
 ng
 sa
-silid
-aklatan
+silid-aklatan
 ng
 ang
-silid
-aklatan
 ng
 ng
 ng
@@ -30009,8 +29760,7 @@ noong
 upang
 malukob
 ang
-silid
-aklatan
+silid-aklatan
 na
 nasa
 palasyo
@@ -30054,7 +29804,7 @@ pampalasyo
 at
 may
 istilong
-post
+post-curial
 isang
 simetriko
 na
@@ -30109,8 +29859,7 @@ silid
 ng
 pagsasaliksik
 isang
-silid
-aklatan
+silid-aklatan
 ng
 pahayagan
 at
@@ -30222,7 +29971,7 @@ bahagi
 ng
 maya
 mga
-aliw
+pang-aliw
 ang
 ilan
 sa
@@ -30371,8 +30120,7 @@ sirang
 kalsada
 sa
 at
-uka
-ukang
+uka-ukang
 kalupaan
 sa
 na
@@ -30386,8 +30134,7 @@ atomium
 ang
 ay
 isang
-palatandaang
-pook
+palatandaang-pook
 na
 gusali
 sa
@@ -30472,7 +30219,7 @@ talampakan
 na
 diyametro
 ay
-uugnay
+nag-uugnay
 ng
 mga
 espera
@@ -30547,8 +30294,7 @@ estasyong
 metro
 ng
 sa
-ika
-anim
+ika-anim
 na
 linya
 ng
@@ -30701,7 +30447,7 @@ mga
 pelikula
 ng
 ay
-kada
+tig-kada
 walong
 pelikula
 ang
@@ -30714,8 +30460,7 @@ ng
 mga
 pelikula
 ng
-sabay
-sabay
+sabay-sabay
 na
 ipinalabas
 ang
@@ -30789,8 +30534,7 @@ sa
 sumbat
 sa
 budhi
-sumang
-ayon
+sumang-ayon
 ang
 tipan
 na
@@ -30853,8 +30597,7 @@ para
 sa
 kasinungalingan
 at
-paninirang
-purimateo
+paninirang-purimateo
 ang
 ay
 isang
@@ -31045,8 +30788,7 @@ pinalawak
 ito
 nabanggit
 ang
-pag
-iwas
+pag-iwas
 sa
 pakikiapid
 sa
@@ -31111,8 +30853,7 @@ ay
 inilabas
 noong
 sa
-kanais
-nais
+kanais-nais
 na
 mga
 pagsusuri
@@ -31137,8 +30878,7 @@ at
 isang
 panahon
 ng
-pag
-iisa
+pag-iisa
 at
 pagkalungkot
 para
@@ -31171,6 +30911,7 @@ sumali
 sa
 banda
 bilang
+full-time
 nito
 sa
 proseso
@@ -31190,7 +30931,6 @@ banda
 para
 sa
 nito
-pag
 sa
 inilabas
 ng
@@ -31201,8 +30941,7 @@ na
 banda
 ang
 kanilang
-ika
-apat
+ika-apat
 na
 album
 noong
@@ -31366,6 +31105,7 @@ bagaman
 ang
 orihinal
 na
+line-up
 at
 at
 kalaunan
@@ -31375,9 +31115,7 @@ at
 ay
 gumawa
 ng
-pinaka
-kapansin
-pansin
+pinaka-kapansin-pansin
 na
 tagumpay
 para
@@ -31487,12 +31225,9 @@ iba
 mga
 nilinang
 ng
-silid
-aklatan
+silid-aklatan
 ng
 ang
-silid
-aklatan
 ng
 lugar
 ng
@@ -31525,8 +31260,7 @@ ang
 limang
 palapag
 ng
-silid
-aklatan
+silid-aklatan
 ay
 may
 kabuuang
@@ -31607,8 +31341,7 @@ ng
 araw
 ng
 pagbubukas
-humigit
-kumulang
+humigit-kumulang
 na
 mga
 tao
@@ -31638,8 +31371,7 @@ pangunahing
 mga
 lugar
 ng
-silid
-pahingahan
+silid-pahingahan
 at
 mga
 silid
@@ -31700,8 +31432,7 @@ maaaring
 gamitin
 para
 sa
-pag
-iimbak
+pag-iimbak
 ng
 mga
 libro
@@ -31729,8 +31460,7 @@ bahagi
 ng
 libro
 ay
-naka
-imprenta
+naka-imprenta
 lamang
 sa
 likod
@@ -31746,14 +31476,13 @@ na
 larawan
 konstruksyon
 ang
-silid
-aklatan
+silid-aklatan
 ay
 dinisenyo
 ng
 isang
 kompanyang
-arkitektura
+pang-arkitektura
 mula
 sa
 ang
@@ -31951,7 +31680,7 @@ suporta
 ng
 ang
 mga
-aaral
+mag-aaral
 ng
 ay
 nagsampa
@@ -31962,7 +31691,7 @@ kaso
 na
 pinasimulan
 ng
-aaral
+mag-aaral
 na
 pinagsama
 sa
@@ -32015,8 +31744,7 @@ pagitan
 ng
 at
 kilometro
-silangan
-timog
+silangan-timog
 silangan
 ng
 mismong
@@ -32127,8 +31855,7 @@ ang
 kakahuyan
 nito
 ay
-napakakagiliw
-giliw
+napakakagiliw-giliw
 na
 maraming
 mga
@@ -32163,7 +31890,7 @@ bukod
 dito
 ay
 ang
-itaas
+pang-itaas
 na
 kurso
 ng
@@ -32200,8 +31927,7 @@ luntiang
 lambak
 na
 dapat
-isaalang
-alang
+isaalang-alang
 bilang
 tarangkahan
 ng
@@ -32214,7 +31940,7 @@ pakikipagsapalaran
 na
 binuo
 at
-nai
+nai-publish
 ng
 ng
 na
@@ -32330,13 +32056,14 @@ manlalaro
 ay
 may
 kakayahang
-jogging
+mag-jogging
 umakyat
 lumangoy
 at
 dumulas
 sa
 isang
+open-world
 park
 habang
 kinokontrol
@@ -32374,7 +32101,7 @@ bato
 ayon
 sa
 isang
-pag
+pag-sign
 sa
 maabot
 ang
@@ -32423,7 +32150,7 @@ iba
 mga
 hayop
 na
-aalok
+nag-aalok
 ng
 mga
 pakikipagsapalaran
@@ -32439,9 +32166,10 @@ nawawalang
 at
 paglalaro
 ng
+mala-volleyball
 na
 parang
-mini
+mini-game
 na
 tinatawag
 na
@@ -32473,6 +32201,7 @@ ng
 mga
 sapatos
 na
+pang-running
 o
 isang
 maaari
@@ -32490,7 +32219,7 @@ na
 makumpleto
 ang
 mga
-quests
+side-quests
 na
 ito
 ang
@@ -32524,8 +32253,7 @@ din
 ito
 ng
 isang
-pabago
-bagong
+pabago-bagong
 kamera
 na
 nilikha
@@ -32586,8 +32314,7 @@ sa
 parke
 para
 sa
-tag
-init
+tag-init
 pagdating
 ni
 ipinaalam
@@ -32607,7 +32334,7 @@ maliban
 sa
 hindi
 pa
-akyat
+nag-akyat
 sa
 dati
 ngunit
@@ -32641,7 +32368,7 @@ dumiretso
 sa
 ang
 isang
-pag
+pag-sign
 sa
 base
 ng
@@ -32692,6 +32419,7 @@ isang
 hindi
 nagtagal
 ay
+nag-ring
 ang
 kanyang
 na
@@ -32728,8 +32456,7 @@ na
 ipinagmamalaki
 niya
 sa
-pag
-akyat
+pag-akyat
 sa
 ang
 tawag
@@ -32825,7 +32552,7 @@ isang
 ng
 sa
 ang
-pag
+pag-render
 ng
 mundo
 ng
@@ -32864,7 +32591,7 @@ sa
 laro
 ay
 direktang
-na
+na-sample
 mula
 sa
 mga
@@ -32894,8 +32621,7 @@ buwan
 niya
 ang
 kanyang
-pag
-unlad
+pag-unlad
 gamit
 ang
 isang
@@ -32933,8 +32659,7 @@ ng
 nilalaman
 kaysa
 sa
-pag
-aayos
+pag-aayos
 ng
 maliliit
 na
@@ -32977,8 +32702,7 @@ ay
 nakatanggap
 ng
 pangkalahatang
-kanais
-nais
+kanais-nais
 na
 mga
 pagsusuri
@@ -32986,8 +32710,7 @@ ayon
 sa
 websayt
 ng
-pagsasama
-sama
+pagsasama-sama
 ng
 pagsusuri
 na
@@ -33081,6 +32804,7 @@ walang
 taba
 ng
 ay
+nag-rate
 ng
 larong
 bituin
@@ -33151,7 +32875,7 @@ sa
 mga
 kontrol
 nito
-libreng
+libreng-roaming
 gameplay
 at
 pangkalahatang
@@ -33172,7 +32896,7 @@ ngunit
 sa
 pangkalahatang
 positibo
-na
+na-rate
 ang
 laro
 ng
@@ -33241,8 +32965,7 @@ tinawag
 itong
 lubos
 na
-kaakit
-akit
+kaakit-akit
 at
 perpektong
 bilis
@@ -33293,8 +33016,7 @@ komuna
 sa
 ng
 sa
-timog
-kanlurang
+timog-kanlurang
 bahagi
 ng
 isla
@@ -33431,8 +33153,7 @@ sa
 dalawang
 siklo
 ng
-pag
-aaral
+pag-aaral
 pangunahin
 at
 sekondarya
@@ -33468,7 +33189,7 @@ noong
 oktubre
 ay
 isang
-taga
+taga-lebanon
 na
 siya
 sa
@@ -33539,8 +33260,7 @@ ang
 kanyang
 mga
 makamundong
-pag
-aari
+pag-aari
 at
 lumikha
 ng
@@ -33666,8 +33386,7 @@ kanyang
 asawa
 pamilya
 at
-kamag
-anak
+kamag-anak
 kasama
 ang
 mga
@@ -33777,8 +33496,7 @@ nagpadala
 siya
 ng
 isang
-layang
-layang
+layang-layang
 at
 tulad
 ng
@@ -33922,7 +33640,7 @@ sa
 pagbaybay
 at
 pinangalanang
-hilakbot
+kahila-hilakbot
 ay
 isang
 napakalaking
@@ -33938,8 +33656,7 @@ ang
 araw
 ay
 ang
-tagapag
-alaga
+tagapag-alaga
 ng
 ng
 kung
@@ -34119,7 +33836,7 @@ na
 binuo
 ng
 at
-nai
+nai-publish
 ng
 at
 para
@@ -34191,7 +33908,7 @@ tulad
 ng
 nakaraang
 mga
-pag
+pag-install
 isinalaysay
 nila
 ang
@@ -34240,8 +33957,7 @@ mga
 at
 karibal
 habang
-nakikipag
-usap
+nakikipag-usap
 sa
 at
 isang
@@ -34258,10 +33974,9 @@ bagong
 sa
 tabi
 ng
-rehiyon
+pang-rehiyon
 na
-pagkakaiba
-iba
+pagkakaiba-iba
 ng
 paunang
 mayroon
@@ -34314,8 +34029,7 @@ laban
 sa
 pagsalakay
 ng
-co
-op
+co-op
 din
 ng
 dalawang
@@ -34476,8 +34190,7 @@ ay
 nakatanggap
 ng
 dalawang
-nada
-download
+nada-download
 na
 ng
 pagpapalawak
@@ -34555,8 +34268,7 @@ mamamayan
 ng
 at
 mayroong
-daan
-daang
+daan-daang
 makasaysayang
 simbahan
 sa
@@ -34590,8 +34302,7 @@ lungsod
 sa
 himala
 na
-libo
-libong
+libo-libong
 ang
 dumudumog
 upang
@@ -34666,9 +34377,7 @@ noong
 unang
 panahon
 hanggang
-ika
-labing
-anim
+ika-labing-anim
 na
 siglo
 ang
@@ -34753,8 +34462,7 @@ ngunit
 ang
 pagkakaroon
 ng
-pinagsama
-samang
+pinagsama-samang
 mga
 bahay
 at
@@ -34813,8 +34521,7 @@ sentro
 ng
 ospital
 at
-pananaliksik
-medikal
+pananaliksik-medikal
 na
 tahanan
 para
@@ -34978,8 +34685,7 @@ panaklong
 ang
 ginagamit
 nang
-sabay
-sabay
+sabay-sabay
 sa
 iisang
 ekspresyon
@@ -35103,8 +34809,7 @@ kung
 di
 kinakailangan
 kung
-sunod
-sunod
+sunod-sunod
 o
 di
 kaya'y
@@ -35133,7 +34838,7 @@ radikal
 bilang
 isang
 simbolong
-grupo
+pang-grupo
 gayundin
 ang
 linyang
@@ -35343,13 +35048,11 @@ mga
 espesyal
 na
 kaso
-patong
-patong
+patong-patong
 na
 pagpapalakas
 kapag
-patong
-patong
+patong-patong
 ang
 lakas
 sa
@@ -35408,8 +35111,7 @@ pangalawa
 unaryong
 tandang
 pambawas
-iba
-iba
+iba-iba
 ang
 ginagamit
 na
@@ -35686,7 +35388,7 @@ sa
 pagkakasangkot
 ng
 mga
-aaral
+mag-aaral
 ng
 dalawang
 elementarya
@@ -35753,6 +35455,7 @@ plake
 na
 gawa
 sa
+cast-iron
 na
 mula
 nasabing
@@ -35822,8 +35525,7 @@ bayan
 ay
 matatagpuan
 sa
-hilagang
-silangan
+hilagang-silangan
 ng
 kapatagan
 ng
@@ -35993,7 +35695,7 @@ para
 sa
 switch
 ang
-onse
+pang-onse
 na
 pangunahing
 yugto
@@ -36092,7 +35794,7 @@ manlalaro
 na
 nagpapalitan
 at
-nagna
+nagna-navigate
 sa
 sa
 paghahanap
@@ -36108,7 +35810,7 @@ isang
 na
 lokasyon
 nang
-isa
+paisa-isa
 sa
 pagliko
 ng
@@ -36238,13 +35940,12 @@ pagkakalagay
 ang
 mga
 ay
-iiba
+nag-iiba
 sa
 mga
 panuntunan
 at
-pag
-andar
+pag-andar
 tulad
 ng
 minigame
@@ -36323,15 +36024,14 @@ switch
 na
 maisaayos
 at
-mai
+mai-synchronize
 upang
 lumikha
 ng
 mas
 malaki
 mga
-multi
-monitor
+multi-monitor
 na
 kapaligiran
 sa
@@ -36348,8 +36048,7 @@ ng
 online
 multiplayer
 sa
-kauna
-unahan
+kauna-unahan
 sa
 serye
 ng
@@ -36442,6 +36141,7 @@ sa
 paglalaro
 ng
 maaaring
+i-play
 ang
 mga
 ang
@@ -36466,8 +36166,7 @@ ganap
 na
 mapaglaruan
 sa
-kauna
-unahang
+kauna-unahang
 pagkakataon
 ang
 mga
@@ -36484,6 +36183,7 @@ lamang
 lumitaw
 bilang
 isang
+nape-play
 na
 sa
 mga
@@ -36574,8 +36274,7 @@ nakatanggap
 ang
 ng
 pangkalahatang
-kanais
-nais
+kanais-nais
 na
 mga
 pagsusuri
@@ -36795,8 +36494,7 @@ panrelihiyon
 na
 matatagpuan
 sa
-timog
-silangan
+timog-silangan
 na
 bahagi
 ng
@@ -37052,8 +36750,7 @@ ginawang
 liwasan
 at
 sa
-kauna
-unahang
+kauna-unahang
 pagkakataon
 ay
 binuksan
@@ -37377,8 +37074,7 @@ at
 isang
 mas
 maikli
-hugis
-parihaba
+hugis-parihaba
 sa
 timog
 na
@@ -37564,7 +37260,6 @@ ng
 mga
 bato
 ng
-bituin
 sa
 silangan
 ng
@@ -37694,8 +37389,7 @@ magulang
 at
 matatanda
 na
-kasa
-kasama
+kasa-kasama
 ng
 mga
 anak
@@ -37750,8 +37444,7 @@ ang
 liwasan
 ay
 bukas
-araw
-araw
+araw-araw
 mula
 ng
 umaga
@@ -37786,7 +37479,7 @@ paninigil
 sa
 pagpasok
 na
-iiba
+nag-iiba
 ayon
 panahon
 o
@@ -37943,8 +37636,7 @@ inilipat
 mula
 sa
 sinaunang
-timog
-silangan
+timog-silangan
 sa
 ang
 dahil
@@ -37955,14 +37647,13 @@ ay
 nagbago
 ng
 mga
-nagmamay
-ari
+nagmamay-ari
 higit
 nang
 isang
 beses
 na
-pinag
+pinag-arian
 muna
 pagkatapos
 ay
@@ -37986,8 +37677,7 @@ at
 komuna
 sa
 sa
-hilagang
-silangan
+hilagang-silangan
 na
 bahagi
 ng
@@ -38050,8 +37740,7 @@ mahigit
 miyembro
 ang
 ay
-namumukod
-tangi
+namumukod-tangi
 sa
 ang
 itinatag
@@ -38113,8 +37802,7 @@ mainit
 at
 tuyo
 sa
-tag
-init
+tag-init
 malamig
 sa
 taglamig
@@ -38131,15 +37819,14 @@ manunulat
 ng
 sanaysay
 liriko
-taga
-disenyo
+taga-disenyo
 ng
 laro
 at
 artista
 ay
 ang
-editor
+editor-in-chief
 ng
 kanyang
 website
@@ -38168,7 +37855,7 @@ rin
 ang
 kanyang
 na
-pamagat
+pang-pamagat
 na
 pagsusulat
 noong
@@ -38190,6 +37877,7 @@ publiko
 sa
 nang
 maglaon
+nag-branch
 sa
 pagsusulat
 ng
@@ -38250,9 +37938,8 @@ kalagayan
 ang
 website
 ay
-na
-araw
-araw
+na-update
+araw-araw
 sa
 loob
 ng
@@ -38274,7 +37961,7 @@ mga
 benta
 ng
 paninda
-uusapan
+pinag-uusapan
 niya
 ang
 tungkol
@@ -38299,8 +37986,7 @@ maraming
 mga
 libro
 na
-na
-modelo
+na-modelo
 sa
 mga
 panayam
@@ -38313,8 +37999,7 @@ siyang
 serye
 ng
 mahabang
-pag
-uusap
+pag-uusap
 halimbawa
 isang
 dalubhasa
@@ -38344,8 +38029,7 @@ iyong
 isipan
 ay
 ang
-ika
-apat
+ika-apat
 na
 isyu
 ng
@@ -38381,7 +38065,7 @@ orihinal
 na
 lifestyle
 at
-pag
+pag-publish
 ang
 pangunahing
 negosyo
@@ -38418,8 +38102,7 @@ at
 palayok
 ay
 kapwa
-may
-akda
+may-akda
 ng
 isang
 koleksyon
@@ -38482,7 +38165,7 @@ hanggang
 noon
 ay
 ang
-bise
+bise-gerent
 ng
 ng
 bilang
@@ -38559,13 +38242,13 @@ at
 kalaunan
 ay
 sa
-aral
+nag-aral
 siya
 sa
 at
 nagtapos
 noong
-aral
+nag-aral
 sa
 kung
 saan
@@ -38573,8 +38256,7 @@ orihinal
 na
 nilayon
 niyang
-pag
-aralan
+pag-aralan
 ang
 internasyunal
 na
@@ -38588,8 +38270,7 @@ niyang
 itigil
 ang
 kanyang
-pag
-aaral
+pag-aaral
 matapos
 na
 sabihin
@@ -38608,8 +38289,7 @@ niya
 sa
 kanyang
 libro
-kabanata
-kabanata
+kabanata-kabanata
 sa
 kanya
 ng
@@ -38621,8 +38301,7 @@ ng
 mga
 klase
 sa
-pag
-arte
+pag-arte
 upang
 labanan
 ang
@@ -38645,7 +38324,7 @@ paglaon
 nakakuha
 ng
 isang
-aaral
+mag-aaral
 sa
 matapos
 ang
@@ -38852,19 +38531,20 @@ ang
 nagtatag
 ng
 na
+non-profit
 na
 samahan
-co
+co-founder
 ng
 programang
-co
+co-founder
 ng
 ay
 aktibo
 sa
 sa
 at
-co
+co-founder
 ng
 kasama
 ng
@@ -38980,8 +38660,7 @@ kanyang
 lola
 nang
 maglaon
-nakapag
-iisa
+nakapag-iisa
 na
 kumuha
 ng
@@ -39017,7 +38696,7 @@ kinabibilangan
 ng
 waitressing
 sa
-aral
+nag-aral
 siya
 sa
 kung
@@ -39057,14 +38736,13 @@ sinabi
 ng
 kanyang
 mga
-kamag
-aral
+kamag-aral
 na
 siya
 ay
 isang
 mabuting
-aaral
+mag-aaral
 nagtapos
 siya
 noong
@@ -39083,8 +38761,7 @@ sa
 isang
 semestre
 niyang
-pag
-aralan
+pag-aralan
 ang
 merchandising
 ngunit
@@ -39092,8 +38769,7 @@ nakita
 nitong
 hindi
 ito
-kasiya
-siya
+kasiya-siya
 ikinasal
 siya
 kay
@@ -39237,7 +38913,7 @@ pagkatapos
 ng
 kanilang
 unang
-pakikipag
+pakikipag-date
 sinabi
 niya
 sa
@@ -39387,7 +39063,7 @@ sa
 aksidente
 sa
 sasakyang
-motor
+de-motor
 beses
 na
 iminungkahi
@@ -39396,7 +39072,7 @@ bago
 niya
 tinanggap
 dahil
-iingat
+nag-iingat
 siyang
 pumasok
 sa
@@ -39414,7 +39090,7 @@ at
 sa
 una
 ay
-aalangan
+nag-aalangan
 na
 kunin
 ang
@@ -39472,8 +39148,7 @@ pinagtibay
 ang
 mga
 ito
-isinasaalang
-alang
+isinasaalang-alang
 niya
 silang
 mga
@@ -39587,7 +39262,7 @@ sa
 hindi
 matagumpay
 na
-pag
+pag-bid
 ng
 kanyang
 asawa
@@ -39640,10 +39315,10 @@ ilan
 sa
 kanyang
 mga
-aaral
+mag-aaral
 doon
 ang
-alaala
+nag-alaala
 sa
 kanya
 bilang
@@ -39691,7 +39366,7 @@ ng
 kumpiyansa
 sa
 mga
-aaral
+mag-aaral
 sinabi
 niya
 tungkol
@@ -39713,7 +39388,7 @@ pagkakaiba
 sa
 kanilang
 buhay
-gusto
+gustung-gusto
 ko
 ang
 populasyon
@@ -39859,7 +39534,7 @@ sa
 kanyang
 sa
 doktor
-aaral
+nag-aaral
 sa
 ilalim
 ng
@@ -39886,7 +39561,7 @@ kanyang
 disertasyon
 at
 ay
-nai
+nai-publish
 sa
 ilalim
 ng
@@ -39910,6 +39585,7 @@ man
 ay
 pormal
 na
+nag-convert
 sa
 katolisismo
 o
@@ -40082,8 +39758,7 @@ kanyang
 punong
 pokus
 ng
-pag
-aalala
+pag-aalala
 bilang
 isang
 potensyal
@@ -40143,7 +39818,7 @@ na
 bilang
 pagkilala
 sa
-pag
+pag-deploy
 ni
 sa
 hindi
@@ -40179,8 +39854,7 @@ asawa
 ay
 tumatakbo
 sa
-pagka
-bise
+pagka-bise
 presidente
 ay
 nagpatuloy
@@ -40241,8 +39915,7 @@ na
 bise
 pwesto
 ng
-pagka
-pangulo
+pagka-pangulo
 sa
 bilang
 bagong
@@ -40445,8 +40118,7 @@ ng
 unibersidad
 ng
 ang
-kauna
-unahang
+kauna-unahang
 nasabing
 adres
 niya
@@ -40590,7 +40262,7 @@ opisina
 para
 sa
 mga
-aaral
+mag-aaral
 at
 pagsisikap
 na
@@ -40611,7 +40283,7 @@ maaari
 ang
 kanyang
 mga
-aaral
+mag-aaral
 ay
 madalas
 na
@@ -40640,7 +40312,7 @@ tinanong
 ako
 ng
 mga
-aaral
+mag-aaral
 kung
 kasal
 ako
@@ -40653,8 +40325,7 @@ ako
 sa
 kanyang
 mga
-kamag
-anak
+kamag-anak
 kadalasan
 ay
 kinakalma
@@ -40670,7 +40341,7 @@ ang
 gawain
 ng
 mga
-aaral
+mag-aaral
 sa
 kanya
 sa
@@ -40701,7 +40372,7 @@ ng
 ng
 kanyang
 mga
-mail
+e-mail
 habang
 ang
 pangalawang
@@ -40722,7 +40393,7 @@ kasamahan
 sa
 pagtuturo
 na
-aayos
+nag-aayos
 para
 sa
 mga
@@ -40840,7 +40511,7 @@ apo
 hunyo
 siya
 ay
-nai
+nai-publish
 ng
 isang
 libro
@@ -40852,7 +40523,7 @@ nakabase
 sa
 paligid
 ng
-pag
+pag-deploy
 ng
 kanyang
 sa
@@ -41099,8 +40770,7 @@ hindi
 ako
 nawalan
 ng
-pag
-asa
+pag-asa
 sinabi
 niya
 na
@@ -41133,8 +40803,7 @@ pananampalataya
 bilang
 resulta
 ng
-pakikipag
-ugnayan
+pakikipag-ugnayan
 ng
 sa
 kampanya
@@ -41259,7 +40928,7 @@ inilunsad
 ng
 dating
 ikalawang
-asawa
+mag-asawa
 ang
 noong
 pebrero
@@ -41278,8 +40947,7 @@ kabilang
 ang
 pagtuon
 sa
-pag
-iwas
+pag-iwas
 sa
 karahasan
 laban
@@ -41355,12 +41023,13 @@ sa
 noong
 hunyo
 ang
-asawa
+mag-asawa
 ay
 bumili
 ng
 isang
 milyon
+off-the-water
 na
 bahay
 sa
@@ -41372,6 +41041,7 @@ kung
 saan
 pinlano
 nilang
+mag-host
 ng
 mga
 miyembro
@@ -41385,8 +41055,7 @@ kanilang
 kakayahang
 bilhin
 ang
-pagmamay
-ari
+pagmamay-ari
 ng
 pamilya
 na
@@ -41403,8 +41072,7 @@ nilagdaan
 nila
 sa
 sa
-pag
-alis
+pag-alis
 sa
 opisina
 na
@@ -41424,7 +41092,7 @@ pamamagitan
 ng
 iniulat
 ng
-asawa
+mag-asawa
 ang
 ilang
 milyon
@@ -41440,8 +41108,7 @@ kasama
 ang
 sa
 mga
-pakikipag
-usap
+pakikipag-usap
 para
 sa
 kanyang
@@ -41451,7 +41118,7 @@ ang
 pagtaas
 din
 ng
-asawa
+mag-asawa
 ng
 kanilang
 pagbibigay
@@ -41465,6 +41132,7 @@ nagpatuloy
 na
 magturo
 ng
+full-time
 sa
 pagkatapos
 na
@@ -41655,7 +41323,7 @@ mayo
 ang
 kanyang
 ay
-nai
+nai-publish
 ang
 libro
 ay
@@ -41730,7 +41398,7 @@ ng
 ng
 ilang
 mga
-pag
+pag-sign
 sa
 libro
 upang
@@ -41747,8 +41415,7 @@ pagkapangulo
 sa
 tungkol
 sa
-napag
-usapan
+napag-usapan
 na
 posibilidad
 ng
@@ -41828,8 +41495,7 @@ asawa
 ng
 pisikal
 na
-pakikipag
-ugnay
+pakikipag-ugnay
 sa
 kanila
 na
@@ -42179,8 +41845,7 @@ senador
 ng
 na
 na
-paulit
-ulit
+paulit-ulit
 na
 tumawag
 kay
@@ -42213,8 +41878,7 @@ kanyang
 asawa
 at
 sa
-kauna
-unahang
+kauna-unahang
 pagkakataon
 atubili
 na
@@ -42229,8 +41893,7 @@ upang
 siya
 ay
 nasa
-buong
-oras
+buong-oras
 na
 ng
 kampanya
@@ -42271,8 +41934,7 @@ sa
 mga
 caucus
 ng
-paminsan
-minsan
+paminsan-minsan
 ay
 nagtatanghal
 siya
@@ -42292,7 +41954,7 @@ asawa
 niya
 ang
 kanyang
-mail
+e-mail
 sa
 kampanya
 sa
@@ -42393,7 +42055,7 @@ nominado
 ng
 noong
 hunyo
-nai
+nai-publish
 niya
 ang
 librong
@@ -42438,8 +42100,7 @@ ang
 kanyang
 asawa
 upang
-bigyang
-diin
+bigyang-diin
 na
 nauunawaan
 niya
@@ -42546,8 +42207,7 @@ naririnig
 ko
 iyon
 nang
-paulit
-ulit
+paulit-ulit
 nang
 wala
 nang
@@ -42559,7 +42219,7 @@ proseso
 ng
 pagpili
 ng
-president
+vice-president
 na
 nagresulta
 sa
@@ -42572,8 +42232,7 @@ ng
 nagsalita
 mula
 sa
-silid
-aralan
+silid-aralan
 sa
 kung
 saan
@@ -42585,8 +42244,7 @@ gumuhit
 siya
 ng
 mga
-pagkakapantay
-pantay
+pagkakapantay-pantay
 sa
 pagitan
 ng
@@ -42621,8 +42279,7 @@ bansa
 sa
 pagmamahal
 at
-pag
-unawa
+pag-unawa
 at
 sa
 maliliit
@@ -42634,8 +42291,7 @@ may
 katapangan
 na
 walang
-pag
-asa
+pag-asa
 pananampalataya
 sa
 huling
@@ -42713,7 +42369,7 @@ isang
 serye
 ng
 mga
-edukasyon
+pang-edukasyon
 na
 laro
 sa
@@ -42807,7 +42463,7 @@ bilang
 isang
 guro
 ng
-aaral
+mag-aaral
 gumamit
 siya
 ng
@@ -42835,7 +42491,7 @@ at
 kapwa
 guro
 ng
-aaral
+mag-aaral
 sina
 at
 upang
@@ -42859,13 +42515,11 @@ bersyon
 paunang
 pagbili
 ng
-paminsan
-minsang
+paminsan-minsang
 pangangaso
 ng
 pagkain
-paminsan
-minsang
+paminsan-minsang
 pagbili
 ng
 suplay
@@ -42908,6 +42562,7 @@ paglaon
 ay
 mapangalanang
 ay
+nag-debut
 sa
 klase
 ni
@@ -42952,8 +42607,7 @@ oras
 ng
 minicomputer
 na
-pagmamay
-ari
+pagmamay-ari
 ng
 nang
 matapos
@@ -42961,6 +42615,7 @@ ang
 susunod
 na
 semestre
+nag-print
 ang
 ng
 isang
@@ -42985,7 +42640,7 @@ bumuo
 ng
 software
 na
-edukasyon
+pang-edukasyon
 para
 sa
 silid
@@ -42993,8 +42648,6 @@ aralan
 ay
 kumuha
 ng
-na
-upload
 niya
 ang
 laro
@@ -43009,7 +42662,7 @@ samahan
 sa
 pamamagitan
 ng
-pag
+pag-type
 muli
 nito
 kinopya
@@ -43060,7 +42713,7 @@ matapos
 ang
 kanyang
 mga
-pag
+pag-update
 ginawang
 magagamit
 niya
@@ -43090,12 +42743,10 @@ programa
 ng
 na
 may
-libu
-libong
+libu-libong
 mga
 manlalaro
-buwan
-buwan
+buwan-buwan
 inilathala
 ni
 ang
@@ -43182,8 +42833,7 @@ muling
 inilabas
 bilang
 isang
-nakapag
-iisang
+nakapag-iisang
 laro
 na
 may
@@ -43195,7 +42845,7 @@ ang
 bagong
 bersyon
 ay
-na
+na-update
 din
 upang
 mas
@@ -43221,8 +42871,7 @@ kung
 kanino
 ang
 maaaring
-makipag
-ugnay
+makipag-ugnay
 ang
 manlalaro
 pagsapit
@@ -43232,8 +42881,7 @@ ay
 binubuo
 ng
 halos
-isang
-katlo
+isang-katlo
 ng
 milyon
 sa
@@ -43242,7 +42890,7 @@ taunang
 kita
 ang
 isang
-na
+na-update
 na
 bersyon
 ay
@@ -43327,11 +42975,9 @@ panlabas
 na
 templatestyles
 srcmodulecoordinatesstylescsstemplatestyles
-pintuang
-bayan
+pintuang-bayan
 ng
 ang
-bayan
 ng
 o
 ng
@@ -43342,8 +42988,7 @@ isa
 sa
 mga
 pinakamahalagang
-pintuang
-bayan
+pintuang-bayan
 sa
 lungsod
 ng
@@ -43371,8 +43016,7 @@ isang
 linyang
 pandepensa
 sa
-timog
-silangan
+timog-silangan
 ng
 kilala
 ito
@@ -43483,8 +43127,7 @@ bayan
 ang
 pagdating
 at
-pag
-alis
+pag-alis
 sa
 alinman
 sa
@@ -43499,8 +43142,7 @@ ang
 ng
 ay
 matatagpuan
-timog
-kanluran
+timog-kanluran
 ng
 paliparan
 larong
@@ -43540,8 +43182,7 @@ noong
 hulyo
 ito
 ay
-na
-modelo
+na-modelo
 sa
 gameplay
 ng
@@ -43571,8 +43212,7 @@ ginagamit
 niya
 ang
 mga
-pag
-aaral
+pag-aaral
 ng
 kanyang
 lolo
@@ -43653,8 +43293,7 @@ ng
 isang
 koponan
 sa
-pag
-unlad
+pag-unlad
 ang
 isang
 bersyon
@@ -43719,15 +43358,13 @@ serye
 ng
 at
 sa
-sabay
-sabay
+sabay-sabay
 nitong
 patawa
 ng
 tropes
 ng
-isinasaalang
-alang
+isinasaalang-alang
 ang
 sumunod
 na
@@ -43810,7 +43447,7 @@ inilabas
 kalaunan
 sa
 sa
-solong
+solong-cartridge
 na
 para
 sa
@@ -43880,6 +43517,7 @@ na
 nakaharap
 ni
 sa
+run-off
 ng
 halalan
 at
@@ -43897,7 +43535,7 @@ ay
 nagmula
 sa
 at
-aral
+nag-aral
 ng
 batas
 ekonomiya
@@ -43971,20 +43609,19 @@ sa
 at
 aktwal
 na
-co
+co-host
 ng
 karera
 sinimulan
 ni
 ang
-pag
-aaral
+pag-aaral
 ng
 musika
 sa
 edad
 na
-aral
+nag-aral
 siya
 ng
 piyano
@@ -44021,8 +43658,7 @@ karamihan
 ng
 kanyang
 mga
-kamag
-aral
+kamag-aral
 bukod
 sa
 piyano
@@ -44360,8 +43996,7 @@ smartwatch
 na
 kayang
 tumawag
-paminsan
-minsang
+paminsan-minsang
 tawag
 sa
 mga
@@ -44410,10 +44045,10 @@ isang
 nabibitbit
 na
 elektronikong
-konsyumer
+pang-konsyumer
 na
 maaaring
-imbak
+mag-imbak
 ng
 mga
 midyang
@@ -44442,8 +44077,7 @@ mga
 headphones
 at
 mga
-palakas
-tinig
+palakas-tinig
 ilang
 halimbawa
 ng
@@ -44517,8 +44151,7 @@ na
 mula
 pa
 noong
-ika
-apat
+ika-apat
 na
 siglo
 ito
@@ -44542,12 +44175,10 @@ lokal
 na
 alamat
 ang
-pagsasa
-kristiyano
+pagsasa-kristiyano
 ng
 sa
-pagka
-apostolado
+pagka-apostolado
 ni
 ng
 namatay
@@ -44641,6 +44272,7 @@ katoliko
 eklesyastikong
 teritoryo
 sa
+italya
 ito
 ay
 mayroon
@@ -44668,7 +44300,6 @@ ng
 ng
 katoliko
 ng
-santa
 ang
 ng
 ay
@@ -44805,8 +44436,7 @@ drama
 ng
 ay
 kasalukuyang
-naka
-base
+naka-base
 sa
 ng
 tangkad
@@ -44849,8 +44479,7 @@ bilang
 na
 simple
 pero
-kasiya
-siya
+kasiya-siya
 ang
 larong
 ito
@@ -44900,7 +44529,7 @@ ng
 mga
 normal
 na
-multi
+multi-player
 sa
 laro
 ay
@@ -44919,7 +44548,6 @@ bundok
 sa
 tagaytay
 ng
-ala
 na
 saklaw
 ng
@@ -44949,8 +44577,7 @@ katha
 ang
 ay
 ang
-hilagang
-silangang
+hilagang-silangang
 distrito
 sa
 dibisyon
@@ -45068,8 +44695,6 @@ sa
 diyosesis
 ng
 ang
-kardinal
-obispo
 ngayon
 ay
 ang
@@ -45538,6 +45163,7 @@ startropics
 ang
 ay
 isang
+action-adventure
 na
 inilabas
 ng
@@ -45583,8 +45209,7 @@ seryeng
 ang
 ng
 isang
-sumunud
-sunod
+sumunud-sunod
 na
 pinamagatang
 na
@@ -45652,8 +45277,7 @@ sa
 kanyang
 laboratoryo
 sa
-kathang
-isip
+kathang-isip
 na
 sa
 nang
@@ -45678,6 +45302,7 @@ ng
 isang
 espesyal
 na
+yo-yo
 upang
 ipagtanggol
 ang
@@ -45747,8 +45372,7 @@ hayop
 kabilang
 ang
 isang
-pakikipag
-usap
+pakikipag-usap
 na
 loro
 at
@@ -45816,7 +45440,6 @@ nang
 mas
 maaga
 sa
-isla
 matapos
 nilang
 makatakas
@@ -45829,8 +45452,7 @@ isang
 espesyal
 na
 na
-nagbibigay
-daan
+nagbibigay-daan
 sa
 na
 subaybayan
@@ -45936,8 +45558,7 @@ sa
 ang
 mga
 ay
-pinagsama
-sama
+pinagsama-sama
 at
 lumitaw
 ang
@@ -46041,8 +45662,7 @@ ang
 iba't
 ibang
 mga
-pakikipag
-ayos
+pakikipag-ayos
 at
 iba
 mga
@@ -46050,8 +45670,7 @@ lugar
 ng
 interes
 at
-nakikipag
-ugnay
+nakikipag-ugnay
 sa
 mga
 na
@@ -46112,12 +45731,14 @@ at
 kalaban
 na
 dapat
+i-navigate
 o
 sirain
 ng
 manlalaro
 ang
 isang
+yo-yo
 ay
 nagsisilbing
 pangunahing
@@ -46131,8 +45752,7 @@ sa
 paglabas
 ng
 sa
-pag
-usad
+pag-usad
 ng
 manlalaro
 ang
@@ -46167,6 +45787,7 @@ pisikal
 na
 liham
 na
+nag-set
 ng
 kwento
 at
@@ -46203,7 +45824,7 @@ nakatagong
 na
 kinakailangan
 upang
-usad
+mag-usad
 sa
 laro
 bilang
@@ -46217,7 +45838,7 @@ mga
 tagahanga
 ang
 ay
-na
+na-publish
 din
 sa
 sa
@@ -46228,8 +45849,7 @@ liham
 ay
 naidagdag
 sa
-manu
-manong
+manu-manong
 na
 sa
 halip
@@ -46272,6 +45892,7 @@ na
 isawsaw
 ang
 isang
+insert-letter
 sa
 tubig
 na
@@ -46348,13 +45969,11 @@ na
 ang
 mga
 at
-pagkakasunud
-sunod
+pagkakasunud-sunod
 ng
 pagkilos
 mukhang
-kamangha
-manghang
+kamangha-manghang
 habang
 ang
 mga
@@ -46612,8 +46231,7 @@ katutubong
 bansa
 sa
 sa
-tag
-init
+tag-init
 sa
 kung
 saan
@@ -46685,8 +46303,7 @@ populasyon
 nito
 ay
 may
-humigit
-kumulang
+humigit-kumulang
 na
 kasaysayan
 ang
@@ -46702,8 +46319,7 @@ nang
 ibinigay
 ito
 ng
-may
-aring
+may-aring
 sa
 ng
 matapos
@@ -46759,8 +46375,7 @@ isang
 komuna
 pagkatapos
 ng
-pag
-iisa
+pag-iisa
 ng
 noong
 nang
@@ -46857,15 +46472,12 @@ lalawigan
 ng
 ito
 sa
-timog
-kanluran
+timog-kanluran
 ng
 at
 mula
 sa
 hangganang
-pranses
-italyano
 sa
 ng
 mayroong
@@ -46899,8 +46511,7 @@ tanyag
 na
 patutunguhan
 tuwing
-tag
-init
+tag-init
 para
 sa
 mga
@@ -46979,8 +46590,7 @@ na
 konsulado
 sa
 mga
-kambal
-bayan
+kambal-bayan
 kapatid
 na
 lungsod
@@ -46988,7 +46598,6 @@ ang
 ay
 ikinambal
 sa
-sars
 ang
 baryant
 o
@@ -46996,8 +46605,7 @@ ang
 baryant
 ay
 ang
-iba
-ibang
+iba-ibang
 na
 uri
 ng
@@ -47280,8 +46888,7 @@ maabot
 mula
 sa
 na
-humigit
-kumulang
+humigit-kumulang
 km
 ang
 layo
@@ -47336,8 +46943,7 @@ pamayanan
 ang
 natagpuan
 sa
-timog
-kanluran
+timog-kanluran
 ng
 sa
 frazione
@@ -47420,7 +47026,7 @@ sa
 ng
 noong
 karera
-aral
+nag-aral
 sa
 mula
 noong
@@ -47436,7 +47042,7 @@ boluntaryo
 para
 sa
 na
-oorganisa
+nag-oorganisa
 ng
 taunang
 sa
@@ -47600,7 +47206,7 @@ gumawa
 siya
 ng
 mga
-pag
+pag-record
 ng
 kanyang
 sarili
@@ -47645,8 +47251,7 @@ bidyo
 na
 ng
 sa
-tag
-init
+tag-init
 na
 ginanap
 sa
@@ -47657,7 +47262,7 @@ at
 ginawa
 ng
 at
-nai
+nai-publish
 ng
 ang
 laro
@@ -47728,8 +47333,7 @@ ay
 binalik
 at
 sa
-kauna
-unahang
+kauna-unahang
 pagkakataon
 sa
 mga
@@ -47788,7 +47392,7 @@ man
 o
 babae
 nang
-isa
+paisa-isa
 mga
 bansang
 kabilang
@@ -47802,8 +47406,7 @@ sa
 laro
 ayon
 sa
-pagkakasunod
-sunod
+pagkakasunod-sunod
 ng
 mga
 pangalang
@@ -47812,8 +47415,7 @@ pagtanggap
 nakatanggap
 ang
 ng
-halo
-halong
+halo-halong
 mga
 pagsusuri
 mula
@@ -48062,7 +47664,7 @@ ng
 na
 binuo
 at
-na
+na-publish
 ng
 ito
 ay
@@ -48082,8 +47684,7 @@ noong
 disyembre
 na
 may
-naka
-iskedyul
+naka-iskedyul
 na
 bersyon
 ng
@@ -48114,8 +47715,7 @@ laban
 sa
 kasanayan
 na
-nagbibigay
-daan
+nagbibigay-daan
 sa
 mga
 kasanayan
@@ -48150,7 +47750,7 @@ mga
 liga
 at
 libreng
-pag
+pag-play
 pati
 na
 rin
@@ -48185,8 +47785,7 @@ mas
 katulad
 ng
 isang
-pag
-unlad
+pag-unlad
 at
 pagpapalaya
 noong
@@ -48285,8 +47884,7 @@ positibong
 pagsusuri
 ayon
 sa
-pagsasama
-sama
+pagsasama-sama
 ng
 pagsusuri
 ng
@@ -48295,8 +47893,6 @@ disyembre
 ay
 isang
 at
-pilipino
-amerikano
 na
 babaeng
 pintor
@@ -48334,8 +47930,7 @@ sa
 upang
 makapagtapos
 ng
-pag
-aaral
+pag-aaral
 niya
 ang
 kanyang
@@ -48409,7 +48004,7 @@ siya
 sa
 na
 balak
-aral
+mag-aral
 ng
 abogasya
 ngunit
@@ -48444,7 +48039,7 @@ pananahi
 at
 pagiging
 isang
-aral
+nag-aral
 ng
 pagpipinta
 sa
@@ -48469,7 +48064,7 @@ ang
 mali
 at
 sa
-aral
+nag-aral
 sa
 ilalim
 ng
@@ -48494,8 +48089,7 @@ ay
 nagpursige
 sa
 kanyang
-pag
-aaral
+pag-aaral
 sa
 sa
 kung
@@ -48505,8 +48099,7 @@ siya
 sa
 pagpipinta
 ng
-inanimadong
-buhay
+inanimadong-buhay
 at
 matalinhagang
 pagguhit
@@ -48542,7 +48135,7 @@ isang
 taon
 kasama
 ang
-aaral
+mag-aaral
 ng
 negosyo
 mula
@@ -48553,7 +48146,7 @@ ay
 bumalik
 sa
 upang
-aral
+mag-aral
 muli
 ng
 pagpipinta
@@ -48574,7 +48167,7 @@ naging
 isang
 ekonomista
 ng
-internasyunal
+pang-internasyunal
 na
 kaunlaran
 mga
@@ -48603,8 +48196,7 @@ sa
 mga
 matatalinhagang
 gawaing
-sosyo
-pampulitika
+sosyo-pampulitika
 ng
 masa
 at
@@ -48784,8 +48376,7 @@ na
 karera
 ang
 kanyang
-pinaka
-hindi
+pinaka-hindi
 malilimutang
 gantimpala
 ay
@@ -48801,7 +48392,7 @@ noong
 ang
 kalalakihan
 na
-tangi
+katangi-tangi
 ay
 isang
 parangal
@@ -48815,8 +48406,7 @@ hanggang
 nang
 ang
 naging
-kauna
-unahang
+kauna-unahang
 babae
 na
 nakatanggap
@@ -48872,8 +48462,7 @@ ng
 oposisyon
 na
 ito
-tuwang
-tuwa
+tuwang-tuwa
 na
 nilabag
 niya
@@ -48960,7 +48549,7 @@ siya
 ng
 maraming
 mga
-internasyonal
+pang-internasyonal
 na
 parangal
 sa
@@ -49107,8 +48696,7 @@ ideya
 at
 ng
 kapaligirang
-pabago
-bago
+pabago-bago
 pakiramdam
 ko
 ako
@@ -49210,8 +48798,7 @@ aksidenteng
 pagpatay
 laban
 sa
-labing
-isang
+labing-isang
 lalaking
 kasama
 ni
@@ -49242,8 +48829,7 @@ inaresto
 ang
 tatlo
 sa
-labing
-isang
+labing-isang
 indibidwal
 na
 tinukoy
@@ -49284,6 +48870,7 @@ na
 sa
 kung
 saan
+nag-trend
 ang
 marami
 ang
@@ -49368,6 +48955,7 @@ noong
 at
 nagtapos
 bilang
+runner-up
 sumali
 rin
 sa
@@ -49435,7 +49023,7 @@ rin
 sina
 at
 nagsimula
-inuman
+mag-inuman
 ang
 grupo
 bandang
@@ -49607,7 +49195,6 @@ dahilan
 ng
 pagkamatay
 ni
-pansin
 rin
 ang
 mga
@@ -49687,6 +49274,7 @@ humantong
 sa
 aksidenteng
 pagpatay
+rape-slay
 kay
 rin
 nila
@@ -49737,8 +49325,7 @@ katawan
 ng
 biktima
 at
-binigyan
-pansin
+binigyan-pansin
 na
 hindi
 ito
@@ -49761,8 +49348,7 @@ sinabi
 rin
 niya
 na
-iba
-iba
+iba-iba
 ang
 ibinibigay
 na
@@ -49801,8 +49387,7 @@ ng
 order
 utos
 ng
-pagbigay
-dahilan
+pagbigay-dahilan
 dahil
 sa
 mga
@@ -49817,8 +49402,7 @@ sinabi
 ng
 pamilya
 na
-magpapa
-otopsiya
+magpapa-otopsiya
 uit
 sila
 dahil
@@ -49827,7 +49411,7 @@ raw
 tinukoy
 ng
 naunang
-legal
+medico-legal
 ang
 dahilan
 kung
@@ -49984,7 +49568,7 @@ din
 ang
 kanyang
 ina
-aawit
+mang-aawit
 na
 dela
 na
@@ -50010,8 +49594,7 @@ isang
 panayam
 sa
 ni
-prosekyutor
-heneral
+prosekyutor-heneral
 ng
 kagawaran
 ng
@@ -50027,7 +49610,7 @@ ang
 kaso
 at
 sinabing
-uumpisa
+nag-uumpisa
 pa
 lang
 kami
@@ -50059,7 +49642,7 @@ isang
 espesyal
 na
 grupong
-iimbestiga
+mag-iimbestiga
 sa
 kaso
 ayon
@@ -50079,8 +49662,7 @@ mula
 kay
 dahil
 sa
-pag
-eembalsamong
+pag-eembalsamong
 ginawa
 bago
 ang
@@ -50110,7 +49692,7 @@ at
 maling
 paghahanda
 sa
-legal
+medico-legal
 ni
 naglabas
 naman
@@ -50276,8 +49858,7 @@ sa
 sumali
 sila
 sa
-pag
-aalsa
+pag-aalsa
 hindi
 na
 sila
@@ -50338,7 +49919,7 @@ ay
 nawasak
 ito
 ay
-iwan
+nag-iwan
 ng
 kahalagahan
 bilang
@@ -50413,8 +49994,7 @@ ng
 pilipinas
 din
 ang
-kauna
-unahang
+kauna-unahang
 pilipino
 na
 nagpakita
@@ -50456,8 +50036,7 @@ gumaganap
 ng
 papel
 ang
-pag
-unlad
+pag-unlad
 nito
 ay
 nagsimula
@@ -50473,8 +50052,7 @@ ng
 sa
 kurso
 ng
-pag
-unlad
+pag-unlad
 tinanggal
 ng
 laro
@@ -50510,8 +50088,7 @@ ay
 nagaganap
 sa
 isang
-kathang
-isip
+kathang-isip
 na
 bansa
 batay
@@ -50566,8 +50143,7 @@ malapit
 sa
 pagtatapos
 ng
-pag
-unlad
+pag-unlad
 nito
 inanunsyo
 ng
@@ -50668,8 +50244,7 @@ beses
 ang
 pangkat
 ng
-pag
-unlad
+pag-unlad
 ay
 binubuo
 ng
@@ -50678,10 +50253,10 @@ kasapi
 na
 nagtatrabaho
 ng
+part-time
 sa
 isang
-kusang
-loob
+kusang-loob
 na
 batayan
 nang
@@ -50692,8 +50267,7 @@ ay
 pinlano
 bilang
 isang
-nakapag
-iisang
+nakapag-iisang
 laro
 na
 walang
@@ -50791,7 +50365,6 @@ na
 pinagbibidahan
 ni
 at
-umpisa
 ito
 noong
 enero
@@ -50809,8 +50382,7 @@ awit
 ng
 na
 isang
-bansang
-isla
+bansang-isla
 sa
 itong
 pinagtibay
@@ -50845,8 +50417,7 @@ awit
 ng
 na
 isang
-bansang
-isla
+bansang-isla
 sa
 ito
 ay
@@ -51122,10 +50693,7 @@ isla
 sa
 paligid
 ng
-walang
-kamatayang
-inang
-bayan
+inang-bayan
 buong
 kalayaan
 lubos
@@ -51133,8 +50701,7 @@ at
 kumpleto
 pagbuo
 sa
-pag
-unlad
+pag-unlad
 at
 sa
 kapayapaan
@@ -51187,8 +50754,7 @@ pintig
 sa
 puso
 ng
-pag
-asa
+pag-asa
 para
 maging
 bayani
@@ -51294,6 +50860,7 @@ na
 lalaki
 ni
 isang
+light-flyweight
 na
 boksingero
 na
@@ -51335,7 +50902,7 @@ guro
 ng
 boksing
 sa
-drama
+comedy-drama
 ay
 lumabas
 din
@@ -51376,7 +50943,7 @@ noong
 sumunod
 siya
 ay
-aral
+nag-aral
 sa
 kung
 saan
@@ -51386,7 +50953,7 @@ ang
 kanyang
 ma
 noong
-aral
+nag-aral
 siya
 ng
 studies
@@ -51482,7 +51049,7 @@ ang
 maling
 impormasyon
 abril
-ayon
+sang-ayon
 sa
 pahayagan
 na
@@ -51523,7 +51090,7 @@ may
 kaugnay
 sa
 pandemya
-ayon
+sang-ayon
 noong
 abril
 nobyembre
@@ -51744,8 +51311,7 @@ halo
 sa
 loob
 ng
-daang
-daang
+daang-daang
 siglo
 ito
 ay
@@ -51931,7 +51497,7 @@ ninuno
 ancestries
 images
 frequencies
-reported
+self-reported
 ancestries
 basahan
 sistema
@@ -51971,7 +51537,7 @@ alpabeto
 ang
 mga
 ng
-pre
+pre-hispanikong
 ay
 mayroon
 tatlong
@@ -52078,8 +51644,7 @@ na
 o
 base
 kay
-may
-akda
+may-akda
 ng
 pinakaunang
 talasalitaan
@@ -52124,8 +51689,7 @@ ay
 umaabot
 sa
 na
-ka
-tao
+ka-tao
 dekada
 ang
 dekada
@@ -52164,8 +51728,7 @@ tsina
 na
 nagkaroon
 ng
-doble
-dihitong
+doble-dihitong
 paglago
 ng
 halos
@@ -52191,8 +51754,7 @@ dalawang
 pinakamataong
 bansa
 na
-unti
-unting
+unti-unting
 naging
 dominanteng
 puwersang
@@ -52290,7 +51852,7 @@ sa
 mga
 industriyalisadong
 mundo
-ambag
+nag-ambag
 ang
 paglago
 ng
@@ -52365,7 +51927,7 @@ sa
 mga
 tagagamit
 ang
-mail
+e-mail
 na
 maging
 popular
@@ -52407,8 +51969,7 @@ sa
 pagkatapos
 ng
 mga
-pag
-atake
+pag-atake
 noong
 ng
 ang
@@ -52458,14 +52019,13 @@ mula
 pa
 noong
 pandaigdig
-khavar
+khavar-e
 ang
 silangan
 ay
 isang
 pahayagang
-araw
-araw
+pang-araw-araw
 sa
 na
 inilathala
@@ -52647,8 +52207,7 @@ ng
 hinaharap
 na
 mga
-pag
-aaral
+pag-aaral
 ang
 pagkakaintindi
 kung
@@ -52681,12 +52240,9 @@ kaganapan
 tingnan
 ang
 talasalitaang
-sino
 ang
 talasalitaang
-sino
 o
-eo
 ay
 tumutukoy
 sa
@@ -52698,7 +52254,6 @@ sa
 kabilang
 sa
 talasalitaang
-sino
 ang
 mga
 salitang
@@ -52737,7 +52292,6 @@ bahagdan
 ng
 mga
 salitang
-sino
 sa
 modernong
 paggamit
@@ -52762,7 +52316,6 @@ paggamit
 ng
 mga
 salitang
-sino
 noong
 panahon
 ng
@@ -52790,7 +52343,6 @@ pangalan
 ng
 mga
 pangalang
-sino
 bilang
 karagdagan
 pinalitan
@@ -52810,13 +52362,11 @@ lugar
 sa
 bansa
 ng
-sino
 nanatiling
 popular
 ang
 mga
 salitang
-sino
 noong
 mga
 panahong
@@ -52827,7 +52377,6 @@ pa
 rin
 ang
 bokabularyong
-sino
 sa
 kung
 saan
@@ -52859,7 +52408,6 @@ pagpapalit
 ng
 maraming
 salitang
-sino
 sa
 mga
 katutubong
@@ -52869,7 +52417,6 @@ bumubuo
 ang
 mga
 salitang
-sino
 ng
 halos
 bahagdan
@@ -52902,7 +52449,6 @@ ginagamit
 ang
 mga
 salitang
-sino
 sa
 mga
 kontekstong
@@ -52931,7 +52477,6 @@ unang
 pangalan
 sa
 ay
-sino
 bilang
 karagdagan
 maihahayag
@@ -52941,7 +52486,6 @@ bilang
 ng
 mga
 salitang
-sino
 at
 katutubong
 ngunit
@@ -52960,7 +52504,6 @@ nakasulat
 ang
 mga
 salitang
-sino
 sa
 alpabetong
 kilala
@@ -52982,7 +52525,6 @@ tsino
 ang
 mga
 salitang
-sino
 na
 tuwirang
 hiniram
@@ -53025,20 +52567,16 @@ salitang
 hiniram
 mula
 sa
-sino
-hapones
 ginagamit
 lamang
 ang
 mga
 salitang
-sino
 na
 hiniram
 mula
 sa
-sino
-hapones
+sino-hapones
 sa
 at
 hindi
@@ -53064,8 +52602,7 @@ batas
 na
 tumatakda
 sa
-karapatang
-ari
+karapatang-ari
 at
 mga
 karapatang
@@ -53107,8 +52644,7 @@ batas
 nililimitahan
 ang
 potograpiya
-alang
-alang
+alang-alang
 sa
 kapakanan
 ng
@@ -53195,8 +52731,7 @@ bawal
 dito
 isang
 samahang
-maka
-potograpiya
+maka-potograpiya
 ng
 isang
 protestang
@@ -53271,7 +52806,7 @@ pangkat
 din
 ng
 pangkat
-adbokasya
+pang-adbokasya
 na
 may
 pagkiling
@@ -53327,8 +52862,7 @@ ay
 isang
 ilog
 ng
-timog
-kanlurang
+timog-kanlurang
 sa
 nito
 ang
@@ -53359,6 +52893,7 @@ orihinal
 na
 palaro
 ng
+reyno
 ang
 pangunahing
 layunin
@@ -53526,8 +53061,7 @@ ng
 pagpupulong
 kasama
 ang
-libu
-libong
+libu-libong
 mga
 monghe
 sa
@@ -53571,8 +53105,7 @@ malubhang
 napinsala
 dahil
 sa
-sunod
-sunod
+sunod-sunod
 na
 mga
 labanan
@@ -53591,7 +53124,7 @@ ang
 gobyerno
 ng
 ay
-abuloy
+nag-abuloy
 ng
 sa
 lungsod
@@ -53633,8 +53166,7 @@ at
 idinagdag
 ang
 isang
-silid
-aklatan
+silid-aklatan
 na
 naglalaman
 ng
@@ -53821,8 +53353,7 @@ pagpapanggap
 na
 may
 isang
-kakila
-kilabot
+kakila-kilabot
 na
 mukha
 ay
@@ -53850,8 +53381,7 @@ nasa
 sa
 ng
 sa
-timog
-silangan
+timog-silangan
 ng
 alamat
 ng
@@ -53926,8 +53456,7 @@ prinsesa
 upang
 subukin
 ang
-pag
-ibig
+pag-ibig
 ng
 sa
 kanya
@@ -53947,8 +53476,7 @@ iyon
 ay
 likas
 na
-katawa
-tawa
+katawa-tawa
 at
 karamihan
 ay
@@ -53976,8 +53504,7 @@ lalaki
 niya
 ay
 ang
-kaisa
-isa
+kaisa-isa
 niyang
 anak
 ang
@@ -54067,8 +53594,7 @@ ilan
 na
 ang
 mga
-tira
-tira
+tira-tira
 ng
 tulay
 na
@@ -54113,7 +53639,7 @@ na
 ang
 prinsesa
 ay
-asawa
+nag-asawa
 ng
 isang
 bayaning
@@ -54130,8 +53656,7 @@ sa
 puso
 ng
 mga
-naglalakas
-loob
+naglalakas-loob
 na
 kalabanin
 siya
@@ -54232,8 +53757,7 @@ bangka
 ay
 naging
 ang
-cake
-tray
+cake-tray
 ay
 naging
 ang
@@ -54279,8 +53803,7 @@ deposito
 ng
 ginto
 na
-naka
-akit
+naka-akit
 sa
 mga
 mangangalakal

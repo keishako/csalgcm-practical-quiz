@@ -81,8 +81,7 @@ Sant'Antonio
 Villaurbana
 Barbaxiana
 Barbagia
-Barbagia
-Mandrolisai
+Barbagia-Mandrolisai
 Oristano
 Nuoro
 Samugheo
@@ -343,7 +342,7 @@ Ardara
 Meloni
 Latvia
 Paligsahang
-Pang
+Pang-awitin
 Eurovision
 Bonapartilv
 Pirates
@@ -453,8 +452,7 @@ Thiesi
 Torralba
 Sorres
 Aragones
-Romaniko
-Pisanong
+Romaniko-Pisanong
 San
 Pietro
 Sorres
@@ -708,8 +706,7 @@ Doria
 Noong
 Anglona
 Pimentel
-Tellez
-Giron
+Tellez-Giron
 Codrongianos
 Codronzànu
 Codronzànos
@@ -757,9 +754,7 @@ Iscalas
 Bisantino
 Santa
 Chiara
-Romaniko
-Gotiko
-Aragones
+Romaniko-Gotiko-Aragones
 Cossoine
 Sardo
 Erula
@@ -922,8 +917,7 @@ Nicolò
 Ozieri
 Santa
 Croce
-Bisantino
-Romanikong
+Bisantino-Romanikong
 Ruiu
 Logudoro
 Cerdeña
@@ -992,7 +986,6 @@ Anglona
 Mababang
 Paleolitiko
 Nurahiko
-Nurahiko
 Romanong
 Maraming
 Dolmen
@@ -1038,8 +1031,7 @@ Aragones
 Noong
 Anglona
 Pimentel
-Tellez
-Giron
+Tellez-Giron
 Monteleone
 Rocca
 Doria
@@ -1357,7 +1349,6 @@ Sagradong
 Predio
 Canopoli
 Perfugas
-Sardong
 Bàlari
 Ploaghe
 Sardo
@@ -1375,7 +1366,6 @@ Nulvi
 Osilo
 Siligo
 Ploaghe
-Nurahiko
 Nurahiko
 Maraming
 Truvine
@@ -1452,7 +1442,6 @@ Sacer
 Cerdeña
 Cagliari
 Sacer
-Nurahikong
 Putifigari
 Turritanu
 Logudoro
@@ -1466,8 +1455,7 @@ Domus
 Janas
 Domude
 BK
-Proto
-Sardo
+Proto-Sardo
 Putifigari
 Alghero
 Ittiri
@@ -1525,8 +1513,7 @@ Valledoria
 Viddalba
 Torres
 Doria
-Romaniko
-Gotiko
+Romaniko-Gotiko
 Madonna
 Grazie
 Casteldoria
@@ -1606,8 +1593,7 @@ George
 Arborea
 Tirso
 Cerdeña
-Catalan
-Aragones
+Catalan-Aragones
 Sorso
 Sassarese
 Sòssu
@@ -1791,7 +1777,6 @@ Orune
 Osidda
 Pattada
 Nurahiko
-Nurahiko
 Gitnang
 Kapanahunan
 Torres
@@ -1804,8 +1789,7 @@ Simula
 Aragones
 Monte
 Acuto
-Tellez
-Giron
+Tellez-Giron
 Alcantara
 Cerdeña
 Tula
@@ -1826,6 +1810,7 @@ Pausania
 Tula
 George
 Sodder
+Italyano-Amerikano
 Neolitiko
 Nurahiko
 Sardo
@@ -1862,8 +1847,7 @@ I
 Romanisado
 Kristiyanong
 Paliparang
-Alghero
-Fertilia
+Alghero-Fertilia
 Porto
 Torres
 Uri
@@ -2085,7 +2069,6 @@ Rockefeller
 Foundation
 Ehipto
 Sais
-Hagar
 Ehipto
 Kanlurang
 Nilo
@@ -2294,11 +2277,7 @@ Barrali
 Nurahiko
 Bundok
 Uda
-Muridinas
-Onigu
-Natali
-S'Aruta
-Sant'Elia
+Muridinas-Onigu-Natali-trinidadi-S'Aruta-Sant'Elia
 Nurahiko
 Burcei
 Sardo
@@ -2339,10 +2318,8 @@ Cerdeña
 Italya
 Cagliari
 Itinatag
-Sarrabus
-Gerrei
-Italo
-Tunesico
+Sarrabus-Gerrei
+Italo-Tunesico
 Siciliano
 Bizerte
 Castiadas
@@ -2398,8 +2375,7 @@ Giudicato
 Cagliari
 Kaharian
 Cerdeña
-Aragones
-Español
+Aragones-Español
 Nostra
 Signora
 Grazie
@@ -2469,8 +2445,7 @@ Santadi
 Teulada
 Domus
 Maria
-Fenico
-Punico
+Fenico-Punico
 Bithia
 Nuraghe
 Chia
@@ -2530,8 +2505,7 @@ Seui
 Villaputzu
 Escalaplano
 Maza
-Tellez
-Giron
+Tellez-Giron
 Escalaplano
 Escolca
 Iscroca
@@ -2770,8 +2744,7 @@ Suelli
 DH
 Lawrence
 Frieda
-Queen
-Bee
+Queen-Bee
 Sorgono
 Lawrence
 Sea
@@ -2834,6 +2807,7 @@ Lalawigan
 Timog
 Cerdeña
 Cerdeña
+Italya
 Cagliari
 Sarrabus
 Costa
@@ -2927,7 +2901,6 @@ Serrenti
 Ussana
 Villasor
 Noramine
-Sardo
 Nurri
 Lalawigan
 Timog
@@ -2995,8 +2968,7 @@ Matatagpuan
 San
 Vincenzo
 Martire
-Gotiko
-Aragones
+Gotiko-Aragones
 Kristiyanong
 Orroli
 Pimentel
@@ -3015,7 +2987,6 @@ Barrali
 Guasila
 Ortacesus
 Samatzai
-Nurahika
 Nurahika
 Artale
 Alagón
@@ -3081,8 +3052,7 @@ Sardinia
 Quartu
 Carrefour
 E
-Leclerc
-Conad
+Leclerc-Conad
 Iper
 Sadali
 Cerdeña
@@ -3112,7 +3082,6 @@ Culurgiones
 Ipinagdiriwang
 Culurgionis
 Sadali
-Taun
 Culurgionis
 Sardo
 Samatzai
@@ -3143,7 +3112,6 @@ Samatzai
 Italya
 Juan
 Bautista
-Nurahika
 Nurahika
 Domus
 Janas
@@ -3404,8 +3372,7 @@ Carroz
 Mandas
 Maza
 Saboya
-Tellez
-Giron
+Tellez-Giron
 Seulo
 Seulu
 Wikang
@@ -3467,8 +3434,7 @@ Ballao
 Flumendosa
 Sassai
 Digmaang
-Sardo
-Aragones
+Sardo-Aragones
 Cerdeña
 Pisa
 Aragones
@@ -3595,8 +3561,7 @@ Newcastle
 Britanya
 Italya
 Teulada
-Sulcis
-Iglesiente
+Sulcis-Iglesiente
 Sulcis
 Vallermosa
 Biddaramosa
@@ -3714,8 +3679,7 @@ Cerdeña
 Cagliari
 Villasimius
 BK
-Fenicio
-Cartago
+Fenicio-Cartago
 BK
 BC
 AD
@@ -4138,6 +4102,7 @@ Gimignano
 Siena
 Toscana
 Italya
+Kilala
 Mahuhusay
 San
 Gimignano
@@ -4328,7 +4293,6 @@ Maria
 Montepiano
 Arezzo
 Arezzo
-REH
 Arrētium
 Italya
 Tosacana
@@ -4345,8 +4309,7 @@ Toscana
 Italya
 Arezzo
 Marche
-Emilia
-Romaña
+Emilia-Romaña
 Umbria
 Siena
 Florencia
@@ -4532,9 +4495,7 @@ Valdichiana
 Valdambra
 Bucine
 Toscanang
-Florencia
-Arezzo
-Siena
+Florencia-Arezzo-Siena
 Florencia
 Siena
 Arezzo
@@ -4749,8 +4710,7 @@ Lambak
 Tiber
 Ilog
 Tiber
-Emilia
-Romagna
+Emilia-Romagna
 Bundok
 Fumaiolo
 Roma
@@ -5160,7 +5120,7 @@ Valdarno
 Terranuova
 Poggio
 Bracciolini
-Kathang
+Kathang-isip
 Masakazu
 Katsura
 Weekly
@@ -5184,9 +5144,7 @@ Jump
 Setyembre
 Shueisha
 Kinukuwento
-Wilmersdorf
-Charlottenburg
-Wilmersdorf
+Charlottenburg-Wilmersdorf
 Berlin
 Charlottenburg
 Wilmersdorf
@@ -5198,7 +5156,7 @@ Face
 Bump
 Bump
 Verbal
-M
+M-flo
 Oricon
 Identity
 Oricon
@@ -5318,8 +5276,7 @@ Pistoia
 Kalakhang
 Lungsod
 Florencia
-Emilia
-Romaña
+Emilia-Romaña
 Lalawigan
 Reggio
 Emilia
@@ -5341,10 +5298,8 @@ Garfagnana
 Versilia
 Liwasang
 Pangkalikasan
-Migliarino
-San
-Rossore
-Massaciuccoli
+Migliarino-San
+Rossore-Massaciuccoli
 Viareggio
 Lido
 Camaiore
@@ -5419,8 +5374,7 @@ Ripoli
 Quarto
 Florencia
 Bagno
-Aix
-Bains
+Aix-les-Bains
 Pransiya
 Baden
 Baden
@@ -5950,8 +5904,7 @@ Florencia
 Italyanong
 Toscana
 Florencia
-Emilia
-Romaña
+Emilia-Romaña
 Marradi
 Borgo
 San
@@ -6201,8 +6154,7 @@ Florencia
 Italyanong
 Toscana
 Florencia
-Toscano
-Emiliano
+Toscano-Emiliano
 Apenino
 San
 Godenzo
@@ -6520,8 +6472,7 @@ City
 Kanilang
 JC
 Compound
-Philippine
-Japan
+Philippine-Japan
 Friendship
 Highway
 Catitipan
@@ -6554,8 +6505,7 @@ CATV
 Group
 Of
 Companies
-ABS
-CBN
+ABS-CBN
 SkyCable
 British
 Sky
@@ -6680,8 +6630,7 @@ Tominaga
 Sei
 Kamiya
 Seizaburo
-Mibu
-Roshi
+Mibu-Roshi
 Natatanging
 Pulis
 Shinsengumi
@@ -7340,16 +7289,17 @@ Laprizal
 Castueras
 Sinasaklawan
 NBB
-YES
+YES-O
 Youth
 Environment
 Schools
 Organization
-Pang
+Pang-astropisika
 Crimea
 Obserbatoryong
-Pang
+Pang-astropisika
 Crimea
+Ingles
 Crimean
 Astrophysical
 Observatory
@@ -7365,16 +7315,15 @@ Nauchny
 Simeis
 Simeis
 Obserbatoryong
-Pang
-Crimea
-Simeis
+Pang-astropisika
+Crimea-Simeis
 IAU
 Shinchon
 Sinchon
 Seoul
 Subway
 Line
-Mapo
+Mapo-gu
 Han
 River
 Korea
@@ -7401,7 +7350,7 @@ Sinchon
 Mecca
 Seoul
 Pub
-Gyeonggi
+Gyeonggi-do
 Gyeonggi
 Ilsan
 Gimpo
@@ -7427,8 +7376,7 @@ Wikang
 Bengali
 Bangla
 Bengali
-Indo
-Aryan
+Indo-Aryan
 Timog
 Asya
 Bengal
@@ -7443,11 +7391,9 @@ Baybaying
 Bengali
 Bengali
 Manuel
-Rivera
-Ortiz
+Rivera-Ortiz
 Manuel
-Rivera
-Ortiz
+Rivera-Ortiz
 Pozo
 Hondo
 Guayama
@@ -7487,8 +7433,7 @@ Amerikanong
 Binigyang
 Stoner
 Isabella
-Garcia
-Shapiro
+Garcia-Shapiro
 Phineas
 Ferb
 Disney
@@ -7497,9 +7442,9 @@ Dzongkha
 Wikang
 Dzongkha
 Wylie
-Jong
+Jong-kă
 Ngalopkha
-Tibetano
+Sino-Tibetano
 Bhutan
 Ginagamit
 Tibetano
