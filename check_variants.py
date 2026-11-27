@@ -6,13 +6,13 @@ from groupings import make_groups
 from write_csv import write_csv
 
 counts = {}
-with open('count_words.csv', 'r', newline="", encoding='utf-8') as file:
+with open('csvfiles/count_words.csv', 'r', newline="", encoding='utf-8') as file:
     read_count = csv.DictReader(file)
     for row in read_count:
         # this makes {"word": "opo", "count": 20} = counts["opo"] = 20
         counts[row["word"].strip().lower()] = int(row["count"])
 
-with open('tagalog_word_list.txt', 'r', newline="", encoding='utf-8') as file:
+with open('dataset/dictionary/tagalog_word_list.txt', 'r', newline="", encoding='utf-8') as file:
     dictionary = set(line.strip().lower() for line in file if line.strip())
     
 ALLOWED_SWAPS = {

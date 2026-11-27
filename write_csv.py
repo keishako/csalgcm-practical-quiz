@@ -1,6 +1,6 @@
 import csv
 
-def write_csv(pairs, counts, path="Variants.csv"):
+def write_csv(pairs, counts, path="results/Variants.csv"):
     rows = []
 
     for main_word, other_word, diffs in pairs:

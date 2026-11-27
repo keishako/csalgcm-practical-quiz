@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 import unicodedata
 
-filename = "count_words.csv"
+filename = "csvfiles/count_words.csv"
 
 # each rule: (old, new), order matters
 KEY_RULES = [
@@ -94,7 +94,7 @@ if __name__ == "__main__":
 
     groups = make_groups(words)
 
-    with open("grouped_words.csv", "w", newline="", encoding="utf-8") as f:
+    with open("csvfiles/grouped_words.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["group_id", "word"])
 
