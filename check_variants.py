@@ -90,9 +90,9 @@ if __name__ == "__main__":
 
     runtime = time.perf_counter() - start
 
-    write_variants_csv = write_csv(pairs, counts, "results/variants.csv")
+    write_variants_csv = write_csv(pairs, counts, "variants.csv")
     print(write_variants_csv, "All done!")
-    print("variants.csv is in the results folder")
+    print("variants.csv is created")
 
     print(f"Extraction runtime: {runtime:.2f} seconds")
     print(f"Final accepted variant pairs: {len(pairs):,}")
