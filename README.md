@@ -33,6 +33,7 @@ pip install calamanCy
    5. Run `merge_corpus.py`
   
 ### II. Detecting Tagalog spelling variants
+1. Run `check_variants.py`
 
 
 
