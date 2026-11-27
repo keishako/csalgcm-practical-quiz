@@ -15,7 +15,6 @@ TO DOWNLOAD NLTK:
 # download if nltk words is not downloaded (only run this code only ONCE) -> comment out once downloaded
 nltk.download('words') 
 
-<<<<<<< HEAD
 nlp = calamancy.load("tl_calamancy_md", disable=["tagger", "morphologizer", "trainable_lemmatizer","parser"])  # loads the latest version
 nlp.add_pipe("sentencizer")
 
@@ -23,9 +22,6 @@ nlp.add_pipe("sentencizer")
 # only remove that splits hyphens between letters
 infixes = [rule for rule in nlp.Defaults.infixes if HYPHENS not in rule]
 nlp.tokenizer.infix_finditer = compile_infix_regex(infixes).finditer
-=======
-nlp = calamancy.load("tl_calamancy_md", disable=["tagger", "morphologizer", "trainable_lemmatizer","parser"])  # loads the latest version and removes unnecessary components
->>>>>>> 8216836a1b9fc627ee36ae472dbc2dcc742fc2a7
 
 # used dictionary_set.py
 with open("dataset/dictionary/tagalog_word_list.txt", "r", encoding="utf-8") as file:
