@@ -2,6 +2,9 @@
 Practical Quiz: Detecting Spelling Variants  
 Authors: Keisha Ko and Jeannine Ledesma
 
+Credits:  
+* Miranda, L. J. (2023). CalamanCY: A Tagalog natural language processing toolkit. In Workshop for NLP Open Source Software (NLP-OSS) (pp. 1–7). https://doi.org/10.18653/v1/2023.nlposs-1.1
+
 ## How to run:
 
 ### I. (OPTIONAL) Cleaning and extracting from the raw text file
